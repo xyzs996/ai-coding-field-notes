@@ -1,0 +1,397 @@
+# Every figure we published, with the sentence it came from
+
+250 figures pulled out of 24 write-ups in
+[ai-coding-field-notes](https://github.com/xyzs996/ai-coding-field-notes) — prices, percentages, multiples, token counts and durations, each
+with the full sentence it appeared in and a link to the piece.
+
+**Why the sentence is in the table.** A number on its own is not
+checkable. `$1.43` could be per million tokens, per month, or per
+seat. The sentence is quoted verbatim from the published piece, not
+summarised, so you can judge it without taking our word for it.
+
+**Machine-readable.**
+
+```
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv
+```
+
+Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `context`, `article`,
+`url`.
+
+Served over jsDelivr, which caches `@main` for up to 12 hours —
+the table is rebuilt at most once a day, so that is close enough.
+Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.json`.
+
+**Found one that is wrong or stale?** That is the point —
+[open an issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new).
+
+## [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `10,000 tokens` | tokens | This strategy revolves around using tools like OmniRoute, which aggregates 237 providers, compressing 10,000 tokens to 1080 through RTK+Caveman technology. |
+| `$0.19` | price | Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. |
+| `$5` | price | Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. |
+| `$1` | price | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
+| `10%` | percent | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
+| `20%` | percent | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
+| `10%` | percent | In contrast, top-tier American models only have a gross profit margin of 10% - 25% of that of these Chinese models, yet they still manage to maintain a positive gross profit. |
+| `25%` | percent | In contrast, top-tier American models only have a gross profit margin of 10% - 25% of that of these Chinese models, yet they still manage to maintain a positive gross profit. |
+| `$0.06` | price | It offers a price range of $0.06-0.2 per million tokens, targeting global small and medium-sized enterprises and individual users. |
+| `60%` | percent | An impressive 60% - 70% of its revenue comes from overseas, and the peak-time pricing mechanism boosts revenue further. |
+| `70%` | percent | An impressive 60% - 70% of its revenue comes from overseas, and the peak-time pricing mechanism boosts revenue further. |
+| `400-token` | tokens | Anthropic's 400-token SKILL.md file, through its "two-pass workflow" and specific aesthetic guidance, has achieved over 1 million installations, proving that aesthetic direction is more useful than mere tool innovation. |
+| `80%` | percent | Claude Code's team discovered that removing 80% of system prompts actually improved programming performance, revealing how excessive model constraints can hinder rather than help AI effectiveness. |
+| `20%` | percent | ChatGPT Work's user profile is projected to shift from 20% non-programmers to 60% within 12 months, showing its growing appeal across different professional backgrounds. |
+| `60%` | percent | ChatGPT Work's user profile is projected to shift from 20% non-programmers to 60% within 12 months, showing its growing appeal across different professional backgrounds. |
+| `12 months` | duration | ChatGPT Work's user profile is projected to shift from 20% non-programmers to 60% within 12 months, showing its growing appeal across different professional backgrounds. |
+| `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
+| `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
+| `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](https://xyzs996.github.io/ai-coding-field-notes/articles/the-cost-effective-guide-to-using-open-code-review-for-ai.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `95%` | percent | That 95% export-issue figure gets quoted everywhere. |
+| `60%` | percent | It integrates with GitHub Actions and CircleCI, and its structured review comments cut false positives by 60% — which is the number I'd actually optimize for, because a review tool that cries wolf gets muted inside a week, and a muted tool reviews nothing at all while still showing green on every dashboard I own. |
+
+## [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://xyzs996.github.io/ai-coding-field-notes/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `10,000 tokens` | tokens | OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free tokens a month, and that figure is arithmetic rather than a promotion, because the RTK+Caveman layer compresses 10,000 tokens down to 1,080, and a free quota multiplied by about 10 is exactly what a ratio like that buys you. |
+| `54%` | percent | Sol is the heavy one, with a claimed 54% better token efficiency than models at the same level and an Ultra mode that runs 4 sub-agents in parallel. |
+| `95%` | percent | Luna answers fastest, hits 95% accuracy on basic question answering, and costs the least per batch. |
+| `$1.43` | price | One front-end benchmark put GPT-5.6 Sol at $1.43 per run against $9.05 for Fable 5. |
+| `$9.05` | price | One front-end benchmark put GPT-5.6 Sol at $1.43 per run against $9.05 for Fable 5. |
+| `6x` | multiple | A 6x spread on a single evaluation is the kind of gap that should decide your default long before a free quota does. |
+| `2 hours 41 minutes 35 seconds` | duration | Sol's Ultra mode took 2 hours 41 minutes 35 seconds to build one detailed 3D scene, running its sub-agents in parallel the whole time, and a run of that length is not something a fallback can politely interrupt halfway through. |
+| `24 hours` | duration | Sales staff using ChatGPT Work reportedly turned a CRM export into a technical proposal in 24 hours, work that had previously taken weeks, with something on the order of 70% of the time removed. |
+| `70%` | percent | Sales staff using ChatGPT Work reportedly turned a CRM export into a technical proposal in 24 hours, work that had previously taken weeks, with something on the order of 70% of the time removed. |
+| `20%` | percent | One projection has non-coding users going from 20% of that product's base to 60% within 12 months. |
+| `60%` | percent | One projection has non-coding users going from 20% of that product's base to 60% within 12 months. |
+| `12 months` | duration | One projection has non-coding users going from 20% of that product's base to 60% within 12 months. |
+| `$1` | price | Top-tier Chinese models such as GLM5.2 and DeepSeek V4 Pro sit near $1 per million tokens at inference gross margins of 10% to 20%. |
+| `10%` | percent | Top-tier Chinese models such as GLM5.2 and DeepSeek V4 Pro sit near $1 per million tokens at inference gross margins of 10% to 20%. |
+| `20%` | percent | Top-tier Chinese models such as GLM5.2 and DeepSeek V4 Pro sit near $1 per million tokens at inference gross margins of 10% to 20%. |
+| `$0.06` | price | At the low end, MiniMax M3 runs $0.06 to $0.2 per million and draws 60% to 70% of its revenue from outside its home market. |
+| `$0.2` | price | At the low end, MiniMax M3 runs $0.06 to $0.2 per million and draws 60% to 70% of its revenue from outside its home market. |
+| `60%` | percent | At the low end, MiniMax M3 runs $0.06 to $0.2 per million and draws 60% to 70% of its revenue from outside its home market. |
+| `70%` | percent | At the low end, MiniMax M3 runs $0.06 to $0.2 per million and draws 60% to 70% of its revenue from outside its home market. |
+| `$0.06` | price | A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. |
+| `$1` | price | A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. |
+| `16x` | multiple | A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. |
+| `$1.25` | price | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. |
+| `$4.25` | price | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. |
+| `75%` | percent | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. |
+| `83%` | percent | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. |
+| `9x` | multiple | Nothing in a routing layer gets you a 9x reduction. |
+
+## [58 Million Plays Started With One Account, Not Four](https://xyzs996.github.io/ai-coding-field-notes/articles/58-million-plays-started-with-one-account-not-four.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `95%` | percent | Across the 4 zero-budget cases in the source material, roughly 95% of users arrived through content rather than paid acquisition. |
+| `15%` | percent | One published pipeline reports moving completion rates from a typical 15% to 20% band up past 60%, using competitor teardowns to set the target, a distilled voice to keep the output consistent, a de-AI pass on the fingerprints, and a quality gate that blocks anything below the bar from going out at all. |
+| `20%` | percent | One published pipeline reports moving completion rates from a typical 15% to 20% band up past 60%, using competitor teardowns to set the target, a distilled voice to keep the output consistent, a de-AI pass on the fingerprints, and a quality gate that blocks anything below the bar from going out at all. |
+| `60%` | percent | One published pipeline reports moving completion rates from a typical 15% to 20% band up past 60%, using competitor teardowns to set the target, a distilled voice to keep the output consistent, a de-AI pass on the fingerprints, and a quality gate that blocks anything below the bar from going out at all. |
+| `3 months` | duration | StoryShort matched, in 3 months, the revenue that an established B2B tool took 2 years to build, with Stripe records showing about $22,000 a month and cumulative revenue approaching $500,000. |
+| `2 years` | duration | StoryShort matched, in 3 months, the revenue that an established B2B tool took 2 years to build, with Stripe records showing about $22,000 a month and cumulative revenue approaching $500,000. |
+| `$22,000` | price | StoryShort matched, in 3 months, the revenue that an established B2B tool took 2 years to build, with Stripe records showing about $22,000 a month and cumulative revenue approaching $500,000. |
+| `$500,000` | price | StoryShort matched, in 3 months, the revenue that an established B2B tool took 2 years to build, with Stripe records showing about $22,000 a month and cumulative revenue approaching $500,000. |
+| `$1.2 million` | price | It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days. |
+| `11%` | percent | It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days. |
+| `30 days` | duration | It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days. |
+| `$63,000` | price | Jordan's Resellbot started as 30 lines of JavaScript written because his partner was manually reposting listings every day, and it now runs at roughly $63,000 a month, which probably says more about picking a visible problem than about any distribution tactic. |
+
+## [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](https://xyzs996.github.io/ai-coding-field-notes/articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$500` | price | Using AI tools to batch generate local SEO content reduces development costs for independent developers, accelerating website ranking on Google, after which the optimized site can be rented to local businesses for monthly revenue ranging from $500 to $3,000. |
+| `$3,000` | price | Using AI tools to batch generate local SEO content reduces development costs for independent developers, accelerating website ranking on Google, after which the optimized site can be rented to local businesses for monthly revenue ranging from $500 to $3,000. |
+| `5 minutes` | duration | WorkBuddy and BrowserAct combination allows sellers to generate a competitive pricing report in just 5 minutes. |
+| `$10,000` | price | Sam Shore's experience with Typeshare, which shows how sharing equity with KOLs can accelerate growth, is a prime example; by granting three-fifths of his company's stock to two influential figures, he achieved a remarkable increase in monthly revenue, jumping from $10,000 to $15,000 in only 30 days. |
+| `$15,000` | price | Sam Shore's experience with Typeshare, which shows how sharing equity with KOLs can accelerate growth, is a prime example; by granting three-fifths of his company's stock to two influential figures, he achieved a remarkable increase in monthly revenue, jumping from $10,000 to $15,000 in only 30 days. |
+| `30 days` | duration | Sam Shore's experience with Typeshare, which shows how sharing equity with KOLs can accelerate growth, is a prime example; by granting three-fifths of his company's stock to two influential figures, he achieved a remarkable increase in monthly revenue, jumping from $10,000 to $15,000 in only 30 days. |
+| `$150` | price | The math only works if you sell 18 products at $150 each, every day. |
+| `$150` | price | Resellbot's pricing model at $150 per product aligns with industry benchmarks for automation tools, ensuring competitiveness in the Micro-SaaS market. |
+| `$6.3K` | price | The $6.3K/month revenue shows that even with modest pricing, the tool captures meaningful demand in the Poshmark automation niche. |
+| `18 months` | duration | Resellbot took 18 months to reach profitability. |
+
+## [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](https://xyzs996.github.io/ai-coding-field-notes/articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `5x` | multiple | A developer in China’s AI community achieved 5x productivity gains using loop engineering, reducing MVP development time from four prompt tuning sessions to a single command installation. |
+| `74%` | percent | This method automates repetitive tasks and integrates complex workflows, as seen in Marvy 2.0’s 74% optimization efficiency improvement. |
+| `5x` | multiple | Last week, a developer in the Chinese AI community shared groundbreaking results using "loop engineering" to boost AI agent efficiency by 5x. |
+| `40 seconds` | duration | One implementation reduced average response times from hours to 40 seconds and increased transaction volumes by 50%, showing the tangible business benefits of loop engineering. |
+| `50%` | percent | One implementation reduced average response times from hours to 40 seconds and increased transaction volumes by 50%, showing the tangible business benefits of loop engineering. |
+| `74%` | percent | By consolidating market insight, media strategy, creative generation, smart deployment, and data analysis into a unified system, it achieved a 74% improvement in optimization efficiency and reduced manual labor by 89%. |
+| `89%` | percent | By consolidating market insight, media strategy, creative generation, smart deployment, and data analysis into a unified system, it achieved a 74% improvement in optimization efficiency and reduced manual labor by 89%. |
+| `89%` | percent | I don’t buy the 89% claim. |
+| `8 hours` | duration | This system reduced manual processing time from 8 hours to minutes while improving content organization quality. |
+| `20%` | percent | The retention rate improved from 20% to 35%, with natural search traffic accounting for 48% and user sessions making up 88% of the total. |
+| `35%` | percent | The retention rate improved from 20% to 35%, with natural search traffic accounting for 48% and user sessions making up 88% of the total. |
+| `48%` | percent | The retention rate improved from 20% to 35%, with natural search traffic accounting for 48% and user sessions making up 88% of the total. |
+| `88%` | percent | The retention rate improved from 20% to 35%, with natural search traffic accounting for 48% and user sessions making up 88% of the total. |
+
+## [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](https://xyzs996.github.io/ai-coding-field-notes/articles/ai-programming-tool-selection-strategy-from-rapid.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `70%` | percent | Meanwhile ChatGPT Work saves non-technical staff up to 70% of their time on cross-application tasks, and those same people would get nothing out of an IDE. |
+| `70%` | percent | They need the 70% time saving, and they need it without a repository. |
+| `70%` | percent | The 70% figure is real for the finance analyst pulling numbers across four applications, and it is close to meaningless for the person maintaining a service, because their bottleneck was never the typing. |
+
+## [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](https://xyzs996.github.io/ai-coding-field-notes/articles/ai-generated-local-business-websites-don-t-rent-for-3-000.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$500` | price | You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. |
+| `$3,000` | price | You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. |
+| `90%` | percent | The claim leaves out the gap: 90% of beginners quit during the first 90–180 days because traffic never arrives and the invoices never land. |
+| `180 days` | duration | The claim leaves out the gap: 90% of beginners quit during the first 90–180 days because traffic never arrives and the invoices never land. |
+| `$3,000` | price | High-ticket services in low-competition cities often sit at the $3,000 end for websites that actually deliver customers. |
+| `$22,000` | price | Their Stripe records show $22,000 a month, proving that patience with organic strategies pays off. |
+| `7 minutes` | duration | Similarly, WorkBuddy and BrowserAct can automate competitor price tracking and generate product opportunity reports in under 7 minutes — something to put in front of a skeptical client while the sandbox clock runs. |
+| `90%` | percent | This approach has been validated by knowledge-based monetization experts, who emphasize that 90% of AI-generated articles fail due to low completion rates, but those using personality distillation and anti-AI fingerprinting techniques achieve 60%+ completion rates. |
+| `60%` | percent | This approach has been validated by knowledge-based monetization experts, who emphasize that 90% of AI-generated articles fail due to low completion rates, but those using personality distillation and anti-AI fingerprinting techniques achieve 60%+ completion rates. |
+| `$500` | price | The fastest documented case landed the first $500/month client at 12 weeks. |
+| `12 weeks` | duration | The fastest documented case landed the first $500/month client at 12 weeks. |
+| `$500` | price | If more than five paid ads appear above the organic results, the cost per lead will outstrip your $500–$3,000 margin. |
+| `$3,000` | price | If more than five paid ads appear above the organic results, the cost per lead will outstrip your $500–$3,000 margin. |
+| `$0` | price | Outreach: $0 if you send the emails yourself; a monthly fee once you automate with Lemlist |
+| `2 hours` | duration | - Month 4+: 2 hours/week for maintenance |
+
+## [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](https://xyzs996.github.io/ai-coding-field-notes/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `70%` | percent | Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF data extraction to PPT report generation, cutting document processing time by 70%. |
+| `2 hours` | duration | One developer processed 200 PDFs in 2 hours, a faster improvement in efficiency compared to the manual process, which would typically take 10 hours. |
+| `10 hours` | duration | One developer processed 200 PDFs in 2 hours, a faster improvement in efficiency compared to the manual process, which would typically take 10 hours. |
+
+## [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](https://xyzs996.github.io/ai-coding-field-notes/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `60 percent` | percent | Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requires, not from the price per token. |
+| `$1` | price | Here is what thinking depth costs in practice, why project context rather than generated code drives most of the bill, and what the $1-per-million tier tells you about where this market is heading. |
+| `60 percent` | percent | Microsoft's testing puts that effect at roughly 60 percent of the observed cost spread, which makes it the dominant term and the unit price the correction. |
+| `60 percent` | percent | A 60 percent price advantage measured on an isolated function can disappear entirely in a real repository, because the cheap model reads the same context the expensive one does and then needs another round to get it right. |
+| `400 tokens` | tokens | Anthropic's SKILL.md file runs about 400 tokens, uses a two-pass approach with specific aesthetic guidance, and has passed 1.08 million installations. |
+| `400-token` | tokens | A 400-token file at that install count is worth staring at for a moment, because it says the effective intervention was guidance rather than tooling, and it cost almost nothing per call to apply. |
+| `$1` | price | DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin. |
+| `20 percent` | percent | DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin. |
+| `900 million tokens` | tokens | MonkeyCode's free tier includes 900 million tokens, which is more than most competing coding tools offer and more than a solo developer working normally will exhaust. |
+| `$19 billion` | price | Anthropic signed a data center lease reported at $19 billion, which is the kind of commitment that only makes sense if compute, not model architecture, is the constraint that decides who is still standing in five years. |
+| `$1` | price | My reading, and I could be wrong about the timing, is that the $1 tier holds while that build-out is being financed and that the pressure surfaces later as capacity limits rather than as price rises. |
+| `$19 billion` | price | Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months. |
+| `12 months` | duration | Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months. |
+
+## [Choosing the Right AI Model for Coding: Cost vs. Efficiency](https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$9.05` | price | Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects. |
+| `41.2%` | percent | Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects. |
+| `$1.43` | price | In contrast, GPT-5.6 Sol, at $1.43 per run, achieves 43.1% accuracy in the same tests, suggesting that while cheaper models may save money upfront, they often result in longer, more costly development processes. |
+| `43.1%` | percent | In contrast, GPT-5.6 Sol, at $1.43 per run, achieves 43.1% accuracy in the same tests, suggesting that while cheaper models may save money upfront, they often result in longer, more costly development processes. |
+| `$9.05` | price | The most affordable AI model option, Fable 5, costs just $9.05 per run, but delivers only 41.2% accuracy in React projects. |
+| `41.2%` | percent | The most affordable AI model option, Fable 5, costs just $9.05 per run, but delivers only 41.2% accuracy in React projects. |
+| `$1.43` | price | For instance, GPT-5.6 Sol, while more expensive at $1.43 per run, shows superior performance with a 43.1% accuracy rate in the same ReactBench tests, which shows that cheaper models may save money upfront but can lead to longer development cycles due to frequent errors and rework. |
+| `43.1%` | percent | For instance, GPT-5.6 Sol, while more expensive at $1.43 per run, shows superior performance with a 43.1% accuracy rate in the same ReactBench tests, which shows that cheaper models may save money upfront but can lead to longer development cycles due to frequent errors and rework. |
+| `65.3%` | percent | A study found that 65.3% of AI-generated code passed functional tests but still introduced bugs that React Doctor caught, highlighting how even high-end models may not guarantee flawless results. |
+| `2x` | multiple | Low-cost models like Fable 5 introduce bugs that cost 2x more in rework time. |
+| `77.5%` | percent | The 77.5% failure rate in React projects means you'll spend more time fixing errors than actually coding. |
+| `54%` | percent | 54% higher token efficiency for complex tasks |
+| `54%` | percent | The 54% token efficiency gain means developers can complete more complex tasks with the same budget. |
+| `$3` | price | The $3 per million input tokens price point means developers should carefully evaluate whether the premium model's capabilities justify the increased costs for their specific use cases. |
+| `43.1%` | percent | ReactBench tests showed that GPT 5.6 Sol and Fable 5 had Pass@1 scores of only 43.1% and 41.2% respectively, indicating problems in real-world React projects. |
+| `41.2%` | percent | ReactBench tests showed that GPT 5.6 Sol and Fable 5 had Pass@1 scores of only 43.1% and 41.2% respectively, indicating problems in real-world React projects. |
+| `20%` | percent | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
+| `60%` | percent | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
+| `12 months` | duration | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
+
+## [From AI Demo to Product: Loop Engineering for Indie Devs](https://xyzs996.github.io/ai-coding-field-notes/articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `5 minutes` | duration | WorkBuddy + BrowserAct combination delivers competitor price lists in 5 minutes and product opportunity reports in 7 minutes. |
+| `7 minutes` | duration | WorkBuddy + BrowserAct combination delivers competitor price lists in 5 minutes and product opportunity reports in 7 minutes. |
+| `40 seconds` | duration | By using an AI agent to automate responses, negotiation, and price adjustment, the average response time can be reduced to within 40 seconds. |
+| `7 days` | duration | API keys rotate every 7 days via /hook-triggered management. |
+| `30 Days` | duration | 30 Days: Task Identification — Use SimilarWeb to validate demand for automation, then identify 3 to 5 repeatable tasks such as blog drafts or data scraping. |
+
+## [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-developers-are-using-codex-record-replay-to.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `80 percent` | percent | The claimed reduction in manual effort is 80 percent, and the feature is explicitly not built for enterprise-scale workflows. |
+| `4 hours` | duration | He used OpenAI Codex's Record & Replay to automate monthly report generation, taking it from 4 hours to a few minutes. |
+| `80%` | percent | The skill automates the workflow, reducing manual effort by 80%, and adapts to different document formats and storage options. |
+| `80 percent` | percent | Most of what feels repetitive in a week does not, which is why the 80 percent figure describes a narrow slice of the work rather than 80 percent of anyone's day. |
+| `80 percent` | percent | The 80 percent figure should probably travel too, with the caveat that it applies to the recorded slice and not the day. |
+
+## [How to Build a Micro-SaaS Without Spending a Dime on Ads](https://xyzs996.github.io/ai-coding-field-notes/articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$10,000` | price | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. |
+| `$15,000` | price | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. |
+| `30 days` | duration | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. |
+
+## [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](https://xyzs996.github.io/ai-coding-field-notes/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `900 million tokens` | tokens | MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read. |
+| `900 million tokens` | tokens | The free allocation is what people notice, since 900 million tokens is well beyond what most competing tools give away and beyond what a solo developer exhausts in normal work. |
+| `900 million tokens` | tokens | Which means the honest answer to "how long does 900 million tokens last" is that it depends on your repository rather than on your discipline. |
+| `80 percent` | percent | Track consumption from the first week rather than from the first warning at 80 percent. |
+
+## [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](https://xyzs996.github.io/ai-coding-field-notes/articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `2 hours` | duration | An administrative staff member cut sales data reporting from 2 hours to 5 minutes with an automated daily data pull. |
+| `5 minutes` | duration | An administrative staff member cut sales data reporting from 2 hours to 5 minutes with an automated daily data pull. |
+| `2 hours` | duration | 2 hours down to 5 minutes is the headline, and it is not the interesting part. |
+| `5 minutes` | duration | 2 hours down to 5 minutes is the headline, and it is not the interesting part. |
+| `3 hours` | duration | Newsletter creation dropped from 3 hours to 15 minutes once research, writing, and distribution were packaged together, which is the same 12-to-1 compression the reporting case showed and probably not a coincidence, since both were sequences of small handoffs rather than single hard problems. |
+| `15 minutes` | duration | Newsletter creation dropped from 3 hours to 15 minutes once research, writing, and distribution were packaged together, which is the same 12-to-1 compression the reporting case showed and probably not a coincidence, since both were sequences of small handoffs rather than single hard problems. |
+| `87 percent` | percent | MCP connectors reduced manual data handling time by 87 percent in the cases that used them. |
+| `4 hours` | duration | Analysts cut Power BI debugging from 4 hours to 5 minutes using built-in modeling skills that generated correct DAX formulas, and customer service response times fell from 1 hour to 3 minutes once agents could read and update CRM records directly. |
+| `5 minutes` | duration | Analysts cut Power BI debugging from 4 hours to 5 minutes using built-in modeling skills that generated correct DAX formulas, and customer service response times fell from 1 hour to 3 minutes once agents could read and update CRM records directly. |
+| `1 hour` | duration | Analysts cut Power BI debugging from 4 hours to 5 minutes using built-in modeling skills that generated correct DAX formulas, and customer service response times fell from 1 hour to 3 minutes once agents could read and update CRM records directly. |
+| `3 minutes` | duration | Analysts cut Power BI debugging from 4 hours to 5 minutes using built-in modeling skills that generated correct DAX formulas, and customer service response times fell from 1 hour to 3 minutes once agents could read and update CRM records directly. |
+| `87 percent` | percent | The 87 percent figure and those two cases are measuring the same thing from different angles, which is time spent moving data by hand between a system that knows the answer and a system that needs it. |
+| `3 weeks` | duration | Average time from concept to full production deployment was about 2 to 3 weeks. |
+| `3 weeks` | duration | If your work is mostly one-off, the components that make repetition cheap are solving a problem you do not have, and those 2 to 3 weeks are better spent elsewhere. |
+
+## [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](https://xyzs996.github.io/ai-coding-field-notes/articles/the-ai-branding-revolution-how-indie-developers-are.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `90%` | percent | AI branding tools like Miora let indie developers cut design costs by 90%. |
+
+## [The First Line of Defense in AI Programming: Environment Variable Management](https://xyzs996.github.io/ai-coding-field-notes/articles/the-first-line-of-defense-in-ai-programming-environment.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `10 minutes` | duration | The mechanics are unglamorous and take about 10 minutes on a project that does not exist yet. |
+| `6 hours` | duration | 10 lines of validation buys back an hour of debugging the first time it fires, and probably 5 or 6 hours across a year on a project with 3 or 4 deployment environments, which is a return most refactors cannot match. |
+| `10 minutes` | duration | Setting this up takes 10 minutes on a new project and rather longer on an existing one, which is why people put it off. |
+
+## [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](https://xyzs996.github.io/ai-coding-field-notes/articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `95%` | percent | Luna's 95% accuracy rate at 1/3 the cost of Terra shows how much you can save by making the right choice. |
+| `3x` | multiple | Terra requires 3x more tokens for equivalent tasks, and its 800ms response time makes it far less efficient for time-sensitive applications. |
+| `95%` | percent | Terra's document processing capabilities might seem cost-effective initially, but Luna's 95% accuracy on basic QA tasks and faster response times mean fewer errors and rework, whereas Terra's higher failure rate on complex tasks can lead to time wasted fixing mistakes, and Luna's superior accuracy and reliability make it a better long-term choice, even though Terra often requires more tokens for similar tasks. |
+| `95%` | percent | For example, Luna's 95% accuracy rate for basic questions drops when faced with more complex queries, and Terra's document analysis accuracy can vary depending on document structure and content. |
+| `20%` | percent | Open Code Review requires 1/9th the tokens of standard agents and offers a 20% higher accuracy rate. |
+| `95%` | percent | For example, Luna's 95% accuracy in basic Q&A is great for customer service, but the error correction time can be a drawback. |
+| `2x` | multiple | Terra's ability to extract all data is ideal for document processing, but its 2x token usage may be a concern for large-scale projects. |
+| `95%` | percent | Luna's 95% accuracy rate for basic questions makes it ideal for simple tasks, while Terra's strength shows up in document analysis and more complex scenarios. |
+| `2x` | multiple | Luna takes less developer time, which shows how much more efficient it is overall, and Terra's 2x more tokens for equivalent tasks adds up quickly in larger projects. |
+| `95%` | percent | Luna's 95% accuracy rate reduces rework costs, and Terra's higher token costs add up over time. |
+| `9 token` | tokens | Open Code Review's 1/9 token consumption advantage over general-purpose agents translates to large cost savings for development teams. |
+| `6 months` | duration | A mid-sized e-commerce company cut its model spend over 6 months. |
+
+## [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](https://xyzs996.github.io/ai-coding-field-notes/articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$40 million` | price | Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading the CEO to admit they "went too far" with automation after 12 months. |
+| `12 months` | duration | Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading the CEO to admit they "went too far" with automation after 12 months. |
+| `12 months` | duration | Quality degradation typically appears 6-12 months after full automation—long after the press releases have been sent. |
+
+## [Token Optimization for Indie Developers' AI API Bills](https://xyzs996.github.io/ai-coding-field-notes/articles/token-optimization-for-indie-developers-ai-api-bills.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `10 minutes` | duration | 10 minutes of consolidation on a calm afternoon converts that outage into a 1-line change. |
+| `10,000 tokens` | tokens | Long coding sessions push entire directory trees into the prompt on every iteration, so gateways have started applying compression algorithms such as RTK and Caveman, which OmniRoute reports can shrink 10,000 tokens to 1,080. |
+| `10,000-token` | tokens | Compression numbers are measured on the payloads that compress best, and a 10,000-token blob of repeated boilerplate is not the same as 10,000 tokens of dense, unique source. |
+| `10,000 tokens` | tokens | Compression numbers are measured on the payloads that compress best, and a 10,000-token blob of repeated boilerplate is not the same as 10,000 tokens of dense, unique source. |
+| `9x` | multiple | Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. |
+| `3,000 tokens` | tokens | It comes from a system prompt of 3,000 tokens replayed on every one of 40 turns in an agent loop, or from a file-tree dump the editor attaches whether or not the current question touches those files. |
+
+## [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](https://xyzs996.github.io/ai-coding-field-notes/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$4 million` | price | Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. |
+| `99.96 percent` | percent | Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. |
+| `$4 million` | price | Klarna ran that sequence backwards, and the $4 million showed up on the books months before the CSAT number showed up to argue with it. |
+| `$4 million` | price | The company reported $4 million in annual savings after the switch, which is the number that frees up budget for everything else on the roadmap. |
+| `99.96%` | percent | The AI held a 99.96% conversation engagement rate, level with what the human agents had been delivering, and that consistency is what customer retention runs on. |
+| `68%` | percent | Six months after Klarna’s rollout, customer satisfaction scores fell to 68%. |
+| `10%` | percent | In 10% of cases it misclassified a complaint as a simple issue and left a customer waiting on a resolution that was never coming, and another 18% of the cases that did get escalated were mishandled after the handoff. |
+| `18%` | percent | In 10% of cases it misclassified a complaint as a simple issue and left a customer waiting on a resolution that was never coming, and another 18% of the cases that did get escalated were mishandled after the handoff. |
+| `99.96%` | percent | The 99.96% engagement rate says it could hold up the interaction volume; the 18% conversion rate says the emotional read was missing. |
+| `18%` | percent | The 99.96% engagement rate says it could hold up the interaction volume; the 18% conversion rate says the emotional read was missing. |
+| `10%` | percent | Complaints about "cold responses" rose 10%, which is the number that told them a transactional bot was not going to carry a long-term relationship. |
+| `68%` | percent | A CSAT of 68% is what that looks like from the outside: the queries still get answered, and the people asking them stop believing the answers. |
+| `10%` | percent | The 10% misclassified as simple and the 18% mishandled after escalation are both routing errors with a paper trail. |
+| `18%` | percent | The 10% misclassified as simple and the 18% mishandled after escalation are both routing errors with a paper trail. |
+| `22%` | percent | Klarna’s hybrid model steered customers to human agents automatically when the AI detected emotional distress or a policy exception, and that, paired with clear handoff protocols, lifted first-contact resolution by 22%. |
+| `10%` | percent | Klarna’s AI now handles the simple issues and a human agent audits 10% of escalated cases weekly, which holds quality while cutting costs by 60%. |
+| `60%` | percent | Klarna’s AI now handles the simple issues and a human agent audits 10% of escalated cases weekly, which holds quality while cutting costs by 60%. |
+| `60%` | percent | What the ladder bought Klarna was the 60% cost reduction without the service collapse, and the reason it held is that each rung was allowed to fail cheaply before the next one got built. |
+| `10%` | percent | One A/B test cuts against the intuition here: the blunter, more pressuring script was the one that lifted lead conversion from 10% to 18%, not the gentler one. |
+| `18%` | percent | One A/B test cuts against the intuition here: the blunter, more pressuring script was the one that lifted lead conversion from 10% to 18%, not the gentler one. |
+| `$4 million` | price | This is one company, one quarter, and Klarna had reasons to publish both the $4 million and the retraction that have nothing to do with what works for a team of one. |
+| `10%` | percent | Klarna's 10% and 18% are exactly those two counters, and they are the only numbers in this story that would have predicted the rehiring before it happened. |
+| `18%` | percent | Klarna's 10% and 18% are exactly those two counters, and they are the only numbers in this story that would have predicted the rehiring before it happened. |
+
+## [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](https://xyzs996.github.io/ai-coding-field-notes/articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `1,000 tokens` | tokens | Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it. |
+| `1,000 tokens` | tokens | Under 1,000 tokens for the prompt and all 4 tool descriptions is roughly the length of this section, and every token you save there is a token available for the actual problem. |
+| `1,000 tokens` | tokens | The fourth is not a tool so much as an escape hatch to the entire operating system, and it is doing the work that 20 tools would do in a larger framework, which is exactly why the total comes in under 1,000 tokens. |
+| `1,000 tokens` | tokens | That is arguably the correct decision for Pi, since guided discovery is exactly the kind of thing that costs tokens in the system prompt, and the whole premise here is that the prompt stays under 1,000 tokens. |
+
+## [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html)
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `60 seconds` | duration | The videos run about 60 seconds. |
+| `95 percent` | percent | The developer posts 3 to 5 a week across several platforms, mostly product demos and short tutorials, and 95 percent of the users arrive through that organic content rather than through anything paid. |
+| `95 percent` | percent | The 95 percent is the number worth being suspicious of, and the 12 hours a week behind it is the number worth doing arithmetic on. |
+| `12 hours` | duration | The 95 percent is the number worth being suspicious of, and the 12 hours a week behind it is the number worth doing arithmetic on. |
+| `60 seconds` | duration | The videos are around 60 seconds, the format is product demonstrations and concise tutorials, and the cadence is 3 to 5 a week across YouTube and TikTok. |
+| `95 percent` | percent | A 95 percent organic share is not implausible for a product with no ad budget, because when the denominator contains no paid traffic at all, organic wins by default. |
+| `95 percent` | percent | A product with 200 users and a product with 200,000 can both report 95 percent organic, and the strategy that produced the first one is not evidence for anything. |
+| `2 hours` | duration | Editing takes about 2 hours per 60-second video, including AI-assisted effects and transitions. |
+| `12 hours` | duration | The overall commitment is roughly 12 hours a week on video creation and platform management, and AI tools cut the scripting and editing time by about 30 percent. |
+| `30 percent` | percent | The overall commitment is roughly 12 hours a week on video creation and platform management, and AI tools cut the scripting and editing time by about 30 percent. |
+| `2 hours` | duration | Four videos a week at 2 hours each is 8 hours of editing before anyone has written a script, answered a comment, or looked at an analytics dashboard, which leaves about 4 hours for everything else in a 12-hour budget. |
+| `8 hours` | duration | Four videos a week at 2 hours each is 8 hours of editing before anyone has written a script, answered a comment, or looked at an analytics dashboard, which leaves about 4 hours for everything else in a 12-hour budget. |
+| `4 hours` | duration | Four videos a week at 2 hours each is 8 hours of editing before anyone has written a script, answered a comment, or looked at an analytics dashboard, which leaves about 4 hours for everything else in a 12-hour budget. |
+| `30 percent` | percent | It is a part-time job attached to the product, and the 30 percent that AI tools give back is the difference between it being sustainable and it quietly stopping in week six. |
+| `60 percent` | percent | Roughly 60 percent of the video content gets reused across platforms, cutting production time by about 40 percent, and the reused clips hold engagement rates comparable to the originals. |
+| `40 percent` | percent | Roughly 60 percent of the video content gets reused across platforms, cutting production time by about 40 percent, and the reused clips hold engagement rates comparable to the originals. |
+| `40 percent` | percent | If repurposed content performed noticeably worse, the 40 percent saving would be an illusion, since you would need more posts to get the same result. |
+| `3.5 hours` | duration | An independent developer automated an entire publishing workflow using two AI skills, shiwen and ai-wechat-publisher, going from topic selection to a finished draft in under 3.5 hours. |
+| `3.5 hours` | duration | Under 3.5 hours is a believable number precisely because it is unremarkable. |
+| `5 minutes` | duration | WorkBuddy and BrowserAct together generate a complete competitor price list in about 5 minutes and a product opportunity report in about 7, which replaces the browser-tab afternoon that most solo developers either do badly or skip entirely. |
+| `60 seconds` | duration | They do not decide what to build, which product to compare yourself against, or whether the demo you just recorded is worth a stranger's 60 seconds. |
+| `$1 million` | price | The revenue arithmetic behind a $1 million annual target is simple enough to do on a napkin. |
+| `$150` | price | Selling 18 units of a $150 product every day gets you there, and 18 daily sales at a 2.5 percent landing-page conversion rate requires roughly 720 visitors a day. |
+| `2.5 percent` | percent | Selling 18 units of a $150 product every day gets you there, and 18 daily sales at a 2.5 percent landing-page conversion rate requires roughly 720 visitors a day. |
+| `20 percent` | percent | AI tooling produced about a 20 percent increase in content output with no corresponding increase in monetization. |
+| `20 percent` | percent | If the demo does not land, making 20 percent more of it produces 20 percent more of nothing, and the founder is now busier while measuring the same revenue. |
+| `20 percent` | percent | I may be reading too much into a single case, but a 20 percent lift that moves no money at all looks less like a slow start and more like a signal that the bottleneck sits somewhere the tooling never touched, probably in what the first two seconds of the video promise. |
+| `8 hours` | duration | Around 8 hours went into learning them, and their output quality varies enough to need manual adjustment that nobody accounts for in the original estimate. |
+| `12 hours` | duration | The real cost of the 12-hour weekly commitment is not the 12 hours. |
+| `60 percent` | percent | A structured gate that lifted article read rates to 60 percent did so by reducing algorithmic demotion, which is a reminder that platforms are not just distributing your content, they are grading it, and the grade compounds. |
+| `12 hours` | duration | Skip this approach if you cannot commit 12 hours a week for several months, or if your product does not demonstrate visually. |

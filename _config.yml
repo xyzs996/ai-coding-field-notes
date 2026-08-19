@@ -1,0 +1,228 @@
+theme: jekyll-theme-minimal
+title: AI Coding Field Notes
+description: >-
+  Field notes on AI coding agents — what they cost, where they break, what shipped. Every published figure (prices, percentages, multiples, token counts and durations) as JSON and CSV, each row carrying the sentence it came from.
+author: xyzs996
+show_downloads: false
+
+defaults:
+  - scope:
+      path: "figures.md"
+    values:
+      description: "Every figure published in these AI coding field notes (prices, percentages, multiples, token counts and durations), as JSON and CSV — each row carries the full sentence it came from and a link to the write-up."
+  - scope:
+      path: "topics/automation-systems.md"
+    values:
+      description: "The 9 write-ups in these AI coding field notes tagged Automation Systems — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/indie-development.md"
+    values:
+      description: "The 9 write-ups in these AI coding field notes tagged Indie Development — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/ai-costs.md"
+    values:
+      description: "The 6 write-ups in these AI coding field notes tagged AI Costs — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/saas-business.md"
+    values:
+      description: "The 6 write-ups in these AI coding field notes tagged SaaS Business — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/ai-implementation.md"
+    values:
+      description: "The 5 write-ups in these AI coding field notes tagged AI Implementation — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/cost-savings.md"
+    values:
+      description: "The 5 write-ups in these AI coding field notes tagged Cost Savings — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/ai-programming.md"
+    values:
+      description: "The 4 write-ups in these AI coding field notes tagged AI Programming — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/development-tools.md"
+    values:
+      description: "The 4 write-ups in these AI coding field notes tagged Development Tools — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/chinese-ai.md"
+    values:
+      description: "The 3 write-ups in these AI coding field notes tagged Chinese AI — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/micro-saas.md"
+    values:
+      description: "The 3 write-ups in these AI coding field notes tagged Micro SaaS — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/niche-market.md"
+    values:
+      description: "The 3 write-ups in these AI coding field notes tagged Niche Market — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/token-optimization.md"
+    values:
+      description: "The 3 write-ups in these AI coding field notes tagged Token Optimization — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md"
+    values:
+      description: "Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly."
+      date: "2026-08-07T08:15:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md"
+    values:
+      description: "Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both…"
+      date: "2026-08-10T11:57:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md"
+    values:
+      description: "OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free tokens a month, and that figure is arithmetic rather than a promotion, because the RTK+Caveman layer compresses 10,000 tok…"
+      date: "2026-08-19T08:19:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/58-million-plays-started-with-one-account-not-four.md"
+    values:
+      description: "Two brothers ran a single short-video account until one piece of content took off, and only then copied it across several accounts, which is how the cumulative play count passed 58 million."
+      date: "2026-08-12T09:39:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md"
+    values:
+      description: "\"Solving a niche problem is the secret to building a profitable Micro-SaaS.\" This common advice ignores the power of focusing on a single, well-defined pain point in a specific market."
+      date: "2026-08-15T08:04:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.md"
+    values:
+      description: "A developer in China’s AI community achieved 5x productivity gains using loop engineering, reducing MVP development time from four prompt tuning sessions to a single command installation."
+      date: "2026-08-09T11:27:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/ai-programming-tool-selection-strategy-from-rapid.md"
+    values:
+      description: "A specialized code review agent beat Claude Code on accuracy across 200 real pull requests and 50 open-source repositories while burning about one-ninth the tokens."
+      date: "2026-08-07T05:57:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md"
+    values:
+      description: "You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income."
+      date: "2026-08-10T09:46:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md"
+    values:
+      description: "Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF…"
+      date: "2026-08-17T07:34:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md"
+    values:
+      description: "Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…"
+      date: "2026-08-05T10:17:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md"
+    values:
+      description: "Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects."
+      date: "2026-08-12T07:42:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md"
+    values:
+      description: "The agent processes 40-plus podcast channels overnight, transcribed and summarized, ready to read by morning."
+      date: "2026-08-18T11:52:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/how-chinese-developers-are-using-codex-record-replay-to.md"
+    values:
+      description: "A monthly report that used to take four hours now takes a few minutes."
+      date: "2026-08-05T12:38:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md"
+    values:
+      description: "Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 people asking for access within days, at zero cost, and those users stuck around better than the paid traffic he never bo…"
+      date: "2026-08-17T09:29:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/monkeycode-the-open-source-ai-coding-platform-with-900.md"
+    values:
+      description: "MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read."
+      date: "2026-08-16T08:07:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md"
+    values:
+      description: "Of the 27 AI-powered micro-SaaS projects that generated predictable monthly revenue in a recent analysis, every profitable one used at least three of the same five architectural components."
+      date: "2026-08-18T09:56:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/the-ai-branding-revolution-how-indie-developers-are.md"
+    values:
+      description: "Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…"
+      date: "2026-08-16T09:47:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/the-first-line-of-defense-in-ai-programming-environment.md"
+    values:
+      description: "MonkeyCode ships with 900 million free tokens and supports private deployment, which tells you exactly what its users are doing: pointing an AI coding tool at their own keys, on their own infrastru…"
+      date: "2026-08-08T07:36:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md"
+    values:
+      description: "\"Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option.\""
+      date: "2026-08-12T06:46:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md"
+    values:
+      description: "Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading…"
+      date: "2026-08-10T11:29:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/token-optimization-for-indie-developers-ai-api-bills.md"
+    values:
+      description: "In July 2026, while indie developers building AI coding products full-time watched their API burn rate climb toward their revenue, a quieter shift in the Chinese developer stack showed a different…"
+      date: "2026-08-18T07:28:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md"
+    values:
+      description: "Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts."
+      date: "2026-08-16T12:13:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md"
+    values:
+      description: "Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it."
+      date: "2026-08-17T11:54:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md"
+    values:
+      description: "The videos run about 60 seconds."
+      date: "2026-08-11T09:42:00Z"
+      seo:
+        type: BlogPosting
