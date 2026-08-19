@@ -2,6 +2,21 @@
 
 6 of the 26 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
+## The figures
+
+- **9x** — Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
+- **10,000 tokens** — Long coding sessions push entire directory trees into the prompt on every iteration, so gateways have started applying compression algorithms such as RTK and Caveman, which OmniRoute reports can shrink 10,000 tokens to 1,080. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
+- **$4 million** — Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
+- **$4 million** — This is one company, one quarter, and Klarna had reasons to publish both the $4 million and the retraction that have nothing to do with what works for a team of one. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
+- **900 million tokens** — The free allocation is what people notice, since 900 million tokens is well beyond what most competing tools give away and beyond what a solo developer exhausts in normal work. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
+- **80 percent** — Track consumption from the first week rather than from the first warning at 80 percent. [→](../articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
+- **95%** — Terra's document processing capabilities might seem cost-effective initially, but Luna's 95% accuracy on basic QA tasks and faster response times mean fewer errors and rework, whereas Terra's higher failure rate on complex tasks can lead to time wasted fixing mistakes, and Luna's superior accuracy and reliability make it a better long-term choice, even though Terra often requires more tokens for similar tasks. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
+- **95%** — For example, Luna's 95% accuracy rate for basic questions drops when faced with more complex queries, and Terra's document analysis accuracy can vary depending on document structure and content. [→](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
+
+[All figures, 270 rows](../figures.md)
+
+## The write-ups
+
 ### [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](../articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
 A specialized code review agent beat Claude Code on accuracy across 200 real pull requests and 50 open-source repositories while burning about one-ninth the tokens.
