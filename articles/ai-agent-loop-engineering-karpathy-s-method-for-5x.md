@@ -168,7 +168,7 @@ Loop engineering offers several key advantages.
 
 [All 26 write-ups](../README.md)
 
-The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 245 more, as JSON and CSV.
+The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 257 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Indie Development](../topics/indie-development.md)
 

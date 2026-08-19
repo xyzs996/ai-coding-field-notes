@@ -12,7 +12,7 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (258 rows)
+## The figures, as data (270 rows)
 
 Every figure published across the 26 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries

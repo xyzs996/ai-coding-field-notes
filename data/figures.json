@@ -456,6 +456,14 @@
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/58-million-plays-started-with-one-account-not-four.html"
   },
   {
+    "value": "30-day",
+    "kind": "duration",
+    "context": "It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days.",
+    "article": "58 Million Plays Started With One Account, Not Four",
+    "published": "2026-08-12",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/58-million-plays-started-with-one-account-not-four.html"
+  },
+  {
     "value": "11%",
     "kind": "percent",
     "context": "It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days.",
@@ -555,6 +563,14 @@
     "value": "18 months",
     "kind": "duration",
     "context": "Resellbot took 18 months to reach profitability.",
+    "article": "A 30-Line Script, 200 Users, and a Niche Nobody Wanted",
+    "published": "2026-08-15",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.html"
+  },
+  {
+    "value": "18-month",
+    "kind": "duration",
+    "context": "Sustainable growth in Micro-SaaS often requires patience and persistence, as seen with Resellbot's 18-month journey to profitability.",
     "article": "A 30-Line Script, 200 Users, and a Niche Nobody Wanted",
     "published": "2026-08-15",
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.html"
@@ -1216,6 +1232,14 @@
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-developers-are-using-codex-record-replay-to.html"
   },
   {
+    "value": "4-hours",
+    "kind": "duration",
+    "context": "The 4-hours-to-minutes report passes that test.",
+    "article": "How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows",
+    "published": "2026-08-05",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-developers-are-using-codex-record-replay-to.html"
+  },
+  {
     "value": "80 percent",
     "kind": "percent",
     "context": "Most of what feels repetitive in a week does not, which is why the 80 percent figure describes a narrow slice of the work rather than 80 percent of anyone's day.",
@@ -1286,6 +1310,22 @@
     "article": "MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens",
     "published": "2026-08-16",
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html"
+  },
+  {
+    "value": "40-second",
+    "kind": "duration",
+    "context": "When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer.",
+    "article": "Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow",
+    "published": "2026-08-19",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html"
+  },
+  {
+    "value": "40-second",
+    "kind": "duration",
+    "context": "The 40-second number I cannot check.",
+    "article": "Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow",
+    "published": "2026-08-19",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html"
   },
   {
     "value": "2 hours",
@@ -1419,6 +1459,14 @@
     "value": "6 hours",
     "kind": "duration",
     "context": "10 lines of validation buys back an hour of debugging the first time it fires, and probably 5 or 6 hours across a year on a project with 3 or 4 deployment environments, which is a return most refactors cannot match.",
+    "article": "The First Line of Defense in AI Programming: Environment Variable Management",
+    "published": "2026-08-08",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/the-first-line-of-defense-in-ai-programming-environment.html"
+  },
+  {
+    "value": "30-second",
+    "kind": "duration",
+    "context": "The gap opens when someone pastes a key into a chat window to debug why a call is failing, which is a 30-second decision that puts a live credential into a log you do not control and cannot delete.",
     "article": "The First Line of Defense in AI Programming: Environment Variable Management",
     "published": "2026-08-08",
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/the-first-line-of-defense-in-ai-programming-environment.html"
@@ -1848,6 +1896,14 @@
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html"
   },
   {
+    "value": "60-second",
+    "kind": "duration",
+    "context": "Here is what a 60-second demo has to contain to be worth posting, why the weekly time budget is tighter than it looks, and where the organic numbers stop being believable.",
+    "article": "Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)",
+    "published": "2026-08-11",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html"
+  },
+  {
     "value": "60 seconds",
     "kind": "duration",
     "context": "The videos are around 60 seconds, the format is product demonstrations and concise tutorials, and the cadence is 3 to 5 a week across YouTube and TikTok.",
@@ -1873,6 +1929,14 @@
   },
   {
     "value": "2 hours",
+    "kind": "duration",
+    "context": "Editing takes about 2 hours per 60-second video, including AI-assisted effects and transitions.",
+    "article": "Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)",
+    "published": "2026-08-11",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html"
+  },
+  {
+    "value": "60-second",
     "kind": "duration",
     "context": "Editing takes about 2 hours per 60-second video, including AI-assisted effects and transitions.",
     "article": "Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)",
@@ -1913,6 +1977,14 @@
   },
   {
     "value": "4 hours",
+    "kind": "duration",
+    "context": "Four videos a week at 2 hours each is 8 hours of editing before anyone has written a script, answered a comment, or looked at an analytics dashboard, which leaves about 4 hours for everything else in a 12-hour budget.",
+    "article": "Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)",
+    "published": "2026-08-11",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html"
+  },
+  {
+    "value": "12-hour",
     "kind": "duration",
     "context": "Four videos a week at 2 hours each is 8 hours of editing before anyone has written a script, answered a comment, or looked at an analytics dashboard, which leaves about 4 hours for everything else in a 12-hour budget.",
     "article": "Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)",
@@ -2040,9 +2112,25 @@
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html"
   },
   {
+    "value": "12-hour",
+    "kind": "duration",
+    "context": "The real cost of the 12-hour weekly commitment is not the 12 hours.",
+    "article": "Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)",
+    "published": "2026-08-11",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html"
+  },
+  {
     "value": "12 hours",
     "kind": "duration",
     "context": "The real cost of the 12-hour weekly commitment is not the 12 hours.",
+    "article": "Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)",
+    "published": "2026-08-11",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html"
+  },
+  {
+    "value": "60-second",
+    "kind": "duration",
+    "context": "Formal production training is not required for a 60-second screen recording of software doing something useful, and AI tools cover most of the gap that skill would have filled.",
     "article": "Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)",
     "published": "2026-08-11",
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html"
@@ -2059,6 +2147,14 @@
     "value": "12 hours",
     "kind": "duration",
     "context": "Skip this approach if you cannot commit 12 hours a week for several months, or if your product does not demonstrate visually.",
+    "article": "Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)",
+    "published": "2026-08-11",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html"
+  },
+  {
+    "value": "60-second",
+    "kind": "duration",
+    "context": "A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one.",
     "article": "Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)",
     "published": "2026-08-11",
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html"

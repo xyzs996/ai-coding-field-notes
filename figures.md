@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-258 figures pulled out of 25 write-ups in
+270 figures pulled out of 26 write-ups in
 [ai-coding-field-notes](https://github.com/xyzs996/ai-coding-field-notes) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -115,6 +115,7 @@ Published 2026-08-12.
 | `$22,000` | price | StoryShort matched, in 3 months, the revenue that an established B2B tool took 2 years to build, with Stripe records showing about $22,000 a month and cumulative revenue approaching $500,000. |
 | `$500,000` | price | StoryShort matched, in 3 months, the revenue that an established B2B tool took 2 years to build, with Stripe records showing about $22,000 a month and cumulative revenue approaching $500,000. |
 | `$1.2 million` | price | It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days. |
+| `30-day` | duration | It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days. |
 | `11%` | percent | It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days. |
 | `30 days` | duration | It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days. |
 | `$63,000` | price | Jordan's Resellbot started as 30 lines of JavaScript written because his partner was manually reposting listings every day, and it now runs at roughly $63,000 a month, which probably says more about picking a visible problem than about any distribution tactic. |
@@ -135,6 +136,7 @@ Published 2026-08-15.
 | `$150` | price | Resellbot's pricing model at $150 per product aligns with industry benchmarks for automation tools, ensuring competitiveness in the Micro-SaaS market. |
 | `$6.3K` | price | The $6.3K/month revenue shows that even with modest pricing, the tool captures meaningful demand in the Poshmark automation niche. |
 | `18 months` | duration | Resellbot took 18 months to reach profitability. |
+| `18-month` | duration | Sustainable growth in Micro-SaaS often requires patience and persistence, as seen with Resellbot's 18-month journey to profitability. |
 
 ## [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](https://xyzs996.github.io/ai-coding-field-notes/articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.html)
 
@@ -280,6 +282,7 @@ Published 2026-08-05.
 | `80 percent` | percent | The claimed reduction in manual effort is 80 percent, and the feature is explicitly not built for enterprise-scale workflows. |
 | `4 hours` | duration | He used OpenAI Codex's Record & Replay to automate monthly report generation, taking it from 4 hours to a few minutes. |
 | `80%` | percent | The skill automates the workflow, reducing manual effort by 80%, and adapts to different document formats and storage options. |
+| `4-hours` | duration | The 4-hours-to-minutes report passes that test. |
 | `80 percent` | percent | Most of what feels repetitive in a week does not, which is why the 80 percent figure describes a narrow slice of the work rather than 80 percent of anyone's day. |
 | `80 percent` | percent | The 80 percent figure should probably travel too, with the caveat that it applies to the recorded slice and not the day. |
 
@@ -303,6 +306,15 @@ Published 2026-08-16.
 | `900 million tokens` | tokens | The free allocation is what people notice, since 900 million tokens is well beyond what most competing tools give away and beyond what a solo developer exhausts in normal work. |
 | `900 million tokens` | tokens | Which means the honest answer to "how long does 900 million tokens last" is that it depends on your repository rather than on your discipline. |
 | `80 percent` | percent | Track consumption from the first week rather than from the first warning at 80 percent. |
+
+## [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](https://xyzs996.github.io/ai-coding-field-notes/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html)
+
+Published 2026-08-19.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `40-second` | duration | When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. |
+| `40-second` | duration | The 40-second number I cannot check. |
 
 ## [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](https://xyzs996.github.io/ai-coding-field-notes/articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.html)
 
@@ -341,6 +353,7 @@ Published 2026-08-08.
 | --- | --- | --- |
 | `10 minutes` | duration | The mechanics are unglamorous and take about 10 minutes on a project that does not exist yet. |
 | `6 hours` | duration | 10 lines of validation buys back an hour of debugging the first time it fires, and probably 5 or 6 hours across a year on a project with 3 or 4 deployment environments, which is a return most refactors cannot match. |
+| `30-second` | duration | The gap opens when someone pastes a key into a chat window to debug why a call is failing, which is a 30-second decision that puts a live credential into a log you do not control and cannot delete. |
 | `10 minutes` | duration | Setting this up takes 10 minutes on a new project and rather longer on an existing one, which is why people put it off. |
 
 ## [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](https://xyzs996.github.io/ai-coding-field-notes/articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.html)
@@ -436,15 +449,18 @@ Published 2026-08-11.
 | `95 percent` | percent | The developer posts 3 to 5 a week across several platforms, mostly product demos and short tutorials, and 95 percent of the users arrive through that organic content rather than through anything paid. |
 | `95 percent` | percent | The 95 percent is the number worth being suspicious of, and the 12 hours a week behind it is the number worth doing arithmetic on. |
 | `12 hours` | duration | The 95 percent is the number worth being suspicious of, and the 12 hours a week behind it is the number worth doing arithmetic on. |
+| `60-second` | duration | Here is what a 60-second demo has to contain to be worth posting, why the weekly time budget is tighter than it looks, and where the organic numbers stop being believable. |
 | `60 seconds` | duration | The videos are around 60 seconds, the format is product demonstrations and concise tutorials, and the cadence is 3 to 5 a week across YouTube and TikTok. |
 | `95 percent` | percent | A 95 percent organic share is not implausible for a product with no ad budget, because when the denominator contains no paid traffic at all, organic wins by default. |
 | `95 percent` | percent | A product with 200 users and a product with 200,000 can both report 95 percent organic, and the strategy that produced the first one is not evidence for anything. |
 | `2 hours` | duration | Editing takes about 2 hours per 60-second video, including AI-assisted effects and transitions. |
+| `60-second` | duration | Editing takes about 2 hours per 60-second video, including AI-assisted effects and transitions. |
 | `12 hours` | duration | The overall commitment is roughly 12 hours a week on video creation and platform management, and AI tools cut the scripting and editing time by about 30 percent. |
 | `30 percent` | percent | The overall commitment is roughly 12 hours a week on video creation and platform management, and AI tools cut the scripting and editing time by about 30 percent. |
 | `2 hours` | duration | Four videos a week at 2 hours each is 8 hours of editing before anyone has written a script, answered a comment, or looked at an analytics dashboard, which leaves about 4 hours for everything else in a 12-hour budget. |
 | `8 hours` | duration | Four videos a week at 2 hours each is 8 hours of editing before anyone has written a script, answered a comment, or looked at an analytics dashboard, which leaves about 4 hours for everything else in a 12-hour budget. |
 | `4 hours` | duration | Four videos a week at 2 hours each is 8 hours of editing before anyone has written a script, answered a comment, or looked at an analytics dashboard, which leaves about 4 hours for everything else in a 12-hour budget. |
+| `12-hour` | duration | Four videos a week at 2 hours each is 8 hours of editing before anyone has written a script, answered a comment, or looked at an analytics dashboard, which leaves about 4 hours for everything else in a 12-hour budget. |
 | `30 percent` | percent | It is a part-time job attached to the product, and the 30 percent that AI tools give back is the difference between it being sustainable and it quietly stopping in week six. |
 | `60 percent` | percent | Roughly 60 percent of the video content gets reused across platforms, cutting production time by about 40 percent, and the reused clips hold engagement rates comparable to the originals. |
 | `40 percent` | percent | Roughly 60 percent of the video content gets reused across platforms, cutting production time by about 40 percent, and the reused clips hold engagement rates comparable to the originals. |
@@ -460,6 +476,9 @@ Published 2026-08-11.
 | `20 percent` | percent | If the demo does not land, making 20 percent more of it produces 20 percent more of nothing, and the founder is now busier while measuring the same revenue. |
 | `20 percent` | percent | I may be reading too much into a single case, but a 20 percent lift that moves no money at all looks less like a slow start and more like a signal that the bottleneck sits somewhere the tooling never touched, probably in what the first two seconds of the video promise. |
 | `8 hours` | duration | Around 8 hours went into learning them, and their output quality varies enough to need manual adjustment that nobody accounts for in the original estimate. |
+| `12-hour` | duration | The real cost of the 12-hour weekly commitment is not the 12 hours. |
 | `12 hours` | duration | The real cost of the 12-hour weekly commitment is not the 12 hours. |
+| `60-second` | duration | Formal production training is not required for a 60-second screen recording of software doing something useful, and AI tools cover most of the gap that skill would have filled. |
 | `60 percent` | percent | A structured gate that lifted article read rates to 60 percent did so by reducing algorithmic demotion, which is a reminder that platforms are not just distributing your content, they are grading it, and the grade compounds. |
 | `12 hours` | duration | Skip this approach if you cannot commit 12 hours a week for several months, or if your product does not demonstrate visually. |
+| `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |

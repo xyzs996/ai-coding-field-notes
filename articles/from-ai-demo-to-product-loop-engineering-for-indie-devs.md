@@ -103,7 +103,7 @@ The future of indie development lies in combining AI tools with human judgment. 
 
 [All 26 write-ups](../README.md)
 
-The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 253 more, as JSON and CSV.
+The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 265 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Indie Development](../topics/indie-development.md) · [AI Implementation](../topics/ai-implementation.md) · [Productivity](../topics/productivity.md)
 

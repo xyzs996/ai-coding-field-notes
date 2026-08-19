@@ -107,7 +107,7 @@ These principles apply whether working with AI agents or managing human teams.
 
 [All 26 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 255 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 267 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md)
 

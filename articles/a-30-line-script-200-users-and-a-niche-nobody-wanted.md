@@ -126,7 +126,7 @@ Independent developers can validate product demand quickly by creating a Minimum
 
 [All 26 write-ups](../README.md)
 
-The 10 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 248 more, as JSON and CSV.
+The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 259 more, as JSON and CSV.
 
 Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/niche-market.md) · [Micro SaaS](../topics/micro-saas.md)
 
