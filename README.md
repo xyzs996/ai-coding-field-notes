@@ -4,6 +4,9 @@
 tool switching costs, where the agents actually break, and what the
 numbers looked like afterwards.
 
+**Read these on the web:** [AI Coding Field Notes](https://xyzs996.github.io/ai-coding-field-notes/) — the same write-ups with the figures table, the topic pages and the
+links between them.
+
 **On the figures.** Every number here traces back to a named source or
 a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
