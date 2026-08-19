@@ -41,8 +41,11 @@ verbatim, not summarised.
 
 **Corrections wanted.** If a figure is stale, a tool changed its
 pricing, or you ran the same thing and got something else — [open an
-issue](https://github.com/xyzs996/ai-coding-field-notes/issues). That is what this
-repo is for.
+issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new/choose). That is
+what this repo is for.
+
+If this table saves you an afternoon, a star helps other people find
+it. The data is CC BY and does not require starring.
 
 **Follow along.** [Atom feed](https://xyzs996.github.io/ai-coding-field-notes/feed.xml) — new
 write-ups land there first.
