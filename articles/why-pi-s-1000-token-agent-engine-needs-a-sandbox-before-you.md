@@ -1,5 +1,7 @@
 # Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It
 
+![Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it. The tools are read, write, edit, and bash. That is the entire set, and the fourth one is why this article exists.

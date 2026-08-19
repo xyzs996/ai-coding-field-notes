@@ -1,5 +1,7 @@
 # How to Build a Micro-SaaS Without Spending a Dime on Ads
 
+![How to Build a Micro-SaaS Without Spending a Dime on Ads](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 people asking for access within days, at zero cost, and those users stuck around better than the paid traffic he never bought. He wrote 15 blog articles after that. Five of them, all aimed at the phrase Poshmark Automation, carry most of the organic search traffic to this day. The other ten are still up.

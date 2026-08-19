@@ -1,5 +1,7 @@
 # Boosting AI Bot Conversion: A Deep Dive into Funnel Data
 
+![Boosting AI Bot Conversion: A Deep Dive into Funnel Data](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed users were doing. The interesting part is not the size of the jump. It is which stage turned out to be responsible.

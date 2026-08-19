@@ -1,5 +1,7 @@
 # How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows
 
+![How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/how-chinese-developers-are-using-codex-record-replay-to.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 A monthly report that used to take four hours now takes a few minutes. He showed Codex the workflow once, and Record and Replay turned that single demonstration into a reusable skill that accepts new inputs without being recorded again, which is the difference between writing a script for the job and simply doing the job in front of something that was watching. A team of three in Shanghai did the same thing to their test cycle. Nobody wrote a script.

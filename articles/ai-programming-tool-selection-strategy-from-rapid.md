@@ -1,5 +1,7 @@
 # AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration
 
+![AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/ai-programming-tool-selection-strategy-from-rapid.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 A specialized code review agent beat Claude Code on accuracy across 200 real pull requests and 50 open-source repositories while burning about one-ninth the tokens. That ratio is the whole argument in miniature: the general tool is not worse, it is just paying for generality you may not need. Meanwhile ChatGPT Work saves non-technical staff up to 70% of their time on cross-application tasks, and those same people would get nothing out of an IDE.

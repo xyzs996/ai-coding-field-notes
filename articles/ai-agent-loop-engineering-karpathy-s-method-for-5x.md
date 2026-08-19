@@ -1,5 +1,7 @@
 # AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains
 
+![AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/ai-agent-loop-engineering-karpathy-s-method-for-5x.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 A developer in China’s AI community achieved 5x productivity gains using loop engineering, reducing MVP development time from four prompt tuning sessions to a single command installation. This method automates repetitive tasks and integrates complex workflows, as seen in Marvy 2.0’s 74% optimization efficiency improvement. The approach transforms AI workflows by creating closed-loop systems with clear goals, execution paths, and termination conditions.

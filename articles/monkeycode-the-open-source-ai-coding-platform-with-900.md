@@ -1,5 +1,7 @@
 # MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens
 
+![MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/monkeycode-the-open-source-ai-coding-platform-with-900.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read. Those three facts do different jobs, and only the first one gets attention.

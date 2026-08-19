@@ -1,5 +1,7 @@
 # A 30-Line Script, 200 Users, and a Niche Nobody Wanted
 
+![A 30-Line Script, 200 Users, and a Niche Nobody Wanted](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/a-30-line-script-200-users-and-a-niche-nobody-wanted.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 "Solving a niche problem is the secret to building a profitable Micro-SaaS." This common advice ignores the power of focusing on a single, well-defined pain point in a specific market.

@@ -1,5 +1,7 @@
 # Choosing the Right AI Model for Coding: Cost vs. Efficiency
 
+![Choosing the Right AI Model for Coding: Cost vs. Efficiency](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects. This low cost, however, comes with hidden expenses: frequent errors and rework, which extend development cycles. In contrast, GPT-5.6 Sol, at $1.43 per run, achieves 43.1% accuracy in the same tests, suggesting that while cheaper models may save money upfront, they often result in longer, more costly development processes.

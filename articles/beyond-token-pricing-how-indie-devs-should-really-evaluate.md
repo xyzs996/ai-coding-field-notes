@@ -1,5 +1,7 @@
 # Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs
 
+![Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/beyond-token-pricing-how-indie-devs-should-really-evaluate.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requires, not from the price per token. That is the whole argument in one line. The number on the landing page is the smallest of the two variables you are actually paying for.

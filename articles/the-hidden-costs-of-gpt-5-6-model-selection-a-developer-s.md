@@ -1,5 +1,7 @@
 # The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide
 
+![The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 "Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option."

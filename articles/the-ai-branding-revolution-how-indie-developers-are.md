@@ -1,5 +1,7 @@
 # The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI
 
+![The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/the-ai-branding-revolution-how-indie-developers-are.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics, none of it involving a designer or the days of back-and-forth that usually come attached to that word. That is the part worth arguing about. The standard objection is that anything generated this way ends up looking like everything else generated this way.

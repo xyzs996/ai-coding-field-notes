@@ -1,5 +1,7 @@
 # From AI Demo to Product: Loop Engineering for Indie Devs
 
+![From AI Demo to Product: Loop Engineering for Indie Devs](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/from-ai-demo-to-product-loop-engineering-for-indie-devs.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 The agent processes 40-plus podcast channels overnight, transcribed and summarized, ready to read by morning. The pair of tools behind it, WorkBuddy and BrowserAct, turns around a competitor price list in five minutes and a product opportunity report in seven, and the free WorkBuddy tier hands out 100 credits a day while a single research task spends fewer than ten, which is close enough to free that cost stopped being the thing in the way. It took a while to get there. The early versions kept misreading markdown syntax.

@@ -1,5 +1,7 @@
 # When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption
 
+![When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/when-ai-customer-service-backfired-klarna-s-case-and-the.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. Six months later the same CEO said publicly that the company had overshot and was rehiring agents. The system had been fine on the repetitive work and then ran into complaints that needed empathy, recommendations that needed judgment, and escalations that needed a person on the other end of them. The savings were real. So was the rehiring.

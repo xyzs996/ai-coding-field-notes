@@ -1,5 +1,7 @@
 # The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest
 
+![The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/the-5-ai-features-that-separated-27-profitable-solopreneurs.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 Of the 27 AI-powered micro-SaaS projects that generated predictable monthly revenue in a recent analysis, every profitable one used at least three of the same five architectural components. The most common of the 5 was scheduling automation, present in more of the 27 than anything else on the list. That is a duller finding than the ones that circulate about model choice and prompt engineering, and it is also the one that survives contact with a real project.

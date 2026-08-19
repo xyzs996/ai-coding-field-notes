@@ -1,5 +1,7 @@
 # 58 Million Plays Started With One Account, Not Four
 
+![58 Million Plays Started With One Account, Not Four](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/58-million-plays-started-with-one-account-not-four.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 Two brothers ran a single short-video account until one piece of content took off, and only then copied it across several accounts, which is how the cumulative play count passed 58 million. The order is the entire lesson, and it is the part most people reverse.

@@ -1,5 +1,7 @@
 # AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)
 
+![AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/ai-generated-local-business-websites-don-t-rent-for-3-000.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. That’s the viral pitch. It’s true for about 1 in 20 people who try it.

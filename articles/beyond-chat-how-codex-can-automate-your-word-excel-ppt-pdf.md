@@ -1,5 +1,7 @@
 # Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows
 
+![Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF data extraction to PPT report generation, cutting document processing time by 70%.

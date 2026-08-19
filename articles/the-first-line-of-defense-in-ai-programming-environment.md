@@ -1,5 +1,7 @@
 # The First Line of Defense in AI Programming: Environment Variable Management
 
+![The First Line of Defense in AI Programming: Environment Variable Management](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/the-first-line-of-defense-in-ai-programming-environment.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 MonkeyCode ships with 900 million free tokens and supports private deployment, which tells you exactly what its users are doing: pointing an AI coding tool at their own keys, on their own infrastructure, with no vendor sitting between the model and the repository to catch anything. The Shopify App Review Miner team arrived at the same boundary from the opposite direction, handing data parsing to the agents while authentication stayed with a person.

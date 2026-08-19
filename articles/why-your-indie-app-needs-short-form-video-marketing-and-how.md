@@ -1,5 +1,7 @@
 # Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)
 
+![Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/why-your-indie-app-needs-short-form-video-marketing-and-how.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 The videos run about 60 seconds. The developer posts 3 to 5 a week across several platforms, mostly product demos and short tutorials, and 95 percent of the users arrive through that organic content rather than through anything paid. No expensive equipment, no editing skills, no agency. The 95 percent is the number worth being suspicious of, and the 12 hours a week behind it is the number worth doing arithmetic on.

@@ -1,5 +1,7 @@
 # The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap
 
+![The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/the-klarna-lesson-why-ai-implementation-needs-a-staircase.png)
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading the CEO to admit they "went too far" with automation after 12 months. This isn't an anti-AI story—it's a cautionary tale about delegation.
