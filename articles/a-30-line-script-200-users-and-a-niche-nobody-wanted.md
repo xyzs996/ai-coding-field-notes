@@ -133,5 +133,5 @@ Topics: [SaaS Business](../topics/saas-business.md) · [Micro SaaS](../topics/mi
 
 *Part of [ai-coding-field-notes](https://github.com/xyzs996/ai-coding-field-notes) — field notes on AI coding
 agents. Found something wrong, or shipped something similar? [Open an
-issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new) — corrections are the
+issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new/choose) — corrections are the
 point.*

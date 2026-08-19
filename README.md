@@ -199,6 +199,11 @@ The videos run about 60 seconds.
 
 - [free-llm-api](https://github.com/xyzs996/free-llm-api) — verified free LLM API tiers, rate limits, and no-card options.
 
-## License
+## Reuse
 
-Text is CC BY 4.0 — reuse it, credit it.
+Copyright © 2026 xyzs996. Everything here — the write-ups in
+`articles/` and the dataset in `data/` alike — is licensed
+[CC BY 4.0](LICENSE): copy it, republish it, build on it, sell it.
+
+One condition: say where it came from. A link back to
+<https://xyzs996.github.io/ai-coding-field-notes/> next to whatever you reuse is enough.

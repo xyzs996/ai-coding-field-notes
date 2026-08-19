@@ -1,0 +1,28 @@
+name: Correction
+description: A figure is stale, a tool changed, a link is dead, a claim is wrong
+title: "[correction] "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Corrections are the point of this repo. Partial reports are welcome —
+        only the middle field is required.
+  - type: input
+    id: where
+    attributes:
+      label: Which write-up or figure
+      description: A link, a title, or the number you spotted. Whatever you have.
+      placeholder: articles/token-optimization-for-indie-developers-ai-api-bills.md
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong
+      description: What it says now, and what it should say.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source, if you have one
+      description: A link to the pricing page, the changelog, the announcement.
