@@ -16,8 +16,13 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figu
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv
 ```
 
-Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `context`, `article`,
-`url`.
+Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `context`, `article`, `published`, `url`.
+
+**What `published` means.** It is the day the write-up carrying that
+sentence went out — not the day the price or the percentage was in
+force. We do not know the latter: the piece states a figure, it does
+not date it. Model prices move fast, so read every row as of its own
+date, and treat a two-month-old price as a lead rather than a quote.
 
 Served over jsDelivr, which caches `@main` for up to 12 hours —
 the table is rebuilt at most once a day, so that is close enough.
@@ -27,6 +32,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 [open an issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new).
 
 ## [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.html)
+
+Published 2026-08-07.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -52,12 +59,16 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 
 ## [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](https://xyzs996.github.io/ai-coding-field-notes/articles/the-cost-effective-guide-to-using-open-code-review-for-ai.html)
 
+Published 2026-08-10.
+
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `95%` | percent | That 95% export-issue figure gets quoted everywhere. |
 | `60%` | percent | It integrates with GitHub Actions and CircleCI, and its structured review comments cut false positives by 60% — which is the number I'd actually optimize for, because a review tool that cries wolf gets muted inside a week, and a muted tool reviews nothing at all while still showing green on every dashboard I own. |
 
 ## [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://xyzs996.github.io/ai-coding-field-notes/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html)
+
+Published 2026-08-19.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -91,6 +102,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 
 ## [58 Million Plays Started With One Account, Not Four](https://xyzs996.github.io/ai-coding-field-notes/articles/58-million-plays-started-with-one-account-not-four.html)
 
+Published 2026-08-12.
+
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `95%` | percent | Across the 4 zero-budget cases in the source material, roughly 95% of users arrived through content rather than paid acquisition. |
@@ -108,6 +121,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 
 ## [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](https://xyzs996.github.io/ai-coding-field-notes/articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.html)
 
+Published 2026-08-15.
+
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `$500` | price | Using AI tools to batch generate local SEO content reduces development costs for independent developers, accelerating website ranking on Google, after which the optimized site can be rented to local businesses for monthly revenue ranging from $500 to $3,000. |
@@ -122,6 +137,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 | `18 months` | duration | Resellbot took 18 months to reach profitability. |
 
 ## [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](https://xyzs996.github.io/ai-coding-field-notes/articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.html)
+
+Published 2026-08-09.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -141,6 +158,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 
 ## [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](https://xyzs996.github.io/ai-coding-field-notes/articles/ai-programming-tool-selection-strategy-from-rapid.html)
 
+Published 2026-08-07.
+
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `70%` | percent | Meanwhile ChatGPT Work saves non-technical staff up to 70% of their time on cross-application tasks, and those same people would get nothing out of an IDE. |
@@ -148,6 +167,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 | `70%` | percent | The 70% figure is real for the finance analyst pulling numbers across four applications, and it is close to meaningless for the person maintaining a service, because their bottleneck was never the typing. |
 
 ## [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](https://xyzs996.github.io/ai-coding-field-notes/articles/ai-generated-local-business-websites-don-t-rent-for-3-000.html)
+
+Published 2026-08-10.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -169,6 +190,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 
 ## [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](https://xyzs996.github.io/ai-coding-field-notes/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html)
 
+Published 2026-08-17.
+
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `70%` | percent | Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF data extraction to PPT report generation, cutting document processing time by 70%. |
@@ -176,6 +199,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 | `10 hours` | duration | One developer processed 200 PDFs in 2 hours, a faster improvement in efficiency compared to the manual process, which would typically take 10 hours. |
 
 ## [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](https://xyzs996.github.io/ai-coding-field-notes/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html)
+
+Published 2026-08-05.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -194,6 +219,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 | `12 months` | duration | Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months. |
 
 ## [Choosing the Right AI Model for Coding: Cost vs. Efficiency](https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html)
+
+Published 2026-08-12.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -219,6 +246,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 
 ## [From AI Demo to Product: Loop Engineering for Indie Devs](https://xyzs996.github.io/ai-coding-field-notes/articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.html)
 
+Published 2026-08-18.
+
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `5 minutes` | duration | WorkBuddy + BrowserAct combination delivers competitor price lists in 5 minutes and product opportunity reports in 7 minutes. |
@@ -228,6 +257,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 | `30 Days` | duration | 30 Days: Task Identification — Use SimilarWeb to validate demand for automation, then identify 3 to 5 repeatable tasks such as blog drafts or data scraping. |
 
 ## [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-developers-are-using-codex-record-replay-to.html)
+
+Published 2026-08-05.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -239,6 +270,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 
 ## [How to Build a Micro-SaaS Without Spending a Dime on Ads](https://xyzs996.github.io/ai-coding-field-notes/articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.html)
 
+Published 2026-08-17.
+
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `$10,000` | price | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. |
@@ -246,6 +279,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 | `30 days` | duration | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. |
 
 ## [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](https://xyzs996.github.io/ai-coding-field-notes/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html)
+
+Published 2026-08-16.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -255,6 +290,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 | `80 percent` | percent | Track consumption from the first week rather than from the first warning at 80 percent. |
 
 ## [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](https://xyzs996.github.io/ai-coding-field-notes/articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.html)
+
+Published 2026-08-18.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -275,11 +312,15 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 
 ## [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](https://xyzs996.github.io/ai-coding-field-notes/articles/the-ai-branding-revolution-how-indie-developers-are.html)
 
+Published 2026-08-16.
+
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `90%` | percent | AI branding tools like Miora let indie developers cut design costs by 90%. |
 
 ## [The First Line of Defense in AI Programming: Environment Variable Management](https://xyzs996.github.io/ai-coding-field-notes/articles/the-first-line-of-defense-in-ai-programming-environment.html)
+
+Published 2026-08-08.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -288,6 +329,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 | `10 minutes` | duration | Setting this up takes 10 minutes on a new project and rather longer on an existing one, which is why people put it off. |
 
 ## [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](https://xyzs996.github.io/ai-coding-field-notes/articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.html)
+
+Published 2026-08-12.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -306,6 +349,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 
 ## [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](https://xyzs996.github.io/ai-coding-field-notes/articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.html)
 
+Published 2026-08-10.
+
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `$40 million` | price | Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading the CEO to admit they "went too far" with automation after 12 months. |
@@ -313,6 +358,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 | `12 months` | duration | Quality degradation typically appears 6-12 months after full automation—long after the press releases have been sent. |
 
 ## [Token Optimization for Indie Developers' AI API Bills](https://xyzs996.github.io/ai-coding-field-notes/articles/token-optimization-for-indie-developers-ai-api-bills.html)
+
+Published 2026-08-18.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -324,6 +371,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 | `3,000 tokens` | tokens | It comes from a system prompt of 3,000 tokens replayed on every one of 40 turns in an agent loop, or from a file-tree dump the editor attaches whether or not the current question touches those files. |
 
 ## [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](https://xyzs996.github.io/ai-coding-field-notes/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html)
+
+Published 2026-08-16.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -353,6 +402,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 
 ## [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](https://xyzs996.github.io/ai-coding-field-notes/articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.html)
 
+Published 2026-08-17.
+
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `1,000 tokens` | tokens | Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it. |
@@ -361,6 +412,8 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 | `1,000 tokens` | tokens | That is arguably the correct decision for Pi, since guided discovery is exactly the kind of thing that costs tokens in the system prompt, and the whole premise here is that the prompt stays under 1,000 tokens. |
 
 ## [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html)
+
+Published 2026-08-11.
 
 | Figure | Kind | In context |
 | --- | --- | --- |

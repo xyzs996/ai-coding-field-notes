@@ -24,8 +24,10 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figu
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv
 ```
 
-Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `context`,
-`article`, `url`. Browse it as a table:
+Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `context`, `article`, `published`, `url`. `published` is the day that
+write-up went out, not the day the figure was in force —
+prices move, so read each row as of its own date.
+Browse it as a table:
 [figures.md](figures.md).
 
 Those two go through jsDelivr, which caches `@main` for up to 12
