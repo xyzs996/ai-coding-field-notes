@@ -1,3 +1,7 @@
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "270 figures pulled out of 26 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece.", "url": "https://xyzs996.github.io/ai-coding-field-notes/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/ai-coding-field-notes", "temporalCoverage": "2026-08-05/2026-08-19", "dateModified": "2026-08-19"}
+</script>
+
 # Every figure we published, with the sentence it came from
 
 270 figures pulled out of 26 write-ups in
