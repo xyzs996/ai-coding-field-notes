@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: AI Coding Field Notes
 description: >-
-  Field notes on AI coding agents — what they cost, where they break, what shipped. Every published figure (prices, percentages, multiples, token counts and durations) as JSON and CSV, each row carrying the sentence it came from.
+  Open dataset of what AI coding agents cost: token pricing, per-million rates, and every published figure (prices, percentages, multiples, token counts and durations) as JSON and CSV. Figures are one row each, carrying the sentence they came from. Plus the field notes behind the numbers.
 author: xyzs996
 show_downloads: false
 
