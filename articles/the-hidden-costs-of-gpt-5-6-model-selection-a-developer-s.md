@@ -80,6 +80,9 @@ A mid-sized e-commerce company cut its model spend over 6 months. It switched fr
 
 These improvements highlight the importance of model selection and its impact on overall project efficiency.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/The-Hidden-Costs-of-GPT-56-Model-Selection-A-Developers-Real-World-Guide-08-19).*
 
 

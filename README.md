@@ -39,6 +39,17 @@ A number without its sentence is not checkable — `$1.43` could be
 per million tokens, per month, or per seat. The sentence is quoted
 verbatim, not summarised.
 
+**Citing a row?** `@main` moves — today's row 88 may be somewhere
+else tomorrow. Every snapshot is also frozen as a dated release,
+and these two always resolve to the newest frozen one:
+
+```
+curl -sL https://github.com/xyzs996/ai-coding-field-notes/releases/latest/download/figures.json
+curl -sL https://github.com/xyzs996/ai-coding-field-notes/releases/latest/download/figures.csv
+```
+
+[All snapshots](https://github.com/xyzs996/ai-coding-field-notes/releases) — one per day the table actually changed.
+
 **Corrections wanted.** If a figure is stale, a tool changed its
 pricing, or you ran the same thing and got something else — [open an
 issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new/choose). That is
@@ -53,18 +64,6 @@ write-ups land there first.
 **By topic.** [Automation Systems](topics/automation-systems.md) (9) · [Indie Development](topics/indie-development.md) (9) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [SaaS Business](topics/saas-business.md) (6) · [Cost Savings](topics/cost-savings.md) (5) · [AI Programming](topics/ai-programming.md) (4) · [Development Tools](topics/development-tools.md) (4) · [Niche Market](topics/niche-market.md) (4) · [Chinese AI](topics/chinese-ai.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Productivity](topics/productivity.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
-
-### [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
-
-Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
-
-`Token Optimization` `Cost Savings` `Chinese AI` `Automation Systems`
-
-### [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
-
-Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both…
-
-`Code Review` `Cost Savings` `SaaS Business` `Automation Systems`
 
 ### [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
@@ -132,6 +131,12 @@ The agent processes 40-plus podcast channels overnight, transcribed and summariz
 
 `Productivity` `AI Implementation` `Automation Systems` `Indie Development`
 
+### [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
+
+Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
+
+`Token Optimization` `Cost Savings` `Chinese AI` `Automation Systems`
+
 ### [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
 A monthly report that used to take four hours now takes a few minutes.
@@ -167,6 +172,12 @@ Of the 27 AI-powered micro-SaaS projects that generated predictable monthly reve
 Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…
 
 `AI Tools` `Cost Savings` `SaaS Business` `Indie Development`
+
+### [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
+
+Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both…
+
+`Code Review` `Cost Savings` `SaaS Business` `Automation Systems`
 
 ### [The First Line of Defense in AI Programming: Environment Variable Management](articles/the-first-line-of-defense-in-ai-programming-environment.md)
 

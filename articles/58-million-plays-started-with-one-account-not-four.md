@@ -58,6 +58,9 @@ The pattern that holds across every case here is smaller than the headline numbe
 
 Start with one account and one format. Multiply after the numbers give you permission.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/58-million-plays-started-with-one-account-not-four.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/Why-Most-Indie-Dev-Short-Videos-Never-Make-Money-08-19).*
 
 

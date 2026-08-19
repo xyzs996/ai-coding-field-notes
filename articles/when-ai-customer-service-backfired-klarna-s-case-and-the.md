@@ -75,6 +75,9 @@ Track the empathy number next to the throughput number, which means watching CSA
 
 I could be wrong here. This is one company, one quarter, and Klarna had reasons to publish both the $4 million and the retraction that have nothing to do with what works for a team of one. But the shape of it keeps showing up: the number that gets measured first is the number the queue was already good at, and the number that ends the experiment arrives two quarters later wearing a customer's name on it. If you are going to instrument one thing before launch, instrument the handoff — how often the bot decided a case was simple, and how often a person later disagreed. Klarna's 10% and 18% are exactly those two counters, and they are the only numbers in this story that would have predicted the rehiring before it happened.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/When-AI-Customer-Service-Backfired-Klarnas-Case-and-the-Four-Stage-Path-to-Enterprise-AI-Adoption-08-19).*
 
 

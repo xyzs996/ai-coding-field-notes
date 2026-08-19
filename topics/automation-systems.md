@@ -2,14 +2,6 @@
 
 9 of the 26 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
-### [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
-
-Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
-
-### [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
-
-Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both…
-
 ### [58 Million Plays Started With One Account, Not Four](../articles/58-million-plays-started-with-one-account-not-four.md)
 
 Two brothers ran a single short-video account until one piece of content took off, and only then copied it across several accounts, which is how the cumulative play count passed 58 million.
@@ -26,6 +18,10 @@ Codex's office automation capabilities, which are severely underestimated, can b
 
 The agent processes 40-plus podcast channels overnight, transcribed and summarized, ready to read by morning.
 
+### [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
+
+Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
+
 ### [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
 A monthly report that used to take four hours now takes a few minutes.
@@ -33,6 +29,10 @@ A monthly report that used to take four hours now takes a few minutes.
 ### [How to Build a Micro-SaaS Without Spending a Dime on Ads](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 
 Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 people asking for access within days, at zero cost, and those users stuck around better than the paid traffic he never bo…
+
+### [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
+
+Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both…
 
 ### [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 

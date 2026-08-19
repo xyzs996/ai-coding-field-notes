@@ -66,6 +66,9 @@ Its lack of sandboxing is not an oversight to be patched in a later release. It 
 
 Keep the prompt small and the toolset tight. Put a wall between bash and your file system before you run anything twice.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/Why-Pis-1000-Token-Agent-Engine-Needs-a-Sandbox-Before-You-Touch-It-08-19).*
 
 

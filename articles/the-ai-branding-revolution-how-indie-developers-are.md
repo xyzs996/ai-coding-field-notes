@@ -87,6 +87,9 @@ The future belongs to indie developers who embrace AI as a partner, not a replac
 
 *Source IDs: All core claims cite.*
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/the-ai-branding-revolution-how-indie-developers-are.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/The-AI-Branding-Revolution-How-Indie-Developers-Are-Ditching-Design-Costs-with-AI-08-19).*
 
 

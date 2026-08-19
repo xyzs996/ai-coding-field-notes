@@ -2,10 +2,6 @@
 
 6 of the 26 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
-### [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
-
-Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both…
-
 ### [58 Million Plays Started With One Account, Not Four](../articles/58-million-plays-started-with-one-account-not-four.md)
 
 Two brothers ran a single short-video account until one piece of content took off, and only then copied it across several accounts, which is how the cumulative play count passed 58 million.
@@ -21,6 +17,10 @@ Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 peop
 ### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
 
 Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…
+
+### [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
+
+Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both…
 
 ### [Token Optimization for Indie Developers' AI API Bills](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 

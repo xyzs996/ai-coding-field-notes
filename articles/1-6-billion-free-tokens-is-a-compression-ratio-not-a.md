@@ -56,6 +56,9 @@ Tooling for that already exists in the ecosystem. Codex++ injects multiple API g
 
 I could be wrong about how much the fallback actually degrades things, and the honest answer is that neither I nor the vendor has published a number for it. What I would do before trusting a quota that large is run the same three prompts against each tier, record the token count and the wall-clock time, and keep the results somewhere I will find them the week the subscription runs out. The 1.6 billion is real. It is just not the number that decides anything.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/16-Billion-Free-Tokens-Is-a-Compression-Ratio-Not-a-Strategy-08-19).*
 
 
@@ -64,8 +67,8 @@ I could be wrong about how much the fallback actually degrades things, and the h
 **Read next**
 
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
+- [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
-- [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
 
 [All 26 write-ups](../README.md)
 

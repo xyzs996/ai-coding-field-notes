@@ -63,6 +63,9 @@ Define the business requirement and its constraints first, then put AI into low-
 
 The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again. No single clever intervention appears anywhere in the account, which is the most credible thing about it.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/Boosting-AI-Bot-Conversion-A-Deep-Dive-into-Funnel-Data-08-19).*
 
 

@@ -58,6 +58,9 @@ The honest summary of this whole stack is that it converts a money problem into 
 
 That trade is usually worth making, and it is worth making deliberately. Start with the isolation layer, because it costs almost nothing and is the prerequisite for the rest. Add compression when a specific session is measurably too expensive. Add fallback last, with logging, once you have something running long enough and unattended enough that an interruption actually costs you a day.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/token-optimization-for-indie-developers-ai-api-bills.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/Token-Optimization-for-Indie-Developers-AI-API-Bills-08-19).*
 
 
@@ -67,7 +70,7 @@ That trade is usually worth making, and it is worth making deliberately. Start w
 
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](when-ai-customer-service-backfired-klarna-s-case-and-the.md)
-- [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](the-cost-effective-guide-to-using-open-code-review-for-ai.md)
+- [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
 [All 26 write-ups](../README.md)
 

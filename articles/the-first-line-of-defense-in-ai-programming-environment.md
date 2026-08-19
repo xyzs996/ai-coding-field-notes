@@ -67,6 +67,9 @@ For a solo developer running an AI tool against a private deployment, the whole 
 
 The credential your AI tool never saw is the one you never have to rotate.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/the-first-line-of-defense-in-ai-programming-environment.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/The-First-Line-of-Defense-in-AI-Programming-Environment-Variable-Management-08-19).*
 
 

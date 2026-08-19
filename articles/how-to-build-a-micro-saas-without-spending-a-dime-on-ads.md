@@ -62,6 +62,9 @@ The prerequisites are narrow. Commit to a tight niche, refuse to generalize the 
 
 Skip this approach if you cannot script, or if you are unwilling to answer support messages by hand through the cold start. Both are load-bearing. Neither is optional in the version of this story that actually worked.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/How-to-Build-a-Micro-SaaS-Without-Spending-a-Dime-on-Ads-08-19).*
 
 

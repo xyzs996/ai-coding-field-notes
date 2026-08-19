@@ -58,6 +58,9 @@ GPT-5.6 Sol illustrates why the second one matters. On 3D web page generation it
 
 Measure the loop. The unit price is the part of the bill you can see, and on Microsoft's numbers it is the smaller part.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/Beyond-Token-Pricing-How-Indie-Devs-Should-Really-Evaluate-AI-Model-Costs-08-19).*
 
 

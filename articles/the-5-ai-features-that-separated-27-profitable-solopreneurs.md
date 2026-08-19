@@ -58,6 +58,9 @@ There is also a case for not doing any of this. If your work is mostly one-off, 
 
 The takeaway from the 27 cases is not that you should use all five. It is that the profitable ones had enough of the right components, in an order that let each be verified before the next depended on it, to turn a promising workflow into something that kept running without them.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/The-5-AI-Features-That-Separated-27-Profitable-Solopreneurs-From-the-Rest-08-19).*
 
 
@@ -67,7 +70,7 @@ The takeaway from the 27 cases is not that you should use all five. It is that t
 
 - [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 - [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
-- [The First Line of Defense in AI Programming: Environment Variable Management](the-first-line-of-defense-in-ai-programming-environment.md)
+- [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
 [All 26 write-ups](../README.md)
 

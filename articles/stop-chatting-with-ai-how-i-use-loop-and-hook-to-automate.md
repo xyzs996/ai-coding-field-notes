@@ -36,6 +36,9 @@ For an independent developer running several projects at once, `/hook` is what t
 
 Once your timed loops and event hooks are handling the daily grind, your actual job changes from an active coder to a system architect. You stop manually reviewing every minor status update or routing raw data feeds by hand, and instead focus on defining the boundaries, rules, and communication protocols your agents must follow. Successful solo operators tend to codify their recurring procedures into reusable skill files, replacing long, tedious prompt engineering sessions with simple one-line triggers that run identically across different projects. Maintaining clean project files like structured requirements, architecture overviews, and progress logs completely eliminates the need to rely on massive conversational history windows. Separating global constraints from local project state gives you the flexibility to switch tools or spin up fresh agent instances without losing your operational footing. If you design these boundaries correctly, your tools stop feeling like fragile chat bots and start acting like a reliable infrastructure layer that scales with your workload. That is where I'd hedge.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/Stop-Chatting-With-AI-How-I-Use-loop-and-hook-to-Automate-My-Indie-Dev-Workflow-08-19).*
 
 

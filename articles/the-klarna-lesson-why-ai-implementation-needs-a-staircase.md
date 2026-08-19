@@ -94,6 +94,9 @@ The key insight is that delegation success depends on:
 
 These principles apply whether working with AI agents or managing human teams.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/The-Klarna-Lesson-Why-AI-Implementation-Needs-a-Staircase-Not-a-Leap-08-19).*
 
 
@@ -101,9 +104,9 @@ These principles apply whether working with AI agents or managing human teams.
 
 **Read next**
 
-- [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
-- [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 - [58 Million Plays Started With One Account, Not Four](58-million-plays-started-with-one-account-not-four.md)
+- [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](ai-agent-loop-engineering-karpathy-s-method-for-5x.md)
+- [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](ai-programming-tool-selection-strategy-from-rapid.md)
 
 [All 26 write-ups](../README.md)
 

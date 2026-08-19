@@ -58,6 +58,9 @@ For individual developers and small projects, this rarely bites. The combination
 
 For anyone in a regulated industry, I think the calculation is different and probably clearer. The quota is a bonus. The reason to look at MonkeyCode is that it runs where your code already lives, and that is a property most of the market does not offer at any price.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/MonkeyCode-The-Open-Source-AI-Coding-Platform-With-900-Million-Free-Tokens-08-19).*
 
 

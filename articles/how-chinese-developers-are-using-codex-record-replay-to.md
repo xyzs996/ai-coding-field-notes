@@ -74,6 +74,9 @@ So start narrow. Finance people record the monthly report; designers record the 
 
 That last habit is the one I'd argue matters most, and it is the one nobody sets up until the second time they have to re-record.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-developers-are-using-codex-record-replay-to.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/How-Chinese-Developers-Are-Using-Codex-Record--Replay-to-Streamline-Repetitive-Workflows-08-19).*
 
 
@@ -83,7 +86,7 @@ That last habit is the one I'd argue matters most, and it is the one nobody sets
 
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - [How to Build a Micro-SaaS Without Spending a Dime on Ads](how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
-- [The First Line of Defense in AI Programming: Environment Variable Management](the-first-line-of-defense-in-ai-programming-environment.md)
+- [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
 [All 26 write-ups](../README.md)
 

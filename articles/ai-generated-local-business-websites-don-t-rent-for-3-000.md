@@ -83,6 +83,9 @@ The initial financial outlook appears challenging:
 
 That’s not passive income. It’s **delayed income**. The tutorials omit the delay, focusing on the rosy picture of month six while glossing over the initial investment of time, money, and effort. Count the delay before you count the income.
 
+*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/ai-generated-local-business-websites-don-t-rent-for-3-000.html).*
+
+
 *Also readable on [Telegraph](https://telegra.ph/AI-Generated-Local-Business-Websites-Dont-Rent-for-3000Month-Until-You-Do-This-08-19).*
 
 
