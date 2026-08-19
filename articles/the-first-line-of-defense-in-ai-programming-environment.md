@@ -76,9 +76,9 @@ The credential your AI tool never saw is the one you never have to rotate.
 - [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 - [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
 
-[All 24 write-ups](../README.md)
+[All 26 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 247 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 255 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md)
 

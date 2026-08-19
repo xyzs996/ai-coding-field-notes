@@ -936,6 +936,70 @@
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html"
   },
   {
+    "value": "9.1%",
+    "kind": "percent",
+    "context": "One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed users were doing.",
+    "article": "Boosting AI Bot Conversion: A Deep Dive into Funnel Data",
+    "published": "2026-08-19",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html"
+  },
+  {
+    "value": "55.1%",
+    "kind": "percent",
+    "context": "One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed users were doing.",
+    "article": "Boosting AI Bot Conversion: A Deep Dive into Funnel Data",
+    "published": "2026-08-19",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html"
+  },
+  {
+    "value": "83.1%",
+    "kind": "percent",
+    "context": "Analyzing user behavior at each stage revealed the critical drop-off points, and the number that reframed the problem was this one: 83.1% of unmanaged groups contributed only 2.3% of new group entries.",
+    "article": "Boosting AI Bot Conversion: A Deep Dive into Funnel Data",
+    "published": "2026-08-19",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html"
+  },
+  {
+    "value": "2.3%",
+    "kind": "percent",
+    "context": "Analyzing user behavior at each stage revealed the critical drop-off points, and the number that reframed the problem was this one: 83.1% of unmanaged groups contributed only 2.3% of new group entries.",
+    "article": "Boosting AI Bot Conversion: A Deep Dive into Funnel Data",
+    "published": "2026-08-19",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html"
+  },
+  {
+    "value": "2.3%",
+    "kind": "percent",
+    "context": "The 2.3% is the weakest number in the set, and I'd treat it as directional rather than precise.",
+    "article": "Boosting AI Bot Conversion: A Deep Dive into Funnel Data",
+    "published": "2026-08-19",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html"
+  },
+  {
+    "value": "48 hours",
+    "kind": "duration",
+    "context": "Setting the course price at 9.9 yuan tested one specific proposition, that people would pay for a simpler installation path, and produced 2 sales within 48 hours, for total revenue of 19.8 yuan.",
+    "article": "Boosting AI Bot Conversion: A Deep Dive into Funnel Data",
+    "published": "2026-08-19",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html"
+  },
+  {
+    "value": "55.1%",
+    "kind": "percent",
+    "context": "The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again.",
+    "article": "Boosting AI Bot Conversion: A Deep Dive into Funnel Data",
+    "published": "2026-08-19",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html"
+  },
+  {
+    "value": "9.1%",
+    "kind": "percent",
+    "context": "The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again.",
+    "article": "Boosting AI Bot Conversion: A Deep Dive into Funnel Data",
+    "published": "2026-08-19",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html"
+  },
+  {
     "value": "$9.05",
     "kind": "price",
     "context": "Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.",

@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-250 figures pulled out of 24 write-ups in
+258 figures pulled out of 25 write-ups in
 [ai-coding-field-notes](https://github.com/xyzs996/ai-coding-field-notes) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -217,6 +217,21 @@ Published 2026-08-05.
 | `$1` | price | My reading, and I could be wrong about the timing, is that the $1 tier holds while that build-out is being financed and that the pressure surfaces later as capacity limits rather than as price rises. |
 | `$19 billion` | price | Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months. |
 | `12 months` | duration | Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months. |
+
+## [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html)
+
+Published 2026-08-19.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `9.1%` | percent | One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed users were doing. |
+| `55.1%` | percent | One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed users were doing. |
+| `83.1%` | percent | Analyzing user behavior at each stage revealed the critical drop-off points, and the number that reframed the problem was this one: 83.1% of unmanaged groups contributed only 2.3% of new group entries. |
+| `2.3%` | percent | Analyzing user behavior at each stage revealed the critical drop-off points, and the number that reframed the problem was this one: 83.1% of unmanaged groups contributed only 2.3% of new group entries. |
+| `2.3%` | percent | The 2.3% is the weakest number in the set, and I'd treat it as directional rather than precise. |
+| `48 hours` | duration | Setting the course price at 9.9 yuan tested one specific proposition, that people would pay for a simpler installation path, and produced 2 sales within 48 hours, for total revenue of 19.8 yuan. |
+| `55.1%` | percent | The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again. |
+| `9.1%` | percent | The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again. |
 
 ## [Choosing the Right AI Model for Coding: Cost vs. Efficiency](https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html)
 

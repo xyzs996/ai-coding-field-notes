@@ -75,11 +75,11 @@ Skip this approach if you cannot commit 12 hours a week for several months, or i
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](ai-agent-loop-engineering-karpathy-s-method-for-5x.md)
 
-[All 24 write-ups](../README.md)
+[All 26 write-ups](../README.md)
 
-The 31 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 219 more, as JSON and CSV.
+The 31 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 227 more, as JSON and CSV.
 
-Topics: [Indie Development](../topics/indie-development.md)
+Topics: [Indie Development](../topics/indie-development.md) · [Productivity](../topics/productivity.md)
 
 
 ---

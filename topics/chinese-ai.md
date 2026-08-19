@@ -1,6 +1,6 @@
 # Chinese AI
 
-3 of the 24 write-ups here are tagged Chinese AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 26 write-ups here are tagged Chinese AI. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ### [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 
@@ -16,4 +16,4 @@ In July 2026, while indie developers building AI coding products full-time watch
 
 ---
 
-[All 24 write-ups](../README.md)
+[All 26 write-ups](../README.md)

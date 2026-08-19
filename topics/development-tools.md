@@ -1,6 +1,6 @@
 # Development Tools
 
-4 of the 24 write-ups here are tagged Development Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 26 write-ups here are tagged Development Tools. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ### [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
@@ -20,4 +20,4 @@ MonkeyCode's free tier includes 900 million tokens, deploys to your own network 
 
 ---
 
-[All 24 write-ups](../README.md)
+[All 26 write-ups](../README.md)

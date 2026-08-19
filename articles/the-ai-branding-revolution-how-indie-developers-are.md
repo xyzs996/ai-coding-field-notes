@@ -96,9 +96,9 @@ The future belongs to indie developers who embrace AI as a partner, not a replac
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
-[All 24 write-ups](../README.md)
+[All 26 write-ups](../README.md)
 
-The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 249 more, as JSON and CSV.
+The 1 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 257 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [SaaS Business](../topics/saas-business.md) · [Cost Savings](../topics/cost-savings.md)
 

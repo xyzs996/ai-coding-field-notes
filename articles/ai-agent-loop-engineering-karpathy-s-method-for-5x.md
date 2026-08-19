@@ -164,9 +164,9 @@ Loop engineering offers several key advantages.
 - [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
 - [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
 
-[All 24 write-ups](../README.md)
+[All 26 write-ups](../README.md)
 
-The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 237 more, as JSON and CSV.
+The 13 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 245 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [Indie Development](../topics/indie-development.md)
 

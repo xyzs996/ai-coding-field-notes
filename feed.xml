@@ -4,8 +4,24 @@
   <id>https://xyzs996.github.io/ai-coding-field-notes/</id>
   <link href="https://xyzs996.github.io/ai-coding-field-notes/"/>
   <link rel="self" href="https://xyzs996.github.io/ai-coding-field-notes/feed.xml"/>
-  <updated>2026-08-19T08:19:00Z</updated>
+  <updated>2026-08-19T11:56:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow</title>
+    <link href="https://xyzs996.github.io/ai-coding-field-notes/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html"/>
+    <id>https://xyzs996.github.io/ai-coding-field-notes/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html</id>
+    <updated>2026-08-19T11:56:00Z</updated>
+    <published>2026-08-19T11:56:00Z</published>
+    <summary>If you run a solo dev shop, your daily routine usually involves fighting with fragmented information sources, endless browser tabs, and manual backend maintenance that eats away at the hours you sh…</summary>
+  </entry>
+  <entry>
+    <title>Boosting AI Bot Conversion: A Deep Dive into Funnel Data</title>
+    <link href="https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html"/>
+    <id>https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html</id>
+    <updated>2026-08-19T10:26:00Z</updated>
+    <published>2026-08-19T10:26:00Z</published>
+    <summary>One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed us…</summary>
+  </entry>
   <entry>
     <title>1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy</title>
     <link href="https://xyzs996.github.io/ai-coding-field-notes/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html"/>

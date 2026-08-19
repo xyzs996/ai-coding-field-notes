@@ -82,9 +82,9 @@ When choosing tools and models, developers should also consider the user-profile
 - [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](ai-programming-tool-selection-strategy-from-rapid.md)
 
-[All 24 write-ups](../README.md)
+[All 26 write-ups](../README.md)
 
-The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 231 more, as JSON and CSV.
+The 19 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 239 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [AI Costs](../topics/ai-costs.md) · [Development Tools](../topics/development-tools.md)
 

@@ -1,6 +1,6 @@
 # What AI coding agents cost, where they break, and what shipped
 
-24 write-ups on running AI coding agents in production — token bills,
+26 write-ups on running AI coding agents in production — token bills,
 tool switching costs, where the agents actually break, and what the
 numbers looked like afterwards.
 
@@ -12,9 +12,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (250 rows)
+## The figures, as data (258 rows)
 
-Every figure published across the 24 write-ups —
+Every figure published across the 26 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -50,7 +50,7 @@ it. The data is CC BY and does not require starring.
 **Follow along.** [Atom feed](https://xyzs996.github.io/ai-coding-field-notes/feed.xml) — new
 write-ups land there first.
 
-**By topic.** [Automation Systems](topics/automation-systems.md) (9) · [Indie Development](topics/indie-development.md) (9) · [AI Costs](topics/ai-costs.md) (6) · [SaaS Business](topics/saas-business.md) (6) · [AI Implementation](topics/ai-implementation.md) (5) · [Cost Savings](topics/cost-savings.md) (5) · [AI Programming](topics/ai-programming.md) (4) · [Development Tools](topics/development-tools.md) (4) · [Chinese AI](topics/chinese-ai.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Niche Market](topics/niche-market.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Automation Systems](topics/automation-systems.md) (9) · [Indie Development](topics/indie-development.md) (9) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [SaaS Business](topics/saas-business.md) (6) · [Cost Savings](topics/cost-savings.md) (5) · [AI Programming](topics/ai-programming.md) (4) · [Development Tools](topics/development-tools.md) (4) · [Niche Market](topics/niche-market.md) (4) · [Chinese AI](topics/chinese-ai.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Productivity](topics/productivity.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -114,6 +114,12 @@ Microsoft's evaluation of Kimi K3 landed on a number that should change how you 
 
 `AI Systems` `AI Implementation` `AI Pricing` `Indie Development`
 
+### [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md)
+
+One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed us…
+
+`AI Implementation` `AI Bot Conversion` `Funnel Data Analysis` `Enterprise AI Adoption`
+
 ### [Choosing the Right AI Model for Coding: Cost vs. Efficiency](articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
 Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.
@@ -143,6 +149,12 @@ Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 peop
 MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read.
 
 `Open-Source` `AI Costs` `Indie Development` `Development Tools`
+
+### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
+
+If you run a solo dev shop, your daily routine usually involves fighting with fragmented information sources, endless browser tabs, and manual backend maintenance that eats away at the hours you sh…
+
+`Productivity` `Recurring Revenue` `AI Features` `Niche Market`
 
 ### [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
 

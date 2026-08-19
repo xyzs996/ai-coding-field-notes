@@ -1,6 +1,6 @@
 # SaaS Business
 
-6 of the 24 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 26 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ### [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](../articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
@@ -28,4 +28,4 @@ In July 2026, while indie developers building AI coding products full-time watch
 
 ---
 
-[All 24 write-ups](../README.md)
+[All 26 write-ups](../README.md)

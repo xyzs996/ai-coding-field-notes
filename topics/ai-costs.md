@@ -1,6 +1,6 @@
 # AI Costs
 
-6 of the 24 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 26 write-ups here are tagged AI Costs. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ### [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](../articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
@@ -28,4 +28,4 @@ Klarna reported $4 million a year in savings and a 99.96 percent conversation en
 
 ---
 
-[All 24 write-ups](../README.md)
+[All 26 write-ups](../README.md)

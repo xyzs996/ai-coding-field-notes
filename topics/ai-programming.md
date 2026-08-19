@@ -1,6 +1,6 @@
 # AI Programming
 
-4 of the 24 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 26 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ### [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](../articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
 
@@ -20,4 +20,4 @@ Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which
 
 ---
 
-[All 24 write-ups](../README.md)
+[All 26 write-ups](../README.md)

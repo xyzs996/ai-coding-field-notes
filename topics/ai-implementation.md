@@ -1,6 +1,6 @@
 # AI Implementation
 
-5 of the 24 write-ups here are tagged AI Implementation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 26 write-ups here are tagged AI Implementation. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ### [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](../articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
@@ -9,6 +9,10 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 ### [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](../articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
 
 Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…
+
+### [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](../articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md)
+
+One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed us…
 
 ### [From AI Demo to Product: Loop Engineering for Indie Devs](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
@@ -24,4 +28,4 @@ Klarna reported $4 million a year in savings and a 99.96 percent conversation en
 
 ---
 
-[All 24 write-ups](../README.md)
+[All 26 write-ups](../README.md)

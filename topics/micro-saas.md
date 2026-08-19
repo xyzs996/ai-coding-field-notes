@@ -1,6 +1,6 @@
 # Micro SaaS
 
-3 of the 24 write-ups here are tagged Micro SaaS. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 26 write-ups here are tagged Micro SaaS. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ### [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 
@@ -16,4 +16,4 @@ Of the 27 AI-powered micro-SaaS projects that generated predictable monthly reve
 
 ---
 
-[All 24 write-ups](../README.md)
+[All 26 write-ups](../README.md)

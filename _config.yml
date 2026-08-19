@@ -28,13 +28,13 @@ defaults:
     values:
       description: "The 6 write-ups in these AI coding field notes tagged AI Costs — each with the figures it cited and the sentence every figure came from."
   - scope:
+      path: "topics/ai-implementation.md"
+    values:
+      description: "The 6 write-ups in these AI coding field notes tagged AI Implementation — each with the figures it cited and the sentence every figure came from."
+  - scope:
       path: "topics/saas-business.md"
     values:
       description: "The 6 write-ups in these AI coding field notes tagged SaaS Business — each with the figures it cited and the sentence every figure came from."
-  - scope:
-      path: "topics/ai-implementation.md"
-    values:
-      description: "The 5 write-ups in these AI coding field notes tagged AI Implementation — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/cost-savings.md"
     values:
@@ -48,6 +48,10 @@ defaults:
     values:
       description: "The 4 write-ups in these AI coding field notes tagged Development Tools — each with the figures it cited and the sentence every figure came from."
   - scope:
+      path: "topics/niche-market.md"
+    values:
+      description: "The 4 write-ups in these AI coding field notes tagged Niche Market — each with the figures it cited and the sentence every figure came from."
+  - scope:
       path: "topics/chinese-ai.md"
     values:
       description: "The 3 write-ups in these AI coding field notes tagged Chinese AI — each with the figures it cited and the sentence every figure came from."
@@ -56,9 +60,9 @@ defaults:
     values:
       description: "The 3 write-ups in these AI coding field notes tagged Micro SaaS — each with the figures it cited and the sentence every figure came from."
   - scope:
-      path: "topics/niche-market.md"
+      path: "topics/productivity.md"
     values:
-      description: "The 3 write-ups in these AI coding field notes tagged Niche Market — each with the figures it cited and the sentence every figure came from."
+      description: "The 3 write-ups in these AI coding field notes tagged Productivity — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/token-optimization.md"
     values:
@@ -144,6 +148,14 @@ defaults:
       seo:
         type: BlogPosting
   - scope:
+      path: "articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md"
+    values:
+      image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.png"
+      description: "One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed us…"
+      date: "2026-08-19T10:26:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
       path: "articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md"
     values:
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.png"
@@ -181,6 +193,14 @@ defaults:
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/monkeycode-the-open-source-ai-coding-platform-with-900.png"
       description: "MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read."
       date: "2026-08-16T08:07:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md"
+    values:
+      image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.png"
+      description: "If you run a solo dev shop, your daily routine usually involves fighting with fragmented information sources, endless browser tabs, and manual backend maintenance that eats away at the hours you sh…"
+      date: "2026-08-19T11:56:00Z"
       seo:
         type: BlogPosting
   - scope:
