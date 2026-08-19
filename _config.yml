@@ -199,7 +199,7 @@ defaults:
       path: "articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md"
     values:
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.png"
-      description: "If you run a solo dev shop, your daily routine usually involves fighting with fragmented information sources, endless browser tabs, and manual backend maintenance that eats away at the hours you sh…"
+      description: "If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic."
       date: "2026-08-19T11:56:00Z"
       seo:
         type: BlogPosting

@@ -8,7 +8,7 @@ The agent processes 40-plus podcast channels overnight, transcribed and summariz
 
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
-If you run a solo dev shop, your daily routine usually involves fighting with fragmented information sources, endless browser tabs, and manual backend maintenance that eats away at the hours you sh…
+If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic.
 
 ### [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 
