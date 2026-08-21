@@ -80,7 +80,7 @@ Quoted, not paraphrased: each is the sentence it was published in, with the date
 
 ## By provider
 
-Every figure whose quoted sentence names that provider, on one page, each with the date the write-up went out. None of these is a vendor price sheet — read every row as of its own date.
+Every figure whose quoted sentence names that provider, on one page, each with the date the write-up went out. None of these is a vendor price sheet — read every row as of its own date. Klarna is not a vendor here but a company these write-ups are about; those rows are what it did, not what it charges.
 
 - [GPT-5.6](https://xyzs996.github.io/ai-coding-field-notes/providers/gpt-5-6.html): 18 figures from 4 write-ups.
 - [Klarna](https://xyzs996.github.io/ai-coding-field-notes/providers/klarna.html): 9 figures from 2 write-ups.
