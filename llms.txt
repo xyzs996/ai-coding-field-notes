@@ -70,3 +70,9 @@ Every number in these notes traces back to a named source. Figures without one w
 - [Atom feed](https://xyzs996.github.io/ai-coding-field-notes/feed.xml): new notes as they are published.
 - [Request a figure](https://github.com/xyzs996/ai-coding-field-notes/discussions/1): which metric, which provider, which unit — replies get turned into rows.
 - [Corrections](https://github.com/xyzs996/ai-coding-field-notes/issues/new/choose): a number that moved, or a source that died.
+
+## Elsewhere
+
+- [https://xyzs996.github.io/free-llm-api/llms.txt](https://xyzs996.github.io/free-llm-api/llms.txt): which LLM APIs still have a free tier, and what the limit is: every figure dated and linked to the page it was read from.
+- [https://xyzs996.github.io/free-proxy-health-list/llms.txt](https://xyzs996.github.io/free-proxy-health-list/llms.txt): free HTTP/SOCKS proxies, re-checked and re-published on a schedule, as TXT, JSON and CSV.
+- [https://xyzs996.github.io/iptv-doctor/llms.txt](https://xyzs996.github.io/iptv-doctor/llms.txt): which public IPTV channels answer right now, per country and per channel. No stream URL is published.
