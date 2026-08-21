@@ -94,7 +94,7 @@ Topics: [Indie Development](../topics/indie-development.md)
 agents.*
 
 **Want a figure that is not in here yet?** Say which metric, which provider,
-which unit [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1)
+which unit [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/8)
 — replies get turned into rows. **Got a better number?** [Open an
 issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new/choose) — corrections and
 counter-data are the point. If this collection saved you an afternoon,
