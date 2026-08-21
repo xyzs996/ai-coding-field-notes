@@ -41,7 +41,7 @@ Die Texte sind **auf Englisch**, hier: https://xyzs996.github.io/ai-coding-field
 ## Sagen Sie etwas
 
 - **Markieren Sie das Repository mit einem Stern**, um Aktualisierungen zu folgen. Die Daten stehen unter CC BY: Der Stern ändert nichts daran, was Sie damit tun dürfen.
-- **Eine Zahl stimmt nicht?** Wenn ein Preis sich geändert hat oder Ihre eigene Messung etwas anderes ergibt — öffnen Sie ein Issue. Genau dafür ist dieses Repository da. ([issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new/choose))
+- **Eine Zahl stimmt nicht?** Wenn ein Preis sich geändert hat oder Ihre eigene Messung etwas anderes ergibt — öffnen Sie ein Issue. Genau dafür ist dieses Repository da. ([issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml))
 - **Eine Zahl fehlt?** Sagen Sie, welche Kennzahl, welcher Anbieter, welche Einheit — im offenen Thread. Antworten werden zu neuen Zeilen. ([thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1))
 
 ---

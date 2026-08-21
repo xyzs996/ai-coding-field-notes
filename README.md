@@ -80,7 +80,7 @@ curl -sL https://github.com/xyzs996/ai-coding-field-notes/releases/latest/downlo
 
 **Corrections wanted.** If a figure is stale, a tool changed its
 pricing, or you ran the same thing and got something else — [open an
-issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new/choose). That is
+issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml). That is
 what this repo is for.
 
 **Want a figure that is not here yet?** Say which metric, which

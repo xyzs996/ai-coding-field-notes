@@ -171,7 +171,7 @@ Every figure whose quoted sentence names that provider, on one page, each with t
 
 - [Atom feed](https://xyzs996.github.io/ai-coding-field-notes/feed.xml): new notes as they are published.
 - [Request a figure](https://github.com/xyzs996/ai-coding-field-notes/discussions/1): which metric, which provider, which unit — replies get turned into rows.
-- [Corrections](https://github.com/xyzs996/ai-coding-field-notes/issues/new/choose): a number that moved, or a source that died.
+- [Corrections](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml): a number that moved, or a source that died.
 
 ## Elsewhere
 

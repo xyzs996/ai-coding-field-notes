@@ -5,7 +5,7 @@ The most useful thing you can send here is a correction.
 ## Corrections
 
 A price moved, a limit changed, a tool shipped the thing this write-up said
-it could not do, a link died. [Open a correction](https://github.com/xyzs996/ai-coding-field-notes/issues/new/choose) —
+it could not do, a link died. [Open a correction](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml) —
 one field is required, the rest are optional. A source link helps but a bare
 "this is stale now" is still worth having.
 

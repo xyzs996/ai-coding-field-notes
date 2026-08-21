@@ -41,7 +41,7 @@ Les textes sont **en anglais**, ici : https://xyzs996.github.io/ai-coding-field-
 ## Dites quelque chose
 
 - **Mettez une étoile** pour suivre les mises à jour. Les données sont en CC BY : l'étoile ne change rien à ce que vous pouvez en faire.
-- **Un chiffre est faux ?** Si un prix a changé, ou si votre propre mesure donne autre chose — ouvrez un issue. Ce dépôt est fait pour ça. ([issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new/choose))
+- **Un chiffre est faux ?** Si un prix a changé, ou si votre propre mesure donne autre chose — ouvrez un issue. Ce dépôt est fait pour ça. ([issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml))
 - **Un chiffre manque ?** Dites quelle métrique, quel fournisseur, quelle unité — dans le fil ouvert. Les réponses deviennent des lignes. ([thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1))
 
 ---
