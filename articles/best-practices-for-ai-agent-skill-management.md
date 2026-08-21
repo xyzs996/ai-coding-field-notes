@@ -69,9 +69,9 @@ Another advantageous tool is OpenWorker. It automates tasks across 25+ tools. Ho
 - [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
-[All 31 write-ups](../README.md)
+[All 32 write-ups](../README.md)
 
-The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 306 more, as JSON and CSV.
+The 11 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 324 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md) · [AI Programming](../topics/ai-programming.md) · [Productivity](../topics/productivity.md) · [AI Features](../topics/ai-features.md)
 

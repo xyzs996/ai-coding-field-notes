@@ -91,9 +91,9 @@ These improvements highlight the importance of model selection and its impact on
 - [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](ai-programming-tool-selection-strategy-from-rapid.md)
 - [Token Optimization for Indie Developers' AI API Bills](token-optimization-for-indie-developers-ai-api-bills.md)
 
-[All 31 write-ups](../README.md)
+[All 32 write-ups](../README.md)
 
-The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 305 more, as JSON and CSV.
+The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 323 more, as JSON and CSV.
 
 Topics: [AI Costs](../topics/ai-costs.md) · [AI Implementation](../topics/ai-implementation.md) · [AI Programming](../topics/ai-programming.md) · [Cost Savings](../topics/cost-savings.md)
 

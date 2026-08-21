@@ -81,13 +81,15 @@ And read the output like a filter, not a verdict. At 43.1%, that is what it is.
 
 **Read next**
 
+- [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 - [Token Optimization for Indie Developers' AI API Bills](token-optimization-for-indie-developers-ai-api-bills.md)
-- [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 
-[All 31 write-ups](../README.md)
+[All 32 write-ups](../README.md)
 
-The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 302 more, as JSON and CSV.
+The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 320 more, as JSON and CSV.
+
+Topics: [Artificial Intelligence](../topics/artificial-intelligence.md)
 
 
 ---

@@ -44,12 +44,12 @@ Once your timed loops and event hooks are handling the daily grind, your actual 
 **Read next**
 
 - [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
+- [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
-- [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 
-[All 31 write-ups](../README.md)
+[All 32 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 315 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 333 more, as JSON and CSV.
 
 Topics: [Niche Market](../topics/niche-market.md) · [Productivity](../topics/productivity.md) · [AI Features](../topics/ai-features.md)
 

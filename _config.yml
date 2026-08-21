@@ -24,6 +24,10 @@ defaults:
     values:
       description: "The 10 write-ups in these AI coding field notes tagged Automation Systems — each with the figures it cited and the sentence every figure came from."
   - scope:
+      path: "topics/saas-business.md"
+    values:
+      description: "The 7 write-ups in these AI coding field notes tagged SaaS Business — each with the figures it cited and the sentence every figure came from."
+  - scope:
       path: "topics/ai-costs.md"
     values:
       description: "The 6 write-ups in these AI coding field notes tagged AI Costs — each with the figures it cited and the sentence every figure came from."
@@ -32,9 +36,9 @@ defaults:
     values:
       description: "The 6 write-ups in these AI coding field notes tagged AI Implementation — each with the figures it cited and the sentence every figure came from."
   - scope:
-      path: "topics/saas-business.md"
+      path: "topics/niche-market.md"
     values:
-      description: "The 6 write-ups in these AI coding field notes tagged SaaS Business — each with the figures it cited and the sentence every figure came from."
+      description: "The 6 write-ups in these AI coding field notes tagged Niche Market — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/ai-programming.md"
     values:
@@ -44,17 +48,13 @@ defaults:
     values:
       description: "The 5 write-ups in these AI coding field notes tagged Cost Savings — each with the figures it cited and the sentence every figure came from."
   - scope:
-      path: "topics/niche-market.md"
+      path: "topics/productivity.md"
     values:
-      description: "The 5 write-ups in these AI coding field notes tagged Niche Market — each with the figures it cited and the sentence every figure came from."
+      description: "The 5 write-ups in these AI coding field notes tagged Productivity — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/development-tools.md"
     values:
       description: "The 4 write-ups in these AI coding field notes tagged Development Tools — each with the figures it cited and the sentence every figure came from."
-  - scope:
-      path: "topics/productivity.md"
-    values:
-      description: "The 4 write-ups in these AI coding field notes tagged Productivity — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/ai-features.md"
     values:
@@ -63,6 +63,10 @@ defaults:
       path: "topics/ai-tools.md"
     values:
       description: "The 3 write-ups in these AI coding field notes tagged AI Tools — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/artificial-intelligence.md"
+    values:
+      description: "The 3 write-ups in these AI coding field notes tagged Artificial Intelligence — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/chinese-ai.md"
     values:
@@ -181,6 +185,14 @@ defaults:
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.png"
       description: "Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects."
       date: "2026-08-12T07:42:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/debunking-the-myth-of-overnight-success-in-micro-saas.md"
+    values:
+      image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/debunking-the-myth-of-overnight-success-in-micro-saas.png"
+      description: "A six-hour Chrome extension that pays $400 a month with no servers behind it sounds like something invented to sell a course."
+      date: "2026-08-21T09:39:00Z"
       seo:
         type: BlogPosting
   - scope:

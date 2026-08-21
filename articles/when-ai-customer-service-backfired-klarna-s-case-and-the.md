@@ -86,9 +86,9 @@ I could be wrong here. This is one company, one quarter, and Klarna had reasons 
 - [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 - [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 
-[All 31 write-ups](../README.md)
+[All 32 write-ups](../README.md)
 
-The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 294 more, as JSON and CSV.
+The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 312 more, as JSON and CSV.
 
 Topics: [AI Costs](../topics/ai-costs.md) · [AI Implementation](../topics/ai-implementation.md) · [Niche Market](../topics/niche-market.md)
 

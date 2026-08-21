@@ -1413,6 +1413,168 @@
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html"
   },
   {
+    "value": "$400",
+    "kind": "price",
+    "unit": "per month",
+    "context": "A six-hour Chrome extension that pays $400 a month with no servers behind it sounds like something invented to sell a course.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "10%",
+    "kind": "percent",
+    "unit": "",
+    "context": "A text-replacement extension, one weekend of work, about six hours of it, 12,000 active users, and roughly 10% of them paying $3 a month for the premium tier.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "$3",
+    "kind": "price",
+    "unit": "per month",
+    "context": "A text-replacement extension, one weekend of work, about six hours of it, 12,000 active users, and roughly 10% of them paying $3 a month for the premium tier.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "$3",
+    "kind": "price",
+    "unit": "",
+    "context": "The free version replaces text on any page as often as you like, while the $3 tier adds multi-word replacement, regex matching, and rules you can set per site, which is the sort of feature split that only makes sense once you already know which users are the impatient ones.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "$29",
+    "kind": "price",
+    "unit": "",
+    "context": "Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "$9.90",
+    "kind": "price",
+    "unit": "",
+    "context": "The sweet spot for a tool-shaped micro-SaaS in North America sits somewhere between $9.90 and $49 a month, but that range is a result rather than an opening decision.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "$49",
+    "kind": "price",
+    "unit": "per month",
+    "context": "The sweet spot for a tool-shaped micro-SaaS in North America sits somewhere between $9.90 and $49 a month, but that range is a result rather than an opening decision.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "$19",
+    "kind": "price",
+    "unit": "",
+    "context": "You do not set $19 and wait for buyers.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "$19",
+    "kind": "price",
+    "unit": "",
+    "context": "You find buyers, and $19 turns out to be what they will pay.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "48 hours",
+    "kind": "duration",
+    "unit": "",
+    "context": "Someone posted screenshots of the steps for setting up an AI tool on a personal account, watched the comments fill up with people who wanted the same setup and could not follow the official instructions, priced a walkthrough at 9.9 RMB to see whether the interest survived contact with a payment screen, and took two orders inside 48 hours.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "$44,000",
+    "kind": "price",
+    "unit": "",
+    "context": "Then it sold a subscription around quitting, and reached $44,000 in monthly revenue without ever being a general health app.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "$125K",
+    "kind": "price",
+    "unit": "",
+    "context": "It embedded a boring feature, the survey, into the one moment when an e-commerce buyer is honest, and got to $125K MRR.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "$55k",
+    "kind": "price",
+    "unit": "",
+    "context": "James Dunn paired GPS trackers with a team that physically goes out and recovers stolen bikes, which is precisely the unpleasant part nobody wants to copy, and the thing runs at $55k MRR.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "$500",
+    "kind": "price",
+    "unit": "per month",
+    "context": "Generating local SEO content at volume gets a small site ranking sooner, and sites like that rent to local businesses for $500 to $3,000 a month each.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "$3,000",
+    "kind": "price",
+    "unit": "per month",
+    "context": "Generating local SEO content at volume gets a small site ranking sooner, and sites like that rent to local businesses for $500 to $3,000 a month each.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "$3",
+    "kind": "price",
+    "unit": "",
+    "context": "Those six hours sat on top of a decision to keep every rule client-side, which is what made a $3 subscription at a 10% conversion rate profitable instead of merely busy.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "10%",
+    "kind": "percent",
+    "unit": "",
+    "context": "Those six hours sat on top of a decision to keep every rule client-side, which is what made a $3 subscription at a 10% conversion rate profitable instead of merely busy.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
+    "value": "$400",
+    "kind": "price",
+    "unit": "",
+    "context": "Zero servers meant all $400 stayed.",
+    "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
+  },
+  {
     "value": "5 minutes",
     "kind": "duration",
     "unit": "",

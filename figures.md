@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-317 figures pulled out of 31 write-ups in
+335 figures pulled out of 32 write-ups in
 [ai-coding-field-notes](https://github.com/xyzs996/ai-coding-field-notes) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -289,6 +289,31 @@ Published 2026-08-12.
 | `60%` | percent | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
 | `12 months` | duration | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
 
+## [Debunking the Myth of Overnight Success in Micro-SaaS](https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html)
+
+Published 2026-08-21.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$400` per month | price | A six-hour Chrome extension that pays $400 a month with no servers behind it sounds like something invented to sell a course. |
+| `10%` | percent | A text-replacement extension, one weekend of work, about six hours of it, 12,000 active users, and roughly 10% of them paying $3 a month for the premium tier. |
+| `$3` per month | price | A text-replacement extension, one weekend of work, about six hours of it, 12,000 active users, and roughly 10% of them paying $3 a month for the premium tier. |
+| `$3` | price | The free version replaces text on any page as often as you like, while the $3 tier adds multi-word replacement, regex matching, and rules you can set per site, which is the sort of feature split that only makes sense once you already know which users are the impatient ones. |
+| `$29` | price | Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. |
+| `$9.90` | price | The sweet spot for a tool-shaped micro-SaaS in North America sits somewhere between $9.90 and $49 a month, but that range is a result rather than an opening decision. |
+| `$49` per month | price | The sweet spot for a tool-shaped micro-SaaS in North America sits somewhere between $9.90 and $49 a month, but that range is a result rather than an opening decision. |
+| `$19` | price | You do not set $19 and wait for buyers. |
+| `$19` | price | You find buyers, and $19 turns out to be what they will pay. |
+| `48 hours` | duration | Someone posted screenshots of the steps for setting up an AI tool on a personal account, watched the comments fill up with people who wanted the same setup and could not follow the official instructions, priced a walkthrough at 9.9 RMB to see whether the interest survived contact with a payment screen, and took two orders inside 48 hours. |
+| `$44,000` | price | Then it sold a subscription around quitting, and reached $44,000 in monthly revenue without ever being a general health app. |
+| `$125K` | price | It embedded a boring feature, the survey, into the one moment when an e-commerce buyer is honest, and got to $125K MRR. |
+| `$55k` | price | James Dunn paired GPS trackers with a team that physically goes out and recovers stolen bikes, which is precisely the unpleasant part nobody wants to copy, and the thing runs at $55k MRR. |
+| `$500` per month | price | Generating local SEO content at volume gets a small site ranking sooner, and sites like that rent to local businesses for $500 to $3,000 a month each. |
+| `$3,000` per month | price | Generating local SEO content at volume gets a small site ranking sooner, and sites like that rent to local businesses for $500 to $3,000 a month each. |
+| `$3` | price | Those six hours sat on top of a decision to keep every rule client-side, which is what made a $3 subscription at a 10% conversion rate profitable instead of merely busy. |
+| `10%` | percent | Those six hours sat on top of a decision to keep every rule client-side, which is what made a $3 subscription at a 10% conversion rate profitable instead of merely busy. |
+| `$400` | price | Zero servers meant all $400 stayed. |
+
 ## [From AI Demo to Product: Loop Engineering for Indie Devs](https://xyzs996.github.io/ai-coding-field-notes/articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.html)
 
 Published 2026-08-18.
@@ -576,5 +601,5 @@ Published 2026-08-11.
 | `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "317 figures pulled out of 31 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/ai-coding-field-notes/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/ai-coding-field-notes", "temporalCoverage": "2026-08-05/2026-08-21", "dateModified": "2026-08-21"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "335 figures pulled out of 32 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/ai-coding-field-notes/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/ai-coding-field-notes", "temporalCoverage": "2026-08-05/2026-08-21", "dateModified": "2026-08-21"}
 </script>
