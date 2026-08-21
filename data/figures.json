@@ -20,7 +20,7 @@
   {
     "value": "$5",
     "kind": "price",
-    "unit": "",
+    "unit": "per million tokens",
     "context": "Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12.",
     "article": "How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens",
     "published": "2026-08-07",
@@ -227,7 +227,7 @@
   {
     "value": "$9.05",
     "kind": "price",
-    "unit": "",
+    "unit": "per run",
     "context": "One front-end benchmark put GPT-5.6 Sol at $1.43 per run against $9.05 for Fable 5.",
     "article": "1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy",
     "published": "2026-08-19",
@@ -1064,7 +1064,7 @@
   {
     "value": "$1",
     "kind": "price",
-    "unit": "",
+    "unit": "per million",
     "context": "Here is what thinking depth costs in practice, why project context rather than generated code drives most of the bill, and what the $1-per-million tier tells you about where this market is heading.",
     "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
     "published": "2026-08-05",

@@ -13,9 +13,11 @@ summarised, so you can judge it without taking our word for it.
 live inside the figure — `60%` and `18 months` carry their own, `$20`
 does not. Where the sentence states the unit right after the amount
 (`$20/month`, `$0.19 per million tokens`) we lift those words out
-verbatim into `unit`. We never infer one: if the sentence does not say
-it, the field is empty. Empty means the piece did not state a unit,
-not that we failed to record it.
+verbatim into `unit`. A sentence that states the unit once and then
+puts a second amount up against it (`$1.43 per run against $9.05`)
+states it for both, so both rows carry it. We never infer one: if the
+sentence does not say it, the field is empty. Empty means the piece
+did not state a unit, not that we failed to record it.
 
 **Machine-readable.**
 
@@ -47,7 +49,7 @@ Published 2026-08-07.
 | --- | --- | --- |
 | `10,000 tokens` | tokens | This strategy revolves around using tools like OmniRoute, which aggregates 237 providers, compressing 10,000 tokens to 1080 through RTK+Caveman technology. |
 | `$0.19` per million tokens | price | Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. |
-| `$5` | price | Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. |
+| `$5` per million tokens | price | Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. |
 | `$1` per million tokens | price | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
 | `10%` | percent | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
 | `20%` | percent | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
@@ -84,7 +86,7 @@ Published 2026-08-19.
 | `54%` | percent | Sol is the heavy one, with a claimed 54% better token efficiency than models at the same level and an Ultra mode that runs 4 sub-agents in parallel. |
 | `95%` | percent | Luna answers fastest, hits 95% accuracy on basic question answering, and costs the least per batch. |
 | `$1.43` per run | price | One front-end benchmark put GPT-5.6 Sol at $1.43 per run against $9.05 for Fable 5. |
-| `$9.05` | price | One front-end benchmark put GPT-5.6 Sol at $1.43 per run against $9.05 for Fable 5. |
+| `$9.05` per run | price | One front-end benchmark put GPT-5.6 Sol at $1.43 per run against $9.05 for Fable 5. |
 | `6x` | multiple | A 6x spread on a single evaluation is the kind of gap that should decide your default long before a free quota does. |
 | `2 hours 41 minutes 35 seconds` | duration | Sol's Ultra mode took 2 hours 41 minutes 35 seconds to build one detailed 3D scene, running its sub-agents in parallel the whole time, and a run of that length is not something a fallback can politely interrupt halfway through. |
 | `24 hours` | duration | Sales staff using ChatGPT Work reportedly turned a CRM export into a technical proposal in 24 hours, work that had previously taken weeks, with something on the order of 70% of the time removed. |
@@ -233,7 +235,7 @@ Published 2026-08-05.
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `60 percent` | percent | Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requires, not from the price per token. |
-| `$1` | price | Here is what thinking depth costs in practice, why project context rather than generated code drives most of the bill, and what the $1-per-million tier tells you about where this market is heading. |
+| `$1` per million | price | Here is what thinking depth costs in practice, why project context rather than generated code drives most of the bill, and what the $1-per-million tier tells you about where this market is heading. |
 | `60 percent` | percent | Microsoft's testing puts that effect at roughly 60 percent of the observed cost spread, which makes it the dominant term and the unit price the correction. |
 | `60 percent` | percent | A 60 percent price advantage measured on an isolated function can disappear entirely in a real repository, because the cheap model reads the same context the expensive one does and then needs another round to get it right. |
 | `400 tokens` | tokens | Anthropic's SKILL.md file runs about 400 tokens, uses a two-pass approach with specific aesthetic guidance, and has passed 1.08 million installations. |
