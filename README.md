@@ -78,8 +78,8 @@ issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new/choose). That
 what this repo is for.
 
 **Want a figure that is not here yet?** Say which metric, which
-provider, which unit — [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1). Replies there
-get turned into rows.
+provider, which unit — [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1).
+Replies there get turned into rows.
 
 If this table saves you an afternoon, a star helps other people find
 it. The data is CC BY and does not require starring.
