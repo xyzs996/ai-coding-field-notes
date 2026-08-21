@@ -1,6 +1,6 @@
 # Productivity
 
-3 of the 26 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 29 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -11,7 +11,7 @@
 - **$150** — Selling 18 units of a $150 product every day gets you there, and 18 daily sales at a 2.5 percent landing-page conversion rate requires roughly 720 visitors a day. [→](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 - **$1 million** — The revenue arithmetic behind a $1 million annual target is simple enough to do on a napkin. [→](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 
-[All figures, 270 rows](../figures.md)
+[All figures, 291 rows](../figures.md)
 
 ## The write-ups
 
@@ -29,4 +29,4 @@ The videos run about 60 seconds.
 
 ---
 
-[All 26 write-ups](../README.md)
+[All 29 write-ups](../README.md)

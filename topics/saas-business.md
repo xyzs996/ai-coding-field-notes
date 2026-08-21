@@ -1,6 +1,6 @@
 # SaaS Business
 
-6 of the 26 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+6 of the 29 write-ups here are tagged SaaS Business. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$63,000** — Jordan's Resellbot started as 30 lines of JavaScript written because his partner was manually reposting listings every day, and it now runs at roughly $63,000 a month, which probably says more about picking a visible problem than about any distribution tactic. [→](../articles/58-million-plays-started-with-one-account-not-four.md)
 - **$22,000** — StoryShort matched, in 3 months, the revenue that an established B2B tool took 2 years to build, with Stripe records showing about $22,000 a month and cumulative revenue approaching $500,000. [→](../articles/58-million-plays-started-with-one-account-not-four.md)
 
-[All figures, 270 rows](../figures.md)
+[All figures, 291 rows](../figures.md)
 
 ## The write-ups
 
@@ -43,4 +43,4 @@ In July 2026, while indie developers building AI coding products full-time watch
 
 ---
 
-[All 26 write-ups](../README.md)
+[All 29 write-ups](../README.md)

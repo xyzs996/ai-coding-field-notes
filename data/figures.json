@@ -1016,6 +1016,46 @@
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html"
   },
   {
+    "value": "43.1%",
+    "kind": "percent",
+    "context": "For example, in the ReactBench test, both GPT 5.6 Sol and Fable 5 achieved Pass@1 scores of only 43.1% and 41.2% respectively, indicating that these top-tier models still face challenges in real-world React projects. there is a difference in cost between these two models, with GPT 5.6 Sol costing about $1.43 per single run and Fable 5 costing $9.05.",
+    "article": "Choosing the Right AI Code Review Tool: A Developer's Guide",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.html"
+  },
+  {
+    "value": "41.2%",
+    "kind": "percent",
+    "context": "For example, in the ReactBench test, both GPT 5.6 Sol and Fable 5 achieved Pass@1 scores of only 43.1% and 41.2% respectively, indicating that these top-tier models still face challenges in real-world React projects. there is a difference in cost between these two models, with GPT 5.6 Sol costing about $1.43 per single run and Fable 5 costing $9.05.",
+    "article": "Choosing the Right AI Code Review Tool: A Developer's Guide",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.html"
+  },
+  {
+    "value": "$1.43",
+    "kind": "price",
+    "context": "For example, in the ReactBench test, both GPT 5.6 Sol and Fable 5 achieved Pass@1 scores of only 43.1% and 41.2% respectively, indicating that these top-tier models still face challenges in real-world React projects. there is a difference in cost between these two models, with GPT 5.6 Sol costing about $1.43 per single run and Fable 5 costing $9.05.",
+    "article": "Choosing the Right AI Code Review Tool: A Developer's Guide",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.html"
+  },
+  {
+    "value": "$9.05",
+    "kind": "price",
+    "context": "For example, in the ReactBench test, both GPT 5.6 Sol and Fable 5 achieved Pass@1 scores of only 43.1% and 41.2% respectively, indicating that these top-tier models still face challenges in real-world React projects. there is a difference in cost between these two models, with GPT 5.6 Sol costing about $1.43 per single run and Fable 5 costing $9.05.",
+    "article": "Choosing the Right AI Code Review Tool: A Developer's Guide",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.html"
+  },
+  {
+    "value": "54%",
+    "kind": "percent",
+    "context": "In agentic coding tasks, it is 54% more token-efficient than comparable models, offering improved performance for long-term and complex projects.",
+    "article": "Choosing the Right AI Code Review Tool: A Developer's Guide",
+    "published": "2026-08-21",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.html"
+  },
+  {
     "value": "$9.05",
     "kind": "price",
     "context": "Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.",
@@ -1254,6 +1294,118 @@
     "article": "How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows",
     "published": "2026-08-05",
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-developers-are-using-codex-record-replay-to.html"
+  },
+  {
+    "value": "$500",
+    "kind": "price",
+    "context": "Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into \"digital properties\" and renting them to local businesses for monthly rent between $500 and $3,000.",
+    "article": "How Indie Developers Are Building AI-Powered \"Digital Landlords\" and Renting Them Out for Monthly Cash Flow",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"
+  },
+  {
+    "value": "$3,000",
+    "kind": "price",
+    "context": "Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into \"digital properties\" and renting them to local businesses for monthly rent between $500 and $3,000.",
+    "article": "How Indie Developers Are Building AI-Powered \"Digital Landlords\" and Renting Them Out for Monthly Cash Flow",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"
+  },
+  {
+    "value": "$1,000,000",
+    "kind": "price",
+    "context": "Divide $1,000,000 by 12 months and you get $83,333 a month, which breaks down to $2,777 a day.",
+    "article": "How Indie Developers Are Building AI-Powered \"Digital Landlords\" and Renting Them Out for Monthly Cash Flow",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"
+  },
+  {
+    "value": "12 months",
+    "kind": "duration",
+    "context": "Divide $1,000,000 by 12 months and you get $83,333 a month, which breaks down to $2,777 a day.",
+    "article": "How Indie Developers Are Building AI-Powered \"Digital Landlords\" and Renting Them Out for Monthly Cash Flow",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"
+  },
+  {
+    "value": "$83,333",
+    "kind": "price",
+    "context": "Divide $1,000,000 by 12 months and you get $83,333 a month, which breaks down to $2,777 a day.",
+    "article": "How Indie Developers Are Building AI-Powered \"Digital Landlords\" and Renting Them Out for Monthly Cash Flow",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"
+  },
+  {
+    "value": "$2,777",
+    "kind": "price",
+    "context": "Divide $1,000,000 by 12 months and you get $83,333 a month, which breaks down to $2,777 a day.",
+    "article": "How Indie Developers Are Building AI-Powered \"Digital Landlords\" and Renting Them Out for Monthly Cash Flow",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"
+  },
+  {
+    "value": "$150",
+    "kind": "price",
+    "context": "You can reach that daily number by selling 18 copies of a $150 product, or by scaling higher-ticket services across a handful of properties.",
+    "article": "How Indie Developers Are Building AI-Powered \"Digital Landlords\" and Renting Them Out for Monthly Cash Flow",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"
+  },
+  {
+    "value": "2.5%",
+    "kind": "percent",
+    "context": "At a standard 2.5% landing page conversion rate, you need roughly 720 unique visitors every single day just to move those 18 orders at $150 each.",
+    "article": "How Indie Developers Are Building AI-Powered \"Digital Landlords\" and Renting Them Out for Monthly Cash Flow",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"
+  },
+  {
+    "value": "$150",
+    "kind": "price",
+    "context": "At a standard 2.5% landing page conversion rate, you need roughly 720 unique visitors every single day just to move those 18 orders at $150 each.",
+    "article": "How Indie Developers Are Building AI-Powered \"Digital Landlords\" and Renting Them Out for Monthly Cash Flow",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"
+  },
+  {
+    "value": "$10,000",
+    "kind": "price",
+    "context": "Convincing a single commercial roofing contractor that your site can send $10,000 worth of monthly leads for a $1,000 monthly rental fee is an infinitely cleaner conversation.",
+    "article": "How Indie Developers Are Building AI-Powered \"Digital Landlords\" and Renting Them Out for Monthly Cash Flow",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"
+  },
+  {
+    "value": "$1,000",
+    "kind": "price",
+    "context": "Convincing a single commercial roofing contractor that your site can send $10,000 worth of monthly leads for a $1,000 monthly rental fee is an infinitely cleaner conversation.",
+    "article": "How Indie Developers Are Building AI-Powered \"Digital Landlords\" and Renting Them Out for Monthly Cash Flow",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"
+  },
+  {
+    "value": "2.5%",
+    "kind": "percent",
+    "context": "Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets.",
+    "article": "How Indie Developers Are Building AI-Powered \"Digital Landlords\" and Renting Them Out for Monthly Cash Flow",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"
+  },
+  {
+    "value": "$1,000",
+    "kind": "price",
+    "context": "Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets.",
+    "article": "How Indie Developers Are Building AI-Powered \"Digital Landlords\" and Renting Them Out for Monthly Cash Flow",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"
+  },
+  {
+    "value": "$5,000",
+    "kind": "price",
+    "context": "Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets.",
+    "article": "How Indie Developers Are Building AI-Powered \"Digital Landlords\" and Renting Them Out for Monthly Cash Flow",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"
   },
   {
     "value": "$10,000",
@@ -1862,6 +2014,22 @@
     "article": "Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It",
     "published": "2026-08-17",
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.html"
+  },
+  {
+    "value": "80%",
+    "kind": "percent",
+    "context": "When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks.",
+    "article": "Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/why-stripping-80-of-system-prompts-actually-improved-claude.html"
+  },
+  {
+    "value": "80%",
+    "kind": "percent",
+    "context": "Stripping away that redundant 80% removes the cognitive drag holding the model back, freeing native reasoning capacity and cutting the token burn.",
+    "article": "Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance",
+    "published": "2026-08-20",
+    "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/why-stripping-80-of-system-prompts-actually-improved-claude.html"
   },
   {
     "value": "60 seconds",

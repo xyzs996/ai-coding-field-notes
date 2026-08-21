@@ -4,8 +4,32 @@
   <id>https://xyzs996.github.io/ai-coding-field-notes/</id>
   <link href="https://xyzs996.github.io/ai-coding-field-notes/"/>
   <link rel="self" href="https://xyzs996.github.io/ai-coding-field-notes/feed.xml"/>
-  <updated>2026-08-19T11:56:00Z</updated>
+  <updated>2026-08-21T08:18:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>Choosing the Right AI Code Review Tool: A Developer's Guide</title>
+    <link href="https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.html"/>
+    <id>https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.html</id>
+    <updated>2026-08-21T08:18:00Z</updated>
+    <published>2026-08-21T08:18:00Z</published>
+    <summary>When it comes to selecting an AI code review tool, developers have many options to choose from.</summary>
+  </entry>
+  <entry>
+    <title>How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow</title>
+    <link href="https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html"/>
+    <id>https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html</id>
+    <updated>2026-08-20T09:36:00Z</updated>
+    <published>2026-08-20T09:36:00Z</published>
+    <summary>Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into "digital properties" and renting them to local businesses for monthly ren…</summary>
+  </entry>
+  <entry>
+    <title>Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance</title>
+    <link href="https://xyzs996.github.io/ai-coding-field-notes/articles/why-stripping-80-of-system-prompts-actually-improved-claude.html"/>
+    <id>https://xyzs996.github.io/ai-coding-field-notes/articles/why-stripping-80-of-system-prompts-actually-improved-claude.html</id>
+    <updated>2026-08-20T07:45:00Z</updated>
+    <published>2026-08-20T07:45:00Z</published>
+    <summary>When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks.</summary>
+  </entry>
   <entry>
     <title>Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow</title>
     <link href="https://xyzs996.github.io/ai-coding-field-notes/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html"/>

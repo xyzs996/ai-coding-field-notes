@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://xyzs996.github.io/ai-coding-field-notes/</loc><lastmod>2026-08-19T11:56:00Z</lastmod></url>
-  <url><loc>https://xyzs996.github.io/ai-coding-field-notes/figures.html</loc><lastmod>2026-08-19T11:56:00Z</lastmod></url>
+  <url><loc>https://xyzs996.github.io/ai-coding-field-notes/</loc><lastmod>2026-08-21T08:18:00Z</lastmod></url>
+  <url><loc>https://xyzs996.github.io/ai-coding-field-notes/figures.html</loc><lastmod>2026-08-21T08:18:00Z</lastmod></url>
+  <url><loc>https://xyzs996.github.io/ai-coding-field-notes/topics/indie-development.html</loc><lastmod>2026-08-20T09:36:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/topics/automation-systems.html</loc><lastmod>2026-08-18T11:52:00Z</lastmod></url>
-  <url><loc>https://xyzs996.github.io/ai-coding-field-notes/topics/indie-development.html</loc><lastmod>2026-08-19T08:19:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/topics/ai-costs.html</loc><lastmod>2026-08-18T07:28:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/topics/ai-implementation.html</loc><lastmod>2026-08-19T10:26:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/topics/saas-business.html</loc><lastmod>2026-08-18T07:28:00Z</lastmod></url>
@@ -12,6 +12,7 @@
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/topics/development-tools.html</loc><lastmod>2026-08-19T08:19:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/topics/niche-market.html</loc><lastmod>2026-08-19T11:56:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/topics/chinese-ai.html</loc><lastmod>2026-08-18T07:28:00Z</lastmod></url>
+  <url><loc>https://xyzs996.github.io/ai-coding-field-notes/topics/code-review.html</loc><lastmod>2026-08-20T07:45:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/topics/micro-saas.html</loc><lastmod>2026-08-18T09:56:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/topics/productivity.html</loc><lastmod>2026-08-19T11:56:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/topics/token-optimization.html</loc><lastmod>2026-08-19T08:19:00Z</lastmod></url>
@@ -26,9 +27,11 @@
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html</loc><lastmod>2026-08-17T07:34:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html</loc><lastmod>2026-08-05T10:17:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html</loc><lastmod>2026-08-19T10:26:00Z</lastmod></url>
+  <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.html</loc><lastmod>2026-08-21T08:18:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html</loc><lastmod>2026-08-12T07:42:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.html</loc><lastmod>2026-08-18T11:52:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-developers-are-using-codex-record-replay-to.html</loc><lastmod>2026-08-05T12:38:00Z</lastmod></url>
+  <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html</loc><lastmod>2026-08-20T09:36:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.html</loc><lastmod>2026-08-17T09:29:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html</loc><lastmod>2026-08-16T08:07:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html</loc><lastmod>2026-08-19T11:56:00Z</lastmod></url>
@@ -40,5 +43,6 @@
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/token-optimization-for-indie-developers-ai-api-bills.html</loc><lastmod>2026-08-18T07:28:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html</loc><lastmod>2026-08-16T12:13:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.html</loc><lastmod>2026-08-17T11:54:00Z</lastmod></url>
+  <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/why-stripping-80-of-system-prompts-actually-improved-claude.html</loc><lastmod>2026-08-20T07:45:00Z</lastmod></url>
   <url><loc>https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html</loc><lastmod>2026-08-11T09:42:00Z</lastmod></url>
 </urlset>

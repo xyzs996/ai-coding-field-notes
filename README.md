@@ -2,7 +2,7 @@
 
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/ai-coding-field-notes/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/ai-coding-field-notes/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/ai-coding-field-notes/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/ai-coding-field-notes/blob/main/LICENSE)
 
-26 write-ups on running AI coding agents in production — token bills,
+29 write-ups on running AI coding agents in production — token bills,
 tool switching costs, where the agents actually break, and what the
 numbers looked like afterwards.
 
@@ -18,9 +18,9 @@ with AI assistance.
 The data is CC BY: a star changes nothing about what you can do with
 it, and this project gives nothing in return for one.
 
-## The figures, as data (270 rows)
+## The figures, as data (291 rows)
 
-Every figure published across the 26 write-ups —
+Every figure published across the 29 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -30,6 +30,9 @@ recent write-ups — quoted verbatim, not summarised:
 
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
+| `$1.43` | For example, in the ReactBench test, both GPT 5.6 Sol and Fable 5 achieved Pass@1 scores of only 43.1% and 41.2% respectively, indicating that these top-tier models still face challenges in real-world React projects. there is a difference in cost between these two models, with GPT 5.6 Sol costing about $1.43 per single run and Fable 5 costing $9.05. | [Choosing the Right AI Code Review Tool: A Developer's Guide](articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.md) |
+| `80%` | When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. | [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](articles/why-stripping-80-of-system-prompts-actually-improved-claude.md) |
+| `$1,000` | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. | [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](articles/how-indie-developers-are-building-ai-powered-digital.md) |
 | `40-second` | When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. | [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md) |
 | `9.1%` | One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed users were doing. | [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md) |
 | `$1.25` | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. | [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) |
@@ -39,11 +42,8 @@ recent write-ups — quoted verbatim, not summarised:
 | `1,000 tokens` | The fourth is not a tool so much as an escape hatch to the entire operating system, and it is doing the work that 20 tools would do in a larger framework, which is exactly why the total comes in under 1,000 tokens. | [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md) |
 | `$10,000` | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. | [How to Build a Micro-SaaS Without Spending a Dime on Ads](articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md) |
 | `70%` | Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF data extraction to PPT report generation, cutting document processing time by 70%. | [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md) |
-| `$4 million` | Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. | [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md) |
-| `90%` | AI branding tools like Miora let indie developers cut design costs by 90%. | [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](articles/the-ai-branding-revolution-how-indie-developers-are.md) |
-| `80 percent` | Track consumption from the first week rather than from the first warning at 80 percent. | [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](articles/monkeycode-the-open-source-ai-coding-platform-with-900.md) |
 
-[All 270 rows](figures.md) — or as data:
+[All 291 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json
@@ -88,7 +88,7 @@ Replies there get turned into rows.
 **Follow along.** [Atom feed](https://xyzs996.github.io/ai-coding-field-notes/feed.xml) — new
 write-ups land there first.
 
-**By topic.** [Automation Systems](topics/automation-systems.md) (9) · [Indie Development](topics/indie-development.md) (9) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [SaaS Business](topics/saas-business.md) (6) · [Cost Savings](topics/cost-savings.md) (5) · [AI Programming](topics/ai-programming.md) (4) · [Development Tools](topics/development-tools.md) (4) · [Niche Market](topics/niche-market.md) (4) · [Chinese AI](topics/chinese-ai.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Productivity](topics/productivity.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (11) · [Automation Systems](topics/automation-systems.md) (9) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [SaaS Business](topics/saas-business.md) (6) · [Cost Savings](topics/cost-savings.md) (5) · [AI Programming](topics/ai-programming.md) (4) · [Development Tools](topics/development-tools.md) (4) · [Niche Market](topics/niche-market.md) (4) · [Chinese AI](topics/chinese-ai.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Productivity](topics/productivity.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -158,6 +158,12 @@ One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding 
 
 `AI Implementation` `AI Bot Conversion` `Funnel Data Analysis` `Enterprise AI Adoption`
 
+### [Choosing the Right AI Code Review Tool: A Developer's Guide](articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.md)
+
+When it comes to selecting an AI code review tool, developers have many options to choose from.
+
+`Artificial Intelligence` `Software Development` `Machine Learning` `AI code review`
+
 ### [Choosing the Right AI Model for Coding: Cost vs. Efficiency](articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
 Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.
@@ -175,6 +181,12 @@ The agent processes 40-plus podcast channels overnight, transcribed and summariz
 A monthly report that used to take four hours now takes a few minutes.
 
 `Workflow Automation` `AI Development` `Chinese AI` `Automation Systems`
+
+### [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](articles/how-indie-developers-are-building-ai-powered-digital.md)
+
+Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into "digital properties" and renting them to local businesses for monthly ren…
+
+`Passive Income` `Indie Development` `AI-Powered` `Digital Landlords`
 
 ### [How to Build a Micro-SaaS Without Spending a Dime on Ads](articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 
@@ -241,6 +253,12 @@ Klarna reported $4 million a year in savings and a 99.96 percent conversation en
 Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it.
 
 `Security` `AI Programming` `Indie Development` `Sandbox`
+
+### [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
+
+When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks.
+
+`Developer Productivity` `Code Review` `AI Features` `Indie Development`
 
 ### [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 

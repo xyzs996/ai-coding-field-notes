@@ -16,13 +16,13 @@ defaults:
       description: "Every figure published in these AI coding field notes (prices, percentages, multiples, token counts and durations), as JSON and CSV — each row carries the full sentence it came from and a link to the write-up."
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/figures.png"
   - scope:
+      path: "topics/indie-development.md"
+    values:
+      description: "The 11 write-ups in these AI coding field notes tagged Indie Development — each with the figures it cited and the sentence every figure came from."
+  - scope:
       path: "topics/automation-systems.md"
     values:
       description: "The 9 write-ups in these AI coding field notes tagged Automation Systems — each with the figures it cited and the sentence every figure came from."
-  - scope:
-      path: "topics/indie-development.md"
-    values:
-      description: "The 9 write-ups in these AI coding field notes tagged Indie Development — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/ai-costs.md"
     values:
@@ -55,6 +55,10 @@ defaults:
       path: "topics/chinese-ai.md"
     values:
       description: "The 3 write-ups in these AI coding field notes tagged Chinese AI — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/code-review.md"
+    values:
+      description: "The 3 write-ups in these AI coding field notes tagged Code Review — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/micro-saas.md"
     values:
@@ -156,6 +160,14 @@ defaults:
       seo:
         type: BlogPosting
   - scope:
+      path: "articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.md"
+    values:
+      image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/choosing-the-right-ai-code-review-tool-a-developer-s-guide.png"
+      description: "When it comes to selecting an AI code review tool, developers have many options to choose from."
+      date: "2026-08-21T08:18:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
       path: "articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md"
     values:
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.png"
@@ -177,6 +189,14 @@ defaults:
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/how-chinese-developers-are-using-codex-record-replay-to.png"
       description: "A monthly report that used to take four hours now takes a few minutes."
       date: "2026-08-05T12:38:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/how-indie-developers-are-building-ai-powered-digital.md"
+    values:
+      image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/how-indie-developers-are-building-ai-powered-digital.png"
+      description: "Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into \"digital properties\" and renting them to local businesses for monthly ren…"
+      date: "2026-08-20T09:36:00Z"
       seo:
         type: BlogPosting
   - scope:
@@ -265,6 +285,14 @@ defaults:
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.png"
       description: "Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it."
       date: "2026-08-17T11:54:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/why-stripping-80-of-system-prompts-actually-improved-claude.md"
+    values:
+      image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/why-stripping-80-of-system-prompts-actually-improved-claude.png"
+      description: "When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks."
+      date: "2026-08-20T07:45:00Z"
       seo:
         type: BlogPosting
   - scope:

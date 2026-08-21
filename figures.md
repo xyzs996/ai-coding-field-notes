@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-270 figures pulled out of 26 write-ups in
+291 figures pulled out of 29 write-ups in
 [ai-coding-field-notes](https://github.com/xyzs996/ai-coding-field-notes) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -235,6 +235,18 @@ Published 2026-08-19.
 | `55.1%` | percent | The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again. |
 | `9.1%` | percent | The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again. |
 
+## [Choosing the Right AI Code Review Tool: A Developer's Guide](https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.html)
+
+Published 2026-08-21.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `43.1%` | percent | For example, in the ReactBench test, both GPT 5.6 Sol and Fable 5 achieved Pass@1 scores of only 43.1% and 41.2% respectively, indicating that these top-tier models still face challenges in real-world React projects. there is a difference in cost between these two models, with GPT 5.6 Sol costing about $1.43 per single run and Fable 5 costing $9.05. |
+| `41.2%` | percent | For example, in the ReactBench test, both GPT 5.6 Sol and Fable 5 achieved Pass@1 scores of only 43.1% and 41.2% respectively, indicating that these top-tier models still face challenges in real-world React projects. there is a difference in cost between these two models, with GPT 5.6 Sol costing about $1.43 per single run and Fable 5 costing $9.05. |
+| `$1.43` | price | For example, in the ReactBench test, both GPT 5.6 Sol and Fable 5 achieved Pass@1 scores of only 43.1% and 41.2% respectively, indicating that these top-tier models still face challenges in real-world React projects. there is a difference in cost between these two models, with GPT 5.6 Sol costing about $1.43 per single run and Fable 5 costing $9.05. |
+| `$9.05` | price | For example, in the ReactBench test, both GPT 5.6 Sol and Fable 5 achieved Pass@1 scores of only 43.1% and 41.2% respectively, indicating that these top-tier models still face challenges in real-world React projects. there is a difference in cost between these two models, with GPT 5.6 Sol costing about $1.43 per single run and Fable 5 costing $9.05. |
+| `54%` | percent | In agentic coding tasks, it is 54% more token-efficient than comparable models, offering improved performance for long-term and complex projects. |
+
 ## [Choosing the Right AI Model for Coding: Cost vs. Efficiency](https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html)
 
 Published 2026-08-12.
@@ -285,6 +297,27 @@ Published 2026-08-05.
 | `4-hours` | duration | The 4-hours-to-minutes report passes that test. |
 | `80 percent` | percent | Most of what feels repetitive in a week does not, which is why the 80 percent figure describes a narrow slice of the work rather than 80 percent of anyone's day. |
 | `80 percent` | percent | The 80 percent figure should probably travel too, with the caveat that it applies to the recorded slice and not the day. |
+
+## [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html)
+
+Published 2026-08-20.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$500` | price | Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into "digital properties" and renting them to local businesses for monthly rent between $500 and $3,000. |
+| `$3,000` | price | Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into "digital properties" and renting them to local businesses for monthly rent between $500 and $3,000. |
+| `$1,000,000` | price | Divide $1,000,000 by 12 months and you get $83,333 a month, which breaks down to $2,777 a day. |
+| `12 months` | duration | Divide $1,000,000 by 12 months and you get $83,333 a month, which breaks down to $2,777 a day. |
+| `$83,333` | price | Divide $1,000,000 by 12 months and you get $83,333 a month, which breaks down to $2,777 a day. |
+| `$2,777` | price | Divide $1,000,000 by 12 months and you get $83,333 a month, which breaks down to $2,777 a day. |
+| `$150` | price | You can reach that daily number by selling 18 copies of a $150 product, or by scaling higher-ticket services across a handful of properties. |
+| `2.5%` | percent | At a standard 2.5% landing page conversion rate, you need roughly 720 unique visitors every single day just to move those 18 orders at $150 each. |
+| `$150` | price | At a standard 2.5% landing page conversion rate, you need roughly 720 unique visitors every single day just to move those 18 orders at $150 each. |
+| `$10,000` | price | Convincing a single commercial roofing contractor that your site can send $10,000 worth of monthly leads for a $1,000 monthly rental fee is an infinitely cleaner conversation. |
+| `$1,000` | price | Convincing a single commercial roofing contractor that your site can send $10,000 worth of monthly leads for a $1,000 monthly rental fee is an infinitely cleaner conversation. |
+| `2.5%` | percent | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. |
+| `$1,000` | price | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. |
+| `$5,000` | price | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. |
 
 ## [How to Build a Micro-SaaS Without Spending a Dime on Ads](https://xyzs996.github.io/ai-coding-field-notes/articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.html)
 
@@ -439,6 +472,15 @@ Published 2026-08-17.
 | `1,000 tokens` | tokens | The fourth is not a tool so much as an escape hatch to the entire operating system, and it is doing the work that 20 tools would do in a larger framework, which is exactly why the total comes in under 1,000 tokens. |
 | `1,000 tokens` | tokens | That is arguably the correct decision for Pi, since guided discovery is exactly the kind of thing that costs tokens in the system prompt, and the whole premise here is that the prompt stays under 1,000 tokens. |
 
+## [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](https://xyzs996.github.io/ai-coding-field-notes/articles/why-stripping-80-of-system-prompts-actually-improved-claude.html)
+
+Published 2026-08-20.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `80%` | percent | When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. |
+| `80%` | percent | Stripping away that redundant 80% removes the cognitive drag holding the model back, freeing native reasoning capacity and cutting the token burn. |
+
 ## [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html)
 
 Published 2026-08-11.
@@ -484,5 +526,5 @@ Published 2026-08-11.
 | `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "270 figures pulled out of 26 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece.", "url": "https://xyzs996.github.io/ai-coding-field-notes/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/ai-coding-field-notes", "temporalCoverage": "2026-08-05/2026-08-19", "dateModified": "2026-08-19"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "291 figures pulled out of 29 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece.", "url": "https://xyzs996.github.io/ai-coding-field-notes/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/ai-coding-field-notes", "temporalCoverage": "2026-08-05/2026-08-21", "dateModified": "2026-08-21"}
 </script>

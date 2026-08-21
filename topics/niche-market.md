@@ -1,6 +1,6 @@
 # Niche Market
 
-4 of the 26 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 29 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$500** — You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. [→](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
 - **$3,000** — High-ticket services in low-competition cities often sit at the $3,000 end for websites that actually deliver customers. [→](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
 
-[All figures, 270 rows](../figures.md)
+[All figures, 291 rows](../figures.md)
 
 ## The write-ups
 
@@ -35,4 +35,4 @@ Klarna reported $4 million a year in savings and a 99.96 percent conversation en
 
 ---
 
-[All 26 write-ups](../README.md)
+[All 29 write-ups](../README.md)
