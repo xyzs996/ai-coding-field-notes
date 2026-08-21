@@ -14,6 +14,10 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
+**Star this repository** to bookmark the table and follow releases.
+The data is CC BY: a star changes nothing about what you can do with
+it, and this project gives nothing in return for one.
+
 ## The figures, as data (270 rows)
 
 Every figure published across the 26 write-ups —
@@ -80,9 +84,6 @@ what this repo is for.
 **Want a figure that is not here yet?** Say which metric, which
 provider, which unit — [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1).
 Replies there get turned into rows.
-
-If this table saves you an afternoon, a star helps other people find
-it. The data is CC BY and does not require starring.
 
 **Follow along.** [Atom feed](https://xyzs996.github.io/ai-coding-field-notes/feed.xml) — new
 write-ups land there first.
