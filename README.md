@@ -18,7 +18,7 @@ with AI assistance.
 The data is CC BY: a star changes nothing about what you can do with
 it, and this project gives nothing in return for one.
 
-## The figures, as data (296 rows)
+## The figures, as data (306 rows)
 
 Every figure published across the 30 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
@@ -30,7 +30,7 @@ recent write-ups — quoted verbatim, not summarised:
 
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
-| `$1.43` | For example, in the ReactBench test, both GPT 5.6 Sol and Fable 5 achieved Pass@1 scores of only 43.1% and 41.2% respectively, indicating that these top-tier models still face challenges in real-world React projects. there is a difference in cost between these two models, with GPT 5.6 Sol costing about $1.43 per single run and Fable 5 costing $9.05. | [Choosing the Right AI Code Review Tool: A Developer's Guide](articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.md) |
+| `$1.43` | The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. | [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) |
 | `80%` | When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. | [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](articles/why-stripping-80-of-system-prompts-actually-improved-claude.md) |
 | `$30` | With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. | [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md) |
 | `$1,000` | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. | [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](articles/how-indie-developers-are-building-ai-powered-digital.md) |
@@ -43,14 +43,14 @@ recent write-ups — quoted verbatim, not summarised:
 | `1,000 tokens` | The fourth is not a tool so much as an escape hatch to the entire operating system, and it is doing the work that 20 tools would do in a larger framework, which is exactly why the total comes in under 1,000 tokens. | [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md) |
 | `$10,000` | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. | [How to Build a Micro-SaaS Without Spending a Dime on Ads](articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md) |
 
-[All 296 rows](figures.md) — or as data:
+[All 306 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv
 ```
 
-Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `context`, `article`, `published`, `url`. `published` is the day that
+Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url`. `published` is the day that
 write-up went out, not the day the figure was in force —
 prices move, so read each row as of its own date.
 Browse it as a table:
@@ -158,12 +158,6 @@ One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding 
 
 `AI Implementation` `AI Bot Conversion` `Funnel Data Analysis` `Enterprise AI Adoption`
 
-### [Choosing the Right AI Code Review Tool: A Developer's Guide](articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.md)
-
-When it comes to selecting an AI code review tool, developers have many options to choose from.
-
-`Artificial Intelligence` `Software Development` `Machine Learning` `AI code review`
-
 ### [Choosing the Right AI Model for Coding: Cost vs. Efficiency](articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
 Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.
@@ -241,6 +235,12 @@ MonkeyCode ships with 900 million free tokens and supports private deployment, w
 Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading…
 
 `Artificial Intelligence` `AI Systems` `Automation Systems` `Enterprise Automation`
+
+### [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
+
+On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
+
+`Artificial Intelligence` `Software Development` `Machine Learning` `AI code review`
 
 ### [Token Optimization for Indie Developers' AI API Bills](articles/token-optimization-for-indie-developers-ai-api-bills.md)
 

@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-296 figures pulled out of 30 write-ups in
+306 figures pulled out of 30 write-ups in
 [ai-coding-field-notes](https://github.com/xyzs996/ai-coding-field-notes) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -9,6 +9,14 @@ checkable. `$1.43` could be per million tokens, per month, or per
 seat. The sentence is quoted verbatim from the published piece, not
 summarised, so you can judge it without taking our word for it.
 
+**What `unit` means.** Prices are the one kind whose unit does not
+live inside the figure — `60%` and `18 months` carry their own, `$20`
+does not. Where the sentence states the unit right after the amount
+(`$20/month`, `$0.19 per million tokens`) we lift those words out
+verbatim into `unit`. We never infer one: if the sentence does not say
+it, the field is empty. Empty means the piece did not state a unit,
+not that we failed to record it.
+
 **Machine-readable.**
 
 ```
@@ -16,7 +24,7 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figu
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv
 ```
 
-Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `context`, `article`, `published`, `url`.
+Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url`.
 
 **What `published` means.** It is the day the write-up carrying that
 sentence went out — not the day the price or the percentage was in
@@ -38,14 +46,14 @@ Published 2026-08-07.
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `10,000 tokens` | tokens | This strategy revolves around using tools like OmniRoute, which aggregates 237 providers, compressing 10,000 tokens to 1080 through RTK+Caveman technology. |
-| `$0.19` | price | Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. |
+| `$0.19` per million tokens | price | Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. |
 | `$5` | price | Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. |
-| `$1` | price | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
+| `$1` per million tokens | price | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
 | `10%` | percent | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
 | `20%` | percent | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
 | `10%` | percent | In contrast, top-tier American models only have a gross profit margin of 10% - 25% of that of these Chinese models, yet they still manage to maintain a positive gross profit. |
 | `25%` | percent | In contrast, top-tier American models only have a gross profit margin of 10% - 25% of that of these Chinese models, yet they still manage to maintain a positive gross profit. |
-| `$0.06` | price | It offers a price range of $0.06-0.2 per million tokens, targeting global small and medium-sized enterprises and individual users. |
+| `$0.06` per million tokens | price | It offers a price range of $0.06-0.2 per million tokens, targeting global small and medium-sized enterprises and individual users. |
 | `60%` | percent | An impressive 60% - 70% of its revenue comes from overseas, and the peak-time pricing mechanism boosts revenue further. |
 | `70%` | percent | An impressive 60% - 70% of its revenue comes from overseas, and the peak-time pricing mechanism boosts revenue further. |
 | `400-token` | tokens | Anthropic's 400-token SKILL.md file, through its "two-pass workflow" and specific aesthetic guidance, has achieved over 1 million installations, proving that aesthetic direction is more useful than mere tool innovation. |
@@ -75,7 +83,7 @@ Published 2026-08-19.
 | `10,000 tokens` | tokens | OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free tokens a month, and that figure is arithmetic rather than a promotion, because the RTK+Caveman layer compresses 10,000 tokens down to 1,080, and a free quota multiplied by about 10 is exactly what a ratio like that buys you. |
 | `54%` | percent | Sol is the heavy one, with a claimed 54% better token efficiency than models at the same level and an Ultra mode that runs 4 sub-agents in parallel. |
 | `95%` | percent | Luna answers fastest, hits 95% accuracy on basic question answering, and costs the least per batch. |
-| `$1.43` | price | One front-end benchmark put GPT-5.6 Sol at $1.43 per run against $9.05 for Fable 5. |
+| `$1.43` per run | price | One front-end benchmark put GPT-5.6 Sol at $1.43 per run against $9.05 for Fable 5. |
 | `$9.05` | price | One front-end benchmark put GPT-5.6 Sol at $1.43 per run against $9.05 for Fable 5. |
 | `6x` | multiple | A 6x spread on a single evaluation is the kind of gap that should decide your default long before a free quota does. |
 | `2 hours 41 minutes 35 seconds` | duration | Sol's Ultra mode took 2 hours 41 minutes 35 seconds to build one detailed 3D scene, running its sub-agents in parallel the whole time, and a run of that length is not something a fallback can politely interrupt halfway through. |
@@ -84,18 +92,18 @@ Published 2026-08-19.
 | `20%` | percent | One projection has non-coding users going from 20% of that product's base to 60% within 12 months. |
 | `60%` | percent | One projection has non-coding users going from 20% of that product's base to 60% within 12 months. |
 | `12 months` | duration | One projection has non-coding users going from 20% of that product's base to 60% within 12 months. |
-| `$1` | price | Top-tier Chinese models such as GLM5.2 and DeepSeek V4 Pro sit near $1 per million tokens at inference gross margins of 10% to 20%. |
+| `$1` per million tokens | price | Top-tier Chinese models such as GLM5.2 and DeepSeek V4 Pro sit near $1 per million tokens at inference gross margins of 10% to 20%. |
 | `10%` | percent | Top-tier Chinese models such as GLM5.2 and DeepSeek V4 Pro sit near $1 per million tokens at inference gross margins of 10% to 20%. |
 | `20%` | percent | Top-tier Chinese models such as GLM5.2 and DeepSeek V4 Pro sit near $1 per million tokens at inference gross margins of 10% to 20%. |
-| `$0.06` | price | At the low end, MiniMax M3 runs $0.06 to $0.2 per million and draws 60% to 70% of its revenue from outside its home market. |
-| `$0.2` | price | At the low end, MiniMax M3 runs $0.06 to $0.2 per million and draws 60% to 70% of its revenue from outside its home market. |
+| `$0.06` per million | price | At the low end, MiniMax M3 runs $0.06 to $0.2 per million and draws 60% to 70% of its revenue from outside its home market. |
+| `$0.2` per million | price | At the low end, MiniMax M3 runs $0.06 to $0.2 per million and draws 60% to 70% of its revenue from outside its home market. |
 | `60%` | percent | At the low end, MiniMax M3 runs $0.06 to $0.2 per million and draws 60% to 70% of its revenue from outside its home market. |
 | `70%` | percent | At the low end, MiniMax M3 runs $0.06 to $0.2 per million and draws 60% to 70% of its revenue from outside its home market. |
-| `$0.06` | price | A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. |
-| `$1` | price | A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. |
+| `$0.06` per million | price | A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. |
+| `$1` per million | price | A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. |
 | `16x` | multiple | A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. |
-| `$1.25` | price | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. |
-| `$4.25` | price | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. |
+| `$1.25` per million | price | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. |
+| `$4.25` per million | price | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. |
 | `75%` | percent | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. |
 | `83%` | percent | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. |
 | `9x` | multiple | Nothing in a routing layer gets you a 9x reduction. |
@@ -112,13 +120,13 @@ Published 2026-08-12.
 | `60%` | percent | One published pipeline reports moving completion rates from a typical 15% to 20% band up past 60%, using competitor teardowns to set the target, a distilled voice to keep the output consistent, a de-AI pass on the fingerprints, and a quality gate that blocks anything below the bar from going out at all. |
 | `3 months` | duration | StoryShort matched, in 3 months, the revenue that an established B2B tool took 2 years to build, with Stripe records showing about $22,000 a month and cumulative revenue approaching $500,000. |
 | `2 years` | duration | StoryShort matched, in 3 months, the revenue that an established B2B tool took 2 years to build, with Stripe records showing about $22,000 a month and cumulative revenue approaching $500,000. |
-| `$22,000` | price | StoryShort matched, in 3 months, the revenue that an established B2B tool took 2 years to build, with Stripe records showing about $22,000 a month and cumulative revenue approaching $500,000. |
+| `$22,000` per month | price | StoryShort matched, in 3 months, the revenue that an established B2B tool took 2 years to build, with Stripe records showing about $22,000 a month and cumulative revenue approaching $500,000. |
 | `$500,000` | price | StoryShort matched, in 3 months, the revenue that an established B2B tool took 2 years to build, with Stripe records showing about $22,000 a month and cumulative revenue approaching $500,000. |
 | `$1.2 million` | price | It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days. |
 | `30-day` | duration | It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days. |
 | `11%` | percent | It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days. |
 | `30 days` | duration | It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days. |
-| `$63,000` | price | Jordan's Resellbot started as 30 lines of JavaScript written because his partner was manually reposting listings every day, and it now runs at roughly $63,000 a month, which probably says more about picking a visible problem than about any distribution tactic. |
+| `$63,000` per month | price | Jordan's Resellbot started as 30 lines of JavaScript written because his partner was manually reposting listings every day, and it now runs at roughly $63,000 a month, which probably says more about picking a visible problem than about any distribution tactic. |
 
 ## [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](https://xyzs996.github.io/ai-coding-field-notes/articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.html)
 
@@ -133,8 +141,8 @@ Published 2026-08-15.
 | `$15,000` | price | Sam Shore's experience with Typeshare, which shows how sharing equity with KOLs can accelerate growth, is a prime example; by granting three-fifths of his company's stock to two influential figures, he achieved a remarkable increase in monthly revenue, jumping from $10,000 to $15,000 in only 30 days. |
 | `30 days` | duration | Sam Shore's experience with Typeshare, which shows how sharing equity with KOLs can accelerate growth, is a prime example; by granting three-fifths of his company's stock to two influential figures, he achieved a remarkable increase in monthly revenue, jumping from $10,000 to $15,000 in only 30 days. |
 | `$150` | price | The math only works if you sell 18 products at $150 each, every day. |
-| `$150` | price | Resellbot's pricing model at $150 per product aligns with industry benchmarks for automation tools, ensuring competitiveness in the Micro-SaaS market. |
-| `$6.3K` | price | The $6.3K/month revenue shows that even with modest pricing, the tool captures meaningful demand in the Poshmark automation niche. |
+| `$150` per product | price | Resellbot's pricing model at $150 per product aligns with industry benchmarks for automation tools, ensuring competitiveness in the Micro-SaaS market. |
+| `$6.3K` per month | price | The $6.3K/month revenue shows that even with modest pricing, the tool captures meaningful demand in the Poshmark automation niche. |
 | `18 months` | duration | Resellbot took 18 months to reach profitability. |
 | `18-month` | duration | Sustainable growth in Micro-SaaS often requires patience and persistence, as seen with Resellbot's 18-month journey to profitability. |
 
@@ -174,16 +182,16 @@ Published 2026-08-10.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
-| `$500` | price | You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. |
-| `$3,000` | price | You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. |
+| `$500` per month | price | You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. |
+| `$3,000` per month | price | You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. |
 | `90%` | percent | The claim leaves out the gap: 90% of beginners quit during the first 90–180 days because traffic never arrives and the invoices never land. |
 | `180 days` | duration | The claim leaves out the gap: 90% of beginners quit during the first 90–180 days because traffic never arrives and the invoices never land. |
 | `$3,000` | price | High-ticket services in low-competition cities often sit at the $3,000 end for websites that actually deliver customers. |
-| `$22,000` | price | Their Stripe records show $22,000 a month, proving that patience with organic strategies pays off. |
+| `$22,000` per month | price | Their Stripe records show $22,000 a month, proving that patience with organic strategies pays off. |
 | `7 minutes` | duration | Similarly, WorkBuddy and BrowserAct can automate competitor price tracking and generate product opportunity reports in under 7 minutes — something to put in front of a skeptical client while the sandbox clock runs. |
 | `90%` | percent | This approach has been validated by knowledge-based monetization experts, who emphasize that 90% of AI-generated articles fail due to low completion rates, but those using personality distillation and anti-AI fingerprinting techniques achieve 60%+ completion rates. |
 | `60%` | percent | This approach has been validated by knowledge-based monetization experts, who emphasize that 90% of AI-generated articles fail due to low completion rates, but those using personality distillation and anti-AI fingerprinting techniques achieve 60%+ completion rates. |
-| `$500` | price | The fastest documented case landed the first $500/month client at 12 weeks. |
+| `$500` per month | price | The fastest documented case landed the first $500/month client at 12 weeks. |
 | `12 weeks` | duration | The fastest documented case landed the first $500/month client at 12 weeks. |
 | `$500` | price | If more than five paid ads appear above the organic results, the cost per lead will outstrip your $500–$3,000 margin. |
 | `$3,000` | price | If more than five paid ads appear above the organic results, the cost per lead will outstrip your $500–$3,000 margin. |
@@ -212,7 +220,7 @@ Published 2026-08-05.
 | `60 percent` | percent | A 60 percent price advantage measured on an isolated function can disappear entirely in a real repository, because the cheap model reads the same context the expensive one does and then needs another round to get it right. |
 | `400 tokens` | tokens | Anthropic's SKILL.md file runs about 400 tokens, uses a two-pass approach with specific aesthetic guidance, and has passed 1.08 million installations. |
 | `400-token` | tokens | A 400-token file at that install count is worth staring at for a moment, because it says the effective intervention was guidance rather than tooling, and it cost almost nothing per call to apply. |
-| `$1` | price | DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin. |
+| `$1` per million tokens | price | DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin. |
 | `20 percent` | percent | DeepSeek V4 Pro and GLM5.2 charge roughly $1 per million tokens and reportedly run at a 10 to 20 percent margin. |
 | `900 million tokens` | tokens | MonkeyCode's free tier includes 900 million tokens, which is more than most competing coding tools offer and more than a solo developer working normally will exhaust. |
 | `$19 billion` | price | Anthropic signed a data center lease reported at $19 billion, which is the kind of commitment that only makes sense if compute, not model architecture, is the constraint that decides who is still standing in five years. |
@@ -235,38 +243,26 @@ Published 2026-08-19.
 | `55.1%` | percent | The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again. |
 | `9.1%` | percent | The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again. |
 
-## [Choosing the Right AI Code Review Tool: A Developer's Guide](https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.html)
-
-Published 2026-08-21.
-
-| Figure | Kind | In context |
-| --- | --- | --- |
-| `43.1%` | percent | For example, in the ReactBench test, both GPT 5.6 Sol and Fable 5 achieved Pass@1 scores of only 43.1% and 41.2% respectively, indicating that these top-tier models still face challenges in real-world React projects. there is a difference in cost between these two models, with GPT 5.6 Sol costing about $1.43 per single run and Fable 5 costing $9.05. |
-| `41.2%` | percent | For example, in the ReactBench test, both GPT 5.6 Sol and Fable 5 achieved Pass@1 scores of only 43.1% and 41.2% respectively, indicating that these top-tier models still face challenges in real-world React projects. there is a difference in cost between these two models, with GPT 5.6 Sol costing about $1.43 per single run and Fable 5 costing $9.05. |
-| `$1.43` | price | For example, in the ReactBench test, both GPT 5.6 Sol and Fable 5 achieved Pass@1 scores of only 43.1% and 41.2% respectively, indicating that these top-tier models still face challenges in real-world React projects. there is a difference in cost between these two models, with GPT 5.6 Sol costing about $1.43 per single run and Fable 5 costing $9.05. |
-| `$9.05` | price | For example, in the ReactBench test, both GPT 5.6 Sol and Fable 5 achieved Pass@1 scores of only 43.1% and 41.2% respectively, indicating that these top-tier models still face challenges in real-world React projects. there is a difference in cost between these two models, with GPT 5.6 Sol costing about $1.43 per single run and Fable 5 costing $9.05. |
-| `54%` | percent | In agentic coding tasks, it is 54% more token-efficient than comparable models, offering improved performance for long-term and complex projects. |
-
 ## [Choosing the Right AI Model for Coding: Cost vs. Efficiency](https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html)
 
 Published 2026-08-12.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
-| `$9.05` | price | Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects. |
+| `$9.05` per run | price | Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects. |
 | `41.2%` | percent | Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects. |
-| `$1.43` | price | In contrast, GPT-5.6 Sol, at $1.43 per run, achieves 43.1% accuracy in the same tests, suggesting that while cheaper models may save money upfront, they often result in longer, more costly development processes. |
+| `$1.43` per run | price | In contrast, GPT-5.6 Sol, at $1.43 per run, achieves 43.1% accuracy in the same tests, suggesting that while cheaper models may save money upfront, they often result in longer, more costly development processes. |
 | `43.1%` | percent | In contrast, GPT-5.6 Sol, at $1.43 per run, achieves 43.1% accuracy in the same tests, suggesting that while cheaper models may save money upfront, they often result in longer, more costly development processes. |
-| `$9.05` | price | The most affordable AI model option, Fable 5, costs just $9.05 per run, but delivers only 41.2% accuracy in React projects. |
+| `$9.05` per run | price | The most affordable AI model option, Fable 5, costs just $9.05 per run, but delivers only 41.2% accuracy in React projects. |
 | `41.2%` | percent | The most affordable AI model option, Fable 5, costs just $9.05 per run, but delivers only 41.2% accuracy in React projects. |
-| `$1.43` | price | For instance, GPT-5.6 Sol, while more expensive at $1.43 per run, shows superior performance with a 43.1% accuracy rate in the same ReactBench tests, which shows that cheaper models may save money upfront but can lead to longer development cycles due to frequent errors and rework. |
+| `$1.43` per run | price | For instance, GPT-5.6 Sol, while more expensive at $1.43 per run, shows superior performance with a 43.1% accuracy rate in the same ReactBench tests, which shows that cheaper models may save money upfront but can lead to longer development cycles due to frequent errors and rework. |
 | `43.1%` | percent | For instance, GPT-5.6 Sol, while more expensive at $1.43 per run, shows superior performance with a 43.1% accuracy rate in the same ReactBench tests, which shows that cheaper models may save money upfront but can lead to longer development cycles due to frequent errors and rework. |
 | `65.3%` | percent | A study found that 65.3% of AI-generated code passed functional tests but still introduced bugs that React Doctor caught, highlighting how even high-end models may not guarantee flawless results. |
 | `2x` | multiple | Low-cost models like Fable 5 introduce bugs that cost 2x more in rework time. |
 | `77.5%` | percent | The 77.5% failure rate in React projects means you'll spend more time fixing errors than actually coding. |
 | `54%` | percent | 54% higher token efficiency for complex tasks |
 | `54%` | percent | The 54% token efficiency gain means developers can complete more complex tasks with the same budget. |
-| `$3` | price | The $3 per million input tokens price point means developers should carefully evaluate whether the premium model's capabilities justify the increased costs for their specific use cases. |
+| `$3` per million input tokens | price | The $3 per million input tokens price point means developers should carefully evaluate whether the premium model's capabilities justify the increased costs for their specific use cases. |
 | `43.1%` | percent | ReactBench tests showed that GPT 5.6 Sol and Fable 5 had Pass@1 scores of only 43.1% and 41.2% respectively, indicating problems in real-world React projects. |
 | `41.2%` | percent | ReactBench tests showed that GPT 5.6 Sol and Fable 5 had Pass@1 scores of only 43.1% and 41.2% respectively, indicating problems in real-world React projects. |
 | `20%` | percent | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
@@ -308,13 +304,13 @@ Published 2026-08-20.
 | `$3,000` | price | Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into "digital properties" and renting them to local businesses for monthly rent between $500 and $3,000. |
 | `$1,000,000` | price | Divide $1,000,000 by 12 months and you get $83,333 a month, which breaks down to $2,777 a day. |
 | `12 months` | duration | Divide $1,000,000 by 12 months and you get $83,333 a month, which breaks down to $2,777 a day. |
-| `$83,333` | price | Divide $1,000,000 by 12 months and you get $83,333 a month, which breaks down to $2,777 a day. |
-| `$2,777` | price | Divide $1,000,000 by 12 months and you get $83,333 a month, which breaks down to $2,777 a day. |
+| `$83,333` per month | price | Divide $1,000,000 by 12 months and you get $83,333 a month, which breaks down to $2,777 a day. |
+| `$2,777` per day | price | Divide $1,000,000 by 12 months and you get $83,333 a month, which breaks down to $2,777 a day. |
 | `$150` | price | You can reach that daily number by selling 18 copies of a $150 product, or by scaling higher-ticket services across a handful of properties. |
 | `2.5%` | percent | At a standard 2.5% landing page conversion rate, you need roughly 720 unique visitors every single day just to move those 18 orders at $150 each. |
 | `$150` | price | At a standard 2.5% landing page conversion rate, you need roughly 720 unique visitors every single day just to move those 18 orders at $150 each. |
 | `$10,000` | price | Convincing a single commercial roofing contractor that your site can send $10,000 worth of monthly leads for a $1,000 monthly rental fee is an infinitely cleaner conversation. |
-| `$1,000` | price | Convincing a single commercial roofing contractor that your site can send $10,000 worth of monthly leads for a $1,000 monthly rental fee is an infinitely cleaner conversation. |
+| `$1,000` per month | price | Convincing a single commercial roofing contractor that your site can send $10,000 worth of monthly leads for a $1,000 monthly rental fee is an infinitely cleaner conversation. |
 | `2.5%` | percent | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. |
 | `$1,000` | price | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. |
 | `$5,000` | price | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. |
@@ -355,7 +351,7 @@ Published 2026-08-20.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
-| `$30` | price | With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. |
+| `$30` per day | price | With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. |
 | `$3` | price | With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. |
 | `$4` | price | With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. |
 | `5 minutes` | duration | WorkBuddy combined with BrowserAct can produce a competitive price table in 5 minutes and an opportunity report in 7, which is roughly the difference between checking a hypothesis during a coffee break and scheduling an afternoon for it. |
@@ -430,6 +426,28 @@ Published 2026-08-10.
 | `12 months` | duration | Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading the CEO to admit they "went too far" with automation after 12 months. |
 | `12 months` | duration | Quality degradation typically appears 6-12 months after full automation—long after the press releases have been sent. |
 
+## [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](https://xyzs996.github.io/ai-coding-field-notes/articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.html)
+
+Published 2026-08-21.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `43.1%` | percent | On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%. |
+| `41.2%` | percent | On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%. |
+| `$1.43` | price | A single run costs about $1.43 on the first and $9.05 on the second. |
+| `$9.05` | price | A single run costs about $1.43 on the first and $9.05 on the second. |
+| `43.1%` | percent | Any workflow you build on top of that has to assume a human reads the output, because a tool at 43.1% is a filter, not an approver. |
+| `43.1%` | percent | A 43.1% filter is useful in front of a reviewer and useless in place of one. |
+| `$1.43` | price | $1.43 against $9.05, per run, on the same benchmark. |
+| `$9.05` | price | $1.43 against $9.05, per run, on the same benchmark. |
+| `43%` | percent | It compounds in the direction people least expect, too — the cheaper model is the one you can afford to run twice on the same diff, and running a 43% filter twice catches more than running it once. |
+| `54%` | percent | Sol operates in an ultra-mode with internal multi-agents, which improves task completion accuracy and token efficiency; in agentic coding tasks it is 54% more token-efficient than comparable models. |
+| `$1.43` | price | The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. |
+| `$9.05` | price | The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. |
+| `43.1%` | percent | Those are the two things a 43.1% score is telling you the model cannot do. |
+| `9 token` | tokens | Run a specialised reviewer rather than a general agent where one exists for your stack — the 1/9 token figure is the largest single number in this whole comparison, and it is the one people skip. |
+| `43.1%` | percent | At 43.1%, that is what it is. |
+
 ## [Token Optimization for Indie Developers' AI API Bills](https://xyzs996.github.io/ai-coding-field-notes/articles/token-optimization-for-indie-developers-ai-api-bills.html)
 
 Published 2026-08-18.
@@ -449,7 +467,7 @@ Published 2026-08-16.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
-| `$4 million` | price | Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. |
+| `$4 million` per year | price | Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. |
 | `99.96 percent` | percent | Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. |
 | `$4 million` | price | Klarna ran that sequence backwards, and the $4 million showed up on the books months before the CSAT number showed up to argue with it. |
 | `$4 million` | price | The company reported $4 million in annual savings after the switch, which is the number that frees up budget for everything else on the roadmap. |
@@ -538,5 +556,5 @@ Published 2026-08-11.
 | `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "296 figures pulled out of 30 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece.", "url": "https://xyzs996.github.io/ai-coding-field-notes/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/ai-coding-field-notes", "temporalCoverage": "2026-08-05/2026-08-21", "dateModified": "2026-08-21"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "306 figures pulled out of 30 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/ai-coding-field-notes/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/ai-coding-field-notes", "temporalCoverage": "2026-08-05/2026-08-21", "dateModified": "2026-08-21"}
 </script>

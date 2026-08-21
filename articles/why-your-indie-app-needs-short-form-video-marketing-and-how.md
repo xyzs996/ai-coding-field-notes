@@ -79,7 +79,7 @@ Skip this approach if you cannot commit 12 hours a week for several months, or i
 
 [All 30 write-ups](../README.md)
 
-The 37 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 259 more, as JSON and CSV.
+The 37 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 269 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Productivity](../topics/productivity.md)
 

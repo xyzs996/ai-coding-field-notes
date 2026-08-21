@@ -88,7 +88,7 @@ I could be wrong here. This is one company, one quarter, and Klarna had reasons 
 
 [All 30 write-ups](../README.md)
 
-The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 273 more, as JSON and CSV.
+The 23 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 283 more, as JSON and CSV.
 
 Topics: [AI Costs](../topics/ai-costs.md) · [AI Implementation](../topics/ai-implementation.md) · [Niche Market](../topics/niche-market.md)
 

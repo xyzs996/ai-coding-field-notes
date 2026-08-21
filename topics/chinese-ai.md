@@ -11,7 +11,7 @@
 - **80%** — The skill automates the workflow, reducing manual effort by 80%, and adapts to different document formats and storage options. [→](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 - **80 percent** — Most of what feels repetitive in a week does not, which is why the 80 percent figure describes a narrow slice of the work rather than 80 percent of anyone's day. [→](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
-[All figures, 296 rows](../figures.md)
+[All figures, 306 rows](../figures.md)
 
 ## The write-ups
 

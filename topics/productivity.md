@@ -11,7 +11,7 @@
 - **$150** — Selling 18 units of a $150 product every day gets you there, and 18 daily sales at a 2.5 percent landing-page conversion rate requires roughly 720 visitors a day. [→](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 - **$1 million** — The revenue arithmetic behind a $1 million annual target is simple enough to do on a napkin. [→](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 
-[All figures, 296 rows](../figures.md)
+[All figures, 306 rows](../figures.md)
 
 ## The write-ups
 

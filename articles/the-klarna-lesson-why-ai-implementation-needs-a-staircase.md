@@ -101,13 +101,13 @@ These principles apply whether working with AI agents or managing human teams.
 
 **Read next**
 
+- [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](the-cost-effective-guide-to-using-open-code-review-for-ai.md)
-- [58 Million Plays Started With One Account, Not Four](58-million-plays-started-with-one-account-not-four.md)
 
 [All 30 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 293 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 303 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md)
 

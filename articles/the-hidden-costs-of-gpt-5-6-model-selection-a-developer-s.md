@@ -93,7 +93,7 @@ These improvements highlight the importance of model selection and its impact on
 
 [All 30 write-ups](../README.md)
 
-The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 284 more, as JSON and CSV.
+The 12 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 294 more, as JSON and CSV.
 
 Topics: [AI Costs](../topics/ai-costs.md) · [AI Implementation](../topics/ai-implementation.md) · [Cost Savings](../topics/cost-savings.md) · [AI Programming](../topics/ai-programming.md)
 

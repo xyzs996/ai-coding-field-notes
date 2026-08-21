@@ -84,6 +84,9 @@ Maybe your niche survives all four. Maybe it dies at step three, which is the ch
 
 Either way you spent an afternoon instead of a quarter, and you have data instead of a hunch.
 
+*Also readable on [Telegraph](https://telegra.ph/Stop-Reading-SimilarWeb-Like-a-Traffic-Dashboard--Read-It-Like-a-Feasibility-Test-08-21).*
+
+
 ---
 
 **Read next**
@@ -94,7 +97,7 @@ Either way you spent an afternoon instead of a quarter, and you have data instea
 
 [All 30 write-ups](../README.md)
 
-The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 291 more, as JSON and CSV.
+The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 301 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Niche Market](../topics/niche-market.md) · [AI Tools](../topics/ai-tools.md)
 

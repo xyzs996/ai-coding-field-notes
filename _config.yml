@@ -164,14 +164,6 @@ defaults:
       seo:
         type: BlogPosting
   - scope:
-      path: "articles/choosing-the-right-ai-code-review-tool-a-developer-s-guide.md"
-    values:
-      image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/choosing-the-right-ai-code-review-tool-a-developer-s-guide.png"
-      description: "When it comes to selecting an AI code review tool, developers have many options to choose from."
-      date: "2026-08-21T08:18:00Z"
-      seo:
-        type: BlogPosting
-  - scope:
       path: "articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md"
     values:
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.png"
@@ -273,6 +265,14 @@ defaults:
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/the-klarna-lesson-why-ai-implementation-needs-a-staircase.png"
       description: "Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading…"
       date: "2026-08-10T11:29:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md"
+    values:
+      image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.png"
+      description: "On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%."
+      date: "2026-08-21T08:18:00Z"
       seo:
         type: BlogPosting
   - scope:

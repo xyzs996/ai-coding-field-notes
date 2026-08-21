@@ -80,7 +80,7 @@ The credential your AI tool never saw is the one you never have to rotate.
 
 [All 30 write-ups](../README.md)
 
-The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 292 more, as JSON and CSV.
+The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 302 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md)
 
