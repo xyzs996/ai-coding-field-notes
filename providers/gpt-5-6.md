@@ -38,6 +38,8 @@ Some of these are about GPT-5.6 and some only measure against it — a competito
 
 **A GPT-5.6 figure that is not here yet?** Say which metric, which unit, and where you read it — [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1). Replies get turned into rows.
 
+**Or is one of the 18 above already out of date?** [Say which one](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=GPT-5.6&title=%5Bcorrection%5D+GPT-5.6) — the form already knows it is about GPT-5.6; you only have to say what the number is now.
+
 ---
 
 [All write-ups](../README.md)

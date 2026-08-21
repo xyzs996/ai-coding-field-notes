@@ -27,6 +27,8 @@ Some of these are about what Klarna did and some come from pieces that only cite
 
 **A Klarna figure that is not here yet?** Say which metric, which unit, and where you read it — [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1). Replies get turned into rows.
 
+**Or is one of the 9 above already out of date?** [Say which one](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=Klarna&title=%5Bcorrection%5D+Klarna) — the form already knows it is about Klarna; you only have to say what the number is now.
+
 ---
 
 [All write-ups](../README.md)

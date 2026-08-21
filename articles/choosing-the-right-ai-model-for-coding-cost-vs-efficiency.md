@@ -99,7 +99,7 @@ agents.*
 **Want a figure that is not in here yet?** Say which metric, which provider,
 which unit [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/6)
 — replies get turned into rows. **Got a better number?** [Open an
-issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new/choose) — corrections and
-counter-data are the point. If this collection saved you an afternoon,
+issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=articles%2Fchoosing-the-right-ai-model-for-coding-cost-vs-efficiency.md&title=%5Bcorrection%5D+Choosing+the+Right+AI+Model+for+Coding%3A+Cost+vs.+Efficiency) — the form already knows which write-up you came from;
+corrections and counter-data are the point. If this collection saved you an afternoon,
 [a star](https://github.com/xyzs996/ai-coding-field-notes) helps other people find it; the data
 is CC BY and does not require starring.

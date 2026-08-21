@@ -100,7 +100,7 @@ agents.*
 **Want a figure that is not in here yet?** Say which metric, which provider,
 which unit [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/5)
 — replies get turned into rows. **Got a better number?** [Open an
-issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new/choose) — corrections and
-counter-data are the point. If this collection saved you an afternoon,
+issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=articles%2Fthe-two-best-ai-code-reviewers-score-the-same-one-costs-1.md&title=%5Bcorrection%5D+The+Two+Best+AI+Code+Reviewers+Score+the+Same.+One+Costs+%241.43+a+Run%2C+the+Other+%249.05.) — the form already knows which write-up you came from;
+corrections and counter-data are the point. If this collection saved you an afternoon,
 [a star](https://github.com/xyzs996/ai-coding-field-notes) helps other people find it; the data
 is CC BY and does not require starring.
