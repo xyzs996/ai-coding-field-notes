@@ -4,7 +4,7 @@
 
 ## The figures
 
-- **$3** — The free version replaces text on any page as often as you like, while the $3 tier adds multi-word replacement, regex matching, and rules you can set per site, which is the sort of feature split that only makes sense once you already know which users are the impatient ones. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
+- **$55k** — James Dunn paired GPS trackers with a team that physically goes out and recovers stolen bikes, which is precisely the unpleasant part nobody wants to copy, and the thing runs at $55k MRR. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **$29** — Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **9x** — Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 - **10,000 tokens** — Long coding sessions push entire directory trees into the prompt on every iteration, so gateways have started applying compression algorithms such as RTK and Caveman, which OmniRoute reports can shrink 10,000 tokens to 1,080. [→](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
@@ -31,7 +31,7 @@ Two brothers ran a single short-video account until one piece of content took of
 
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
-A six-hour Chrome extension that pays $400 a month with no servers behind it sounds like something invented to sell a course.
+A six-hour Chrome extension pays $400 a month.
 
 ### [How to Build a Micro-SaaS Without Spending a Dime on Ads](../articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 

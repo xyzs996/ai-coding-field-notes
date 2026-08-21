@@ -6,7 +6,7 @@
 
 - **$1.43** — The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. [→](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 - **$1.43** — A single run costs about $1.43 on the first and $9.05 on the second. [→](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
-- **$3** — The free version replaces text on any page as often as you like, while the $3 tier adds multi-word replacement, regex matching, and rules you can set per site, which is the sort of feature split that only makes sense once you already know which users are the impatient ones. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
+- **$55k** — James Dunn paired GPS trackers with a team that physically goes out and recovers stolen bikes, which is precisely the unpleasant part nobody wants to copy, and the thing runs at $55k MRR. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **$29** — Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **12 months** — Quality degradation typically appears 6-12 months after full automation—long after the press releases have been sent. [→](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 - **$40 million** — Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading the CEO to admit they "went too far" with automation after 12 months. [→](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
@@ -17,7 +17,7 @@
 
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
-A six-hour Chrome extension that pays $400 a month with no servers behind it sounds like something invented to sell a course.
+A six-hour Chrome extension pays $400 a month.
 
 ### [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 

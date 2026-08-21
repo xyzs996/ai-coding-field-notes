@@ -4,7 +4,7 @@
 
 ## The figures
 
-- **$3** — The free version replaces text on any page as often as you like, while the $3 tier adds multi-word replacement, regex matching, and rules you can set per site, which is the sort of feature split that only makes sense once you already know which users are the impatient ones. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
+- **$55k** — James Dunn paired GPS trackers with a team that physically goes out and recovers stolen bikes, which is precisely the unpleasant part nobody wants to copy, and the thing runs at $55k MRR. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **$29** — Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. [→](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - **5-minute** — I remain a little skeptical of how well those reports hold up on messy niches, but for a first pass on pricing structure the speed is hard to argue with, and a 5-minute price table you can throw away costs you nothing when the niche turns out to be wrong. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - **$30** — With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
@@ -27,7 +27,7 @@ You can build AI-generated local business websites, rent them to plumbers or den
 
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
-A six-hour Chrome extension that pays $400 a month with no servers behind it sounds like something invented to sell a course.
+A six-hour Chrome extension pays $400 a month.
 
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 

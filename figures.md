@@ -303,10 +303,10 @@ Published 2026-08-21.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
-| `$400` per month | price | A six-hour Chrome extension that pays $400 a month with no servers behind it sounds like something invented to sell a course. |
-| `10%` | percent | A text-replacement extension, one weekend of work, about six hours of it, 12,000 active users, and roughly 10% of them paying $3 a month for the premium tier. |
-| `$3` per month | price | A text-replacement extension, one weekend of work, about six hours of it, 12,000 active users, and roughly 10% of them paying $3 a month for the premium tier. |
-| `$3` | price | The free version replaces text on any page as often as you like, while the $3 tier adds multi-word replacement, regex matching, and rules you can set per site, which is the sort of feature split that only makes sense once you already know which users are the impatient ones. |
+| `$400` per month | price | A six-hour Chrome extension pays $400 a month. |
+| `10%` | percent | Roughly 10% of them pay $3 a month for the premium tier. |
+| `$3` per month | price | Roughly 10% of them pay $3 a month for the premium tier. |
+| `$3` | price | The $3 tier adds multi-word replacement, regex matching, and per-site rules. |
 | `$29` | price | Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. |
 | `$9.90` | price | The sweet spot for a tool-shaped micro-SaaS in North America sits somewhere between $9.90 and $49 a month, but that range is a result rather than an opening decision. |
 | `$49` per month | price | The sweet spot for a tool-shaped micro-SaaS in North America sits somewhere between $9.90 and $49 a month, but that range is a result rather than an opening decision. |

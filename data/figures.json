@@ -1416,7 +1416,7 @@
     "value": "$400",
     "kind": "price",
     "unit": "per month",
-    "context": "A six-hour Chrome extension that pays $400 a month with no servers behind it sounds like something invented to sell a course.",
+    "context": "A six-hour Chrome extension pays $400 a month.",
     "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
     "published": "2026-08-21",
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
@@ -1425,7 +1425,7 @@
     "value": "10%",
     "kind": "percent",
     "unit": "",
-    "context": "A text-replacement extension, one weekend of work, about six hours of it, 12,000 active users, and roughly 10% of them paying $3 a month for the premium tier.",
+    "context": "Roughly 10% of them pay $3 a month for the premium tier.",
     "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
     "published": "2026-08-21",
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
@@ -1434,7 +1434,7 @@
     "value": "$3",
     "kind": "price",
     "unit": "per month",
-    "context": "A text-replacement extension, one weekend of work, about six hours of it, 12,000 active users, and roughly 10% of them paying $3 a month for the premium tier.",
+    "context": "Roughly 10% of them pay $3 a month for the premium tier.",
     "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
     "published": "2026-08-21",
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"
@@ -1443,7 +1443,7 @@
     "value": "$3",
     "kind": "price",
     "unit": "",
-    "context": "The free version replaces text on any page as often as you like, while the $3 tier adds multi-word replacement, regex matching, and rules you can set per site, which is the sort of feature split that only makes sense once you already know which users are the impatient ones.",
+    "context": "The $3 tier adds multi-word replacement, regex matching, and per-site rules.",
     "article": "Debunking the Myth of Overnight Success in Micro-SaaS",
     "published": "2026-08-21",
     "url": "https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html"

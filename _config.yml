@@ -191,7 +191,7 @@ defaults:
       path: "articles/debunking-the-myth-of-overnight-success-in-micro-saas.md"
     values:
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/debunking-the-myth-of-overnight-success-in-micro-saas.png"
-      description: "A six-hour Chrome extension that pays $400 a month with no servers behind it sounds like something invented to sell a course."
+      description: "A six-hour Chrome extension pays $400 a month."
       date: "2026-08-21T09:39:00Z"
       seo:
         type: BlogPosting
