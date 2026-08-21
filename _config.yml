@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: AI Coding Field Notes
 description: >-
-  Open dataset of what AI coding agents cost: token pricing, per-million rates, and every published figure (prices, percentages, multiples, token counts and durations) as JSON and CSV. Figures are one row each, carrying the sentence they came from. Plus the field notes behind the numbers.
+  Open dataset of AI model costs: token pricing, cost per million tokens, and every published figure (prices, percentages, multiples, token counts and durations) as JSON and CSV. Figures are one row each, carrying the sentence they came from. Plus the field notes behind the numbers.
 author: xyzs996
 show_downloads: false
 
