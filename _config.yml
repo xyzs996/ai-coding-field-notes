@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: AI Coding Field Notes
 description: >-
-  Open dataset of AI model costs and revenue per month: token pricing, cost per million tokens, and every published figure (prices, percentages, multiples, token counts and durations) as JSON and CSV. Figures are one row each, carrying the sentence they came from. And the field notes behind every number.
+  AI model costs, token pricing and revenue per month, as an open dataset: cost per million tokens and every published figure (prices, percentages, multiples, token counts and durations) in JSON and CSV. Figures are one row each, carrying the sentence they came from. And the field notes behind every number.
 author: xyzs996
 show_downloads: false
 
