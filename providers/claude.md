@@ -1,0 +1,32 @@
+# Claude costs and claims: every figure from a sentence that names it
+
+7 of the 335 figures in these field notes come from a sentence that names Claude. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+
+Some of these are about Claude and some only measure against it — a competitor's price quoted next to Claude's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
+
+**This is not a Claude price sheet.** Nothing here is read off a vendor page. These are figures a working developer wrote down, and the date is the day the piece was published — not the day the price was in force. Model prices move fast: read every row as of its own date, and treat an old one as a lead rather than a quote.
+
+## The figures
+
+- **80%** — “When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks.” (2026-08-20) [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
+- **$1.25 per million** — “Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1.” (2026-08-19) [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
+- **80%** — “Claude Code's team discovered that removing 80% of system prompts actually improved programming performance, revealing how excessive model constraints can hinder rather than help AI effectiveness.” (2026-08-07) [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
+- **400-token** — “Anthropic's 400-token SKILL.md file, through its "two-pass workflow" and specific aesthetic guidance, has achieved over 1 million installations, proving that aesthetic direction is more useful than mere tool innovation.” (2026-08-07) [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
+- **400 tokens** — “Anthropic's SKILL.md file runs about 400 tokens, uses a two-pass approach with specific aesthetic guidance, and has passed 1.08 million installations.” (2026-08-05) [→](../articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
+- **$19 billion** — “Anthropic signed a data center lease reported at $19 billion, which is the kind of commitment that only makes sense if compute, not model architecture, is the constraint that decides who is still standing in five years.” (2026-08-05) [→](../articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
+- **$19 billion** — “Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months.” (2026-08-05) [→](../articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
+
+[All 335 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv)
+
+## Where these 7 came from
+
+- [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
+- [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](../articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
+- [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
+- [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
+
+**A Claude figure that is not here yet?** Say which metric, which unit, and where you read it — [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1). Replies get turned into rows.
+
+---
+
+[All write-ups](../README.md)

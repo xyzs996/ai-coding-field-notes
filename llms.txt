@@ -78,6 +78,12 @@ Quoted, not paraphrased: each is the sentence it was published in, with the date
 - **$1 million** — “The revenue arithmetic behind a $1 million annual target is simple enough to do on a napkin.” (2026-08-11) https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html
 - **$150** — “Selling 18 units of a $150 product every day gets you there, and 18 daily sales at a 2.5 percent landing-page conversion rate requires roughly 720 visitors a day.” (2026-08-11) https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html
 
+## By provider
+
+Every figure whose quoted sentence names that provider, on one page, each with the date the write-up went out. None of these is a vendor price sheet — read every row as of its own date.
+
+- [Claude](https://xyzs996.github.io/ai-coding-field-notes/providers/claude.html): 7 figures from 4 write-ups.
+
 ## Topics
 
 - [Indie Development](https://xyzs996.github.io/ai-coding-field-notes/topics/indie-development.html): 12 write-ups.

@@ -84,6 +84,10 @@ defaults:
     values:
       description: "The 3 write-ups in these AI coding field notes tagged Token Optimization — each with the figures it cited and the sentence every figure came from."
   - scope:
+      path: "providers/claude.md"
+    values:
+      description: "Every figure in these AI coding field notes whose sentence names Claude — prices, percentages and token counts, each quoted with the sentence it appeared in and the day that write-up went out."
+  - scope:
       path: "articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md"
     values:
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.png"
