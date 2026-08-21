@@ -42,7 +42,7 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figu
 
 - **이 저장소에 별을** 누르면 갱신을 따라갈 수 있습니다. 데이터는 CC BY라서 별과 무관하게 무엇이든 하실 수 있습니다.
 - **수치가 틀렸나요?** 가격이 바뀌었거나 직접 재보니 다른 값이 나왔다면 issue를 열어 주십시오. 이 저장소는 그러라고 있습니다. ([issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml))
-- **원하는 수치가 없나요?** 어떤 지표를, 어느 업체의, 어떤 단위로 —— 공개 스레드에 적어 주십시오. 답글은 새 줄이 됩니다. ([thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1))
+- **원하는 수치가 없나요?** 어떤 지표를, 어느 업체의, 어떤 단위로 —— 한 줄이면 됩니다. 필수 항목은 하나뿐이고, 들어온 요청은 새 줄이 됩니다. ([form](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml))
 
 ---
 

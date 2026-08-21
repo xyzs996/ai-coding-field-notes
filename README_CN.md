@@ -42,7 +42,7 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figu
 
 - **收藏这个仓库**,数表更新会跟着走。数据是 CC BY 的,收不收藏都随便拿,这儿不拿数据换 star。
 - **数不对?** 哪个价钱变了、你自己跑出来是另一个数 —— 提个issue。这个仓库就是干这个的。 ([issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml))
-- **想要的数这儿没有?** 说清楚要哪个指标、哪家、什么单位 ——发在这个开放帖里,回复会被收成新行。 ([thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1))
+- **想要的数这儿没有?** 说清楚要哪个指标、哪家、什么单位,一行就够 —— 表单只有一格必填,收到就收成新行。 ([form](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml))
 
 ---
 

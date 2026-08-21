@@ -42,7 +42,7 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figu
 
 - **このリポジトリにスターを**付けると更新を追えます。データは CC BY なので、スターの有無でできることは変わりません。
 - **数字が違う?** 料金が変わった、自分で測ったら別の数字になった —— issue を立ててください。このリポジトリはそのためにあります。 ([issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml))
-- **欲しい数字がない?** どの指標を、どのベンダーの、どの単位で —— 公開スレッドに書いてください。返信は新しい行になります。 ([thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1))
+- **欲しい数字がない?** どの指標を、どのベンダーの、どの単位で —— 一行で結構です。必須項目は一つだけ、届いたものは新しい行になります。 ([form](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml))
 
 ---
 

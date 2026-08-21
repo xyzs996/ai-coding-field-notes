@@ -84,8 +84,8 @@ issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=corr
 what this repo is for.
 
 **Want a figure that is not here yet?** Say which metric, which
-provider, which unit — [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1).
-Replies there get turned into rows.
+provider, which unit — [in one line](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml).
+The form has one required field and that is the whole of it.
 
 **Or read one of these first.** Each answers a question people
 actually search for, with every figure this repo has on it — the

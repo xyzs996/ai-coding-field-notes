@@ -42,7 +42,7 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figu
 
 - **Поставьте звезду репозиторию**, чтобы следить за обновлениями. Данные под CC BY: звезда ничего не меняет в том, что вы можете с ними делать.
 - **Цифра неверна?** Если цена изменилась или вы измерили сами и получили другое — откройте issue. Этот репозиторий ровно для этого. ([issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml))
-- **Нужной цифры нет?** Напишите, какая метрика, какой поставщик, в каких единицах — в открытом обсуждении. Ответы становятся новыми строками. ([thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1))
+- **Нужной цифры нет?** Напишите, какая метрика, какой поставщик, в каких единицах — одной строкой. В форме одно обязательное поле, а запросы становятся новыми строками. ([form](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml))
 
 ---
 

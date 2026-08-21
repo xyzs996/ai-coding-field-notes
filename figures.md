@@ -39,8 +39,8 @@ the table is rebuilt at most once a day, so that is close enough.
 Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.json`.
 
 **Want a figure that is not in here yet?** Say which metric,
-which provider, which unit [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1) —
-replies get turned into rows.
+which provider, which unit [in one line](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml&came_from=figures.md) —
+one required field, and requests get turned into rows.
 
 **Found one that is wrong or stale?** That is the point —
 [open an issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new).

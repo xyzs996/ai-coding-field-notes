@@ -42,7 +42,7 @@ Bài viết bằng **tiếng Anh**, ở đây: https://xyzs996.github.io/ai-codi
 
 - **Gắn sao cho kho này** để theo dõi cập nhật. Dữ liệu là CC BY: có sao hay không cũng không đổi điều bạn được làm với nó.
 - **Số sai?** Nếu một mức giá đã đổi, hoặc bạn tự đo ra số khác — hãy mở một issue. Kho này sinh ra để làm việc đó. ([issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml))
-- **Thiếu con số bạn cần?** Nói rõ chỉ số nào, nhà cung cấp nào, đơn vị gì — trong luồng thảo luận mở. Trả lời sẽ được đưa thành dòng mới. ([thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1))
+- **Thiếu con số bạn cần?** Nói rõ chỉ số nào, nhà cung cấp nào, đơn vị gì — chỉ một dòng. Biểu mẫu chỉ có một ô bắt buộc, và yêu cầu sẽ được đưa thành dòng mới. ([form](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml))
 
 ---
 

@@ -1,0 +1,30 @@
+name: Ask for a figure
+description: A number you needed and could not find in here.
+title: "[figure] "
+labels: ["figure-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Answer in any language. One line is a complete answer.
+  - type: input
+    id: want
+    attributes:
+      label: Which number do you need?
+      description: Which metric, which tool, which unit. Whatever you can say.
+      placeholder: Cursor's per-seat price after the 2026 change
+    validations:
+      required: true
+  - type: input
+    id: came_from
+    attributes:
+      label: Where you clicked from
+      description: Filled in for you. Leave it as it is.
+  - type: textarea
+    id: what_for
+    attributes:
+      label: What are you deciding? (optional)
+      description: >
+        Only if you feel like it. It decides which figures get chased first.
+    validations:
+      required: false

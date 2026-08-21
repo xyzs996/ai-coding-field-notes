@@ -111,9 +111,9 @@ Topics: [Indie Development](../topics/indie-development.md) · [SaaS Business](.
 agents.*
 
 **Want a figure that is not in here yet?** Say which metric, which provider,
-which unit [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1)
-— replies get turned into rows. **Got a better number?** [Open an
-issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=articles%2Fthe-ai-branding-revolution-how-indie-developers-are.md&title=%5Bcorrection%5D+The+AI+Branding+Revolution%3A+How+Indie+Developers+Are+Ditching+Design+Costs+with+AI) — the form already knows which write-up you came from;
+which unit — [in one line](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml&came_from=articles%2Fthe-ai-branding-revolution-how-indie-developers-are.md). One required field, and the page you came
+from is already filled in. **Got a better number?** [Open an
+issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=articles%2Fthe-ai-branding-revolution-how-indie-developers-are.md&title=%5Bcorrection%5D+The+AI+Branding+Revolution%3A+How+Indie+Developers+Are+Ditching+Design+Costs+with+AI) — that form knows which write-up you came from too;
 corrections and counter-data are the point. If this collection saved you an afternoon,
 [a star](https://github.com/xyzs996/ai-coding-field-notes) helps other people find it; the data
 is CC BY and does not require starring.

@@ -23,7 +23,7 @@ Some of these are about Fable 5 and some only measure against it — a competito
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
-**A Fable 5 figure that is not here yet?** Say which metric, which unit, and where you read it — [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1). Replies get turned into rows.
+**A Fable 5 figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml&came_from=Fable+5). The form already knows it is about Fable 5.
 
 **Or is one of the 6 above already out of date?** [Say which one](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=Fable+5&title=%5Bcorrection%5D+Fable+5) — the form already knows it is about Fable 5; you only have to say what the number is now.
 

@@ -25,7 +25,7 @@ Some of these are about what Klarna did and some come from pieces that only cite
 - [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 - [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 
-**A Klarna figure that is not here yet?** Say which metric, which unit, and where you read it — [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1). Replies get turned into rows.
+**A Klarna figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml&came_from=Klarna). The form already knows it is about Klarna.
 
 **Or is one of the 9 above already out of date?** [Say which one](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=Klarna&title=%5Bcorrection%5D+Klarna) — the form already knows it is about Klarna; you only have to say what the number is now.
 

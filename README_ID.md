@@ -42,7 +42,7 @@ Tulisannya **berbahasa Inggris**, di sini: https://xyzs996.github.io/ai-coding-f
 
 - **Beri bintang pada repositori ini** untuk mengikuti pembaruan. Datanya CC BY: ada atau tidak ada bintang, yang boleh Anda lakukan dengannya sama saja.
 - **Ada angka yang salah?** Kalau sebuah harga berubah, atau Anda mengukur sendiri dan hasilnya lain — buka issue. Untuk itulah repositori ini ada. ([issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml))
-- **Angka yang Anda cari belum ada?** Sebutkan metriknya, penyedianya, dan satuannya — di utas terbuka. Balasan di sana akan dijadikan baris baru. ([thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1))
+- **Angka yang Anda cari belum ada?** Sebutkan metriknya, penyedianya, dan satuannya — cukup satu baris. Formulir ini hanya punya satu isian wajib, dan permintaannya dijadikan baris baru. ([form](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml))
 
 ---
 
