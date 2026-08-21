@@ -38,8 +38,16 @@ Served over jsDelivr, which caches `@main` for up to 12 hours —
 the table is rebuilt at most once a day, so that is close enough.
 Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.json`.
 
+**Want a figure that is not in here yet?** Say which metric,
+which provider, which unit [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1) —
+replies get turned into rows.
+
 **Found one that is wrong or stale?** That is the point —
 [open an issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new).
+
+If this table saved you an afternoon,
+[a star](https://github.com/xyzs996/ai-coding-field-notes) helps the next person
+find it — the rows are CC BY and do not require one.
 
 ## [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.html)
 

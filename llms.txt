@@ -68,4 +68,5 @@ Every number in these notes traces back to a named source. Figures without one w
 ## Optional
 
 - [Atom feed](https://xyzs996.github.io/ai-coding-field-notes/feed.xml): new notes as they are published.
+- [Request a figure](https://github.com/xyzs996/ai-coding-field-notes/discussions/1): which metric, which provider, which unit — replies get turned into rows.
 - [Corrections](https://github.com/xyzs996/ai-coding-field-notes/issues/new/choose): a number that moved, or a source that died.
