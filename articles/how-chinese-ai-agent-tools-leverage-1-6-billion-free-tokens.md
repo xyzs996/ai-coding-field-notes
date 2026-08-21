@@ -2,6 +2,8 @@
 
 ![How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.png)
 
+*This piece was first published on [Medium](https://markyanai.medium.com/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens-69b483c4eb6a) — that copy is the original, and it is where you can clap or reply.*
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly. This strategy revolves around using tools like OmniRoute, which aggregates 237 providers, compressing 10,000 tokens to 1080 through RTK+Caveman technology.
@@ -77,9 +79,6 @@ Finally, seshport is a well-designed tool for independent developers who use mul
 ## Empowering Developers with Chinese AI
 
 Chinese AI agent tools have revolutionized token accessibility, offering independent developers a competitive edge. Developers can reduce costs and boost productivity using tools like OmniRoute and Miora. The future of AI tokens lies in open-source collaborations and a shift towards marketing and user experience.
-
-*Originally published on [Medium](https://markyanai.medium.com/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens-69b483c4eb6a).*
-
 
 *Also readable on [Telegraph](https://telegra.ph/How-Chinese-AI-Agent-Tools-Leverage-16-Billion-Free-Tokens-08-19).*
 

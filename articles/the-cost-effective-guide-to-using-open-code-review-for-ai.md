@@ -2,6 +2,8 @@
 
 ![The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/the-cost-effective-guide-to-using-open-code-review-for-ai.png)
 
+*This piece was first published on [Medium](https://markyanai.medium.com/the-cost-effective-guide-to-using-open-code-review-for-ai-programming-tools-d144b9bb5b46) — that copy is the original, and it is where you can clap or reply.*
+
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
 Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both accuracy and F1 than general-purpose agents like Claude Code, which struck me as a strange result until I looked at where the work actually happens. The win isn't the model. It's the split.
@@ -63,9 +65,6 @@ When you're handling highly sensitive data, the cloud-based architecture may not
 When your team already runs a mature review process, I suspect the case for switching is weak. Teams with established systems tend to discover they weren't missing anything, while the migration cost lands squarely on people who were already doing fine.
 
 It solves a problem you solved another way.
-
-*Originally published on [Medium](https://markyanai.medium.com/the-cost-effective-guide-to-using-open-code-review-for-ai-programming-tools-d144b9bb5b46).*
-
 
 *Also readable on [Telegraph](https://telegra.ph/The-Cost-Effective-Guide-to-Using-Open-Code-Review-for-AI-Programming-Tools-08-19).*
 
