@@ -99,7 +99,7 @@ write-ups land there first.
 **Reading this with a model?** [llms.txt](https://xyzs996.github.io/ai-coding-field-notes/llms.txt)
 — the dataset first, then every write-up with one line of what it says.
 
-**By provider.** [Claude](providers/claude.md) (7) — every figure whose sentence names it, with the date.
+**By provider.** [GPT-5.6](providers/gpt-5-6.md) (18) · [Klarna](providers/klarna.md) (9) · [BrowserAct](providers/browseract.md) (7) · [Claude](providers/claude.md) (7) · [WorkBuddy](providers/workbuddy.md) (7) · [Fable 5](providers/fable-5.md) (6) · [ChatGPT](providers/chatgpt.md) (4) — every figure whose sentence names it, with the date.
 
 **By topic.** [Indie Development](topics/indie-development.md) (12) · [Automation Systems](topics/automation-systems.md) (10) · [SaaS Business](topics/saas-business.md) (7) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [Niche Market](topics/niche-market.md) (6) · [AI Programming](topics/ai-programming.md) (5) · [Cost Savings](topics/cost-savings.md) (5) · [Productivity](topics/productivity.md) (5) · [Development Tools](topics/development-tools.md) (4) · [AI Features](topics/ai-features.md) (3) · [AI Tools](topics/ai-tools.md) (3) · [Artificial Intelligence](topics/artificial-intelligence.md) (3) · [Chinese AI](topics/chinese-ai.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 

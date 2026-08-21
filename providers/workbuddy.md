@@ -1,0 +1,35 @@
+# WorkBuddy costs and claims: every figure from a sentence that names it
+
+7 of the 335 figures in these field notes come from a sentence that names WorkBuddy. Each one is quoted verbatim from the write-up it appeared in, with the day that write-up went out.
+
+Some of these are about WorkBuddy and some only measure against it — a competitor's price quoted next to WorkBuddy's belongs here too, because that is the sentence someone searching for the comparison is looking for. The sentence tells you which is which.
+
+**This is not a WorkBuddy price sheet.** Nothing here is read off a vendor page. These are figures a working developer wrote down, and the date is the day the piece was published — not the day the price was in force. Model prices move fast: read every row as of its own date, and treat an old one as a lead rather than a quote.
+
+## The figures
+
+- **5 minutes** — “Tools like WorkBuddy + BrowserAct can expedite competitor analysis by extracting data to generate price tables in just 5 minutes and opportunity reports in 7 minutes.” (2026-08-21) [→](../articles/best-practices-for-ai-agent-skill-management.md)
+- **5 minutes** — “WorkBuddy combined with BrowserAct can produce a competitive price table in 5 minutes and an opportunity report in 7, which is roughly the difference between checking a hypothesis during a coffee break and scheduling an afternoon for it.” (2026-08-20) [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
+- **5 minutes** — “WorkBuddy + BrowserAct combination delivers competitor price lists in 5 minutes and product opportunity reports in 7 minutes.” (2026-08-18) [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
+- **5 minutes** — “WorkBuddy and BrowserAct combination allows sellers to generate a competitive pricing report in just 5 minutes.” (2026-08-15) [→](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
+- **5 minutes** — “WorkBuddy and BrowserAct together generate a complete competitor price list in about 5 minutes and a product opportunity report in about 7, which replaces the browser-tab afternoon that most solo developers either do badly or skip entirely.” (2026-08-11) [→](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
+- **7 minutes** — “Similarly, WorkBuddy and BrowserAct can automate competitor price tracking and generate product opportunity reports in under 7 minutes — something to put in front of a skeptical client while the sandbox clock runs.” (2026-08-10) [→](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
+- **5 minutes** — “The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors.” (2026-08-07) [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
+
+[All 335 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv)
+
+## Where these 7 came from
+
+- [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
+- [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
+- [Best Practices for AI Agent Skill Management](../articles/best-practices-for-ai-agent-skill-management.md)
+- [From AI Demo to Product: Loop Engineering for Indie Devs](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
+- [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
+- [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
+- [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
+
+**A WorkBuddy figure that is not here yet?** Say which metric, which unit, and where you read it — [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1). Replies get turned into rows.
+
+---
+
+[All write-ups](../README.md)

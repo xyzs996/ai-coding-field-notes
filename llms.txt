@@ -82,7 +82,13 @@ Quoted, not paraphrased: each is the sentence it was published in, with the date
 
 Every figure whose quoted sentence names that provider, on one page, each with the date the write-up went out. None of these is a vendor price sheet — read every row as of its own date.
 
+- [GPT-5.6](https://xyzs996.github.io/ai-coding-field-notes/providers/gpt-5-6.html): 18 figures from 4 write-ups.
+- [Klarna](https://xyzs996.github.io/ai-coding-field-notes/providers/klarna.html): 9 figures from 2 write-ups.
+- [BrowserAct](https://xyzs996.github.io/ai-coding-field-notes/providers/browseract.html): 7 figures from 7 write-ups.
 - [Claude](https://xyzs996.github.io/ai-coding-field-notes/providers/claude.html): 7 figures from 4 write-ups.
+- [WorkBuddy](https://xyzs996.github.io/ai-coding-field-notes/providers/workbuddy.html): 7 figures from 7 write-ups.
+- [Fable 5](https://xyzs996.github.io/ai-coding-field-notes/providers/fable-5.html): 6 figures from 3 write-ups.
+- [ChatGPT](https://xyzs996.github.io/ai-coding-field-notes/providers/chatgpt.html): 4 figures from 4 write-ups.
 
 ## Topics
 
