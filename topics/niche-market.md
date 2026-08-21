@@ -1,19 +1,19 @@
 # Niche Market
 
-4 of the 29 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 30 write-ups here are tagged Niche Market. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
+- **5-minute** — I remain a little skeptical of how well those reports hold up on messy niches, but for a first pass on pricing structure the speed is hard to argue with, and a 5-minute price table you can throw away costs you nothing when the niche turns out to be wrong. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
+- **$30** — With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - **40-second** — When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - **40-second** — The 40-second number I cannot check. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - **$4 million** — Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 - **$4 million** — This is one company, one quarter, and Klarna had reasons to publish both the $4 million and the retraction that have nothing to do with what works for a team of one. [→](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 - **$500** — Using AI tools to batch generate local SEO content reduces development costs for independent developers, accelerating website ranking on Google, after which the optimized site can be rented to local businesses for monthly revenue ranging from $500 to $3,000. [→](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 - **$10,000** — Sam Shore's experience with Typeshare, which shows how sharing equity with KOLs can accelerate growth, is a prime example; by granting three-fifths of his company's stock to two influential figures, he achieved a remarkable increase in monthly revenue, jumping from $10,000 to $15,000 in only 30 days. [→](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
-- **$500** — You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. [→](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
-- **$3,000** — High-ticket services in low-competition cities often sit at the $3,000 end for websites that actually deliver customers. [→](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
 
-[All figures, 291 rows](../figures.md)
+[All figures, 296 rows](../figures.md)
 
 ## The write-ups
 
@@ -29,10 +29,14 @@ You can build AI-generated local business websites, rent them to plumbers or den
 
 If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic.
 
+### [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
+
+Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab.
+
 ### [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 
 Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts.
 
 ---
 
-[All 29 write-ups](../README.md)
+[All 30 write-ups](../README.md)

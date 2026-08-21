@@ -105,9 +105,9 @@ These principles apply whether working with AI agents or managing human teams.
 - [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 - [58 Million Plays Started With One Account, Not Four](58-million-plays-started-with-one-account-not-four.md)
 
-[All 29 write-ups](../README.md)
+[All 30 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 288 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 293 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md)
 

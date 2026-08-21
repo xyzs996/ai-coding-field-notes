@@ -1,6 +1,6 @@
 # AI Programming
 
-4 of the 29 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+4 of the 30 write-ups here are tagged AI Programming. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **6 hours** — 10 lines of validation buys back an hour of debugging the first time it fires, and probably 5 or 6 hours across a year on a project with 3 or 4 deployment environments, which is a return most refactors cannot match. [→](../articles/the-first-line-of-defense-in-ai-programming-environment.md)
 - **30-second** — The gap opens when someone pastes a key into a chat window to debug why a call is failing, which is a 30-second decision that puts a live credential into a log you do not control and cannot delete. [→](../articles/the-first-line-of-defense-in-ai-programming-environment.md)
 
-[All figures, 291 rows](../figures.md)
+[All figures, 296 rows](../figures.md)
 
 ## The write-ups
 
@@ -35,4 +35,4 @@ Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which
 
 ---
 
-[All 29 write-ups](../README.md)
+[All 30 write-ups](../README.md)

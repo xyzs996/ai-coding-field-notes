@@ -18,7 +18,7 @@ defaults:
   - scope:
       path: "topics/indie-development.md"
     values:
-      description: "The 11 write-ups in these AI coding field notes tagged Indie Development — each with the figures it cited and the sentence every figure came from."
+      description: "The 12 write-ups in these AI coding field notes tagged Indie Development — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/automation-systems.md"
     values:
@@ -40,6 +40,10 @@ defaults:
     values:
       description: "The 5 write-ups in these AI coding field notes tagged Cost Savings — each with the figures it cited and the sentence every figure came from."
   - scope:
+      path: "topics/niche-market.md"
+    values:
+      description: "The 5 write-ups in these AI coding field notes tagged Niche Market — each with the figures it cited and the sentence every figure came from."
+  - scope:
       path: "topics/ai-programming.md"
     values:
       description: "The 4 write-ups in these AI coding field notes tagged AI Programming — each with the figures it cited and the sentence every figure came from."
@@ -48,9 +52,9 @@ defaults:
     values:
       description: "The 4 write-ups in these AI coding field notes tagged Development Tools — each with the figures it cited and the sentence every figure came from."
   - scope:
-      path: "topics/niche-market.md"
+      path: "topics/ai-tools.md"
     values:
-      description: "The 4 write-ups in these AI coding field notes tagged Niche Market — each with the figures it cited and the sentence every figure came from."
+      description: "The 3 write-ups in these AI coding field notes tagged AI Tools — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/chinese-ai.md"
     values:
@@ -221,6 +225,14 @@ defaults:
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.png"
       description: "If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic."
       date: "2026-08-19T11:56:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md"
+    values:
+      image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/stop-reading-similarweb-like-a-traffic-dashboard-read-it.png"
+      description: "Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab."
+      date: "2026-08-20T11:46:00Z"
       seo:
         type: BlogPosting
   - scope:

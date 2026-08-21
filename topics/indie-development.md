@@ -1,19 +1,19 @@
 # Indie Development
 
-11 of the 29 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+12 of the 30 write-ups here are tagged Indie Development. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
 - **80%** — When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 - **80%** — Stripping away that redundant 80% removes the cognitive drag holding the model back, freeing native reasoning capacity and cutting the token burn. [→](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
+- **5-minute** — I remain a little skeptical of how well those reports hold up on messy niches, but for a first pass on pricing structure the speed is hard to argue with, and a 5-minute price table you can throw away costs you nothing when the niche turns out to be wrong. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
+- **$30** — With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. [→](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - **$500** — Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into "digital properties" and renting them to local businesses for monthly rent between $500 and $3,000. [→](../articles/how-indie-developers-are-building-ai-powered-digital.md)
 - **$1,000** — Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. [→](../articles/how-indie-developers-are-building-ai-powered-digital.md)
 - **$1.25** — Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 - **$0.06** — A spread from $0.06 to $1 per million is more than 16x, and peak pricing adds another factor of 2 on top, which means the decision of which tier to route to on a Tuesday afternoon moves your bill further than any free quota can. [→](../articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
-- **5 minutes** — WorkBuddy + BrowserAct combination delivers competitor price lists in 5 minutes and product opportunity reports in 7 minutes. [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
-- **40 seconds** — By using an AI agent to automate responses, negotiation, and price adjustment, the average response time can be reduced to within 40 seconds. [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
-[All figures, 291 rows](../figures.md)
+[All figures, 296 rows](../figures.md)
 
 ## The write-ups
 
@@ -45,6 +45,10 @@ Independent developers are using AI to mass-produce local SEO content and build 
 
 MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read.
 
+### [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
+
+Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab.
+
 ### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](../articles/the-ai-branding-revolution-how-indie-developers-are.md)
 
 Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…
@@ -63,4 +67,4 @@ The videos run about 60 seconds.
 
 ---
 
-[All 29 write-ups](../README.md)
+[All 30 write-ups](../README.md)

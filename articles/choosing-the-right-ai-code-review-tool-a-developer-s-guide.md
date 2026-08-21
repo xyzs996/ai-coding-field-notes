@@ -70,6 +70,9 @@ However, I’m skeptical about Claude Code’s CAD generation claim.
  - code review tools
  - developer productivity I'm building AI products; Choose's features impress.
 
+*Also readable on [Telegraph](https://telegra.ph/Choosing-the-Right-AI-Code-Review-Tool-A-Developers-Guide-08-21).*
+
+
 ---
 
 **Read next**
@@ -78,9 +81,9 @@ However, I’m skeptical about Claude Code’s CAD generation claim.
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
-[All 29 write-ups](../README.md)
+[All 30 write-ups](../README.md)
 
-The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 286 more, as JSON and CSV.
+The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 291 more, as JSON and CSV.
 
 
 ---

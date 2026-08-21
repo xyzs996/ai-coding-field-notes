@@ -90,15 +90,15 @@ That’s not passive income. It’s **delayed income**. The tutorials omit the d
 
 **Read next**
 
+- [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
-- [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 
-[All 29 write-ups](../README.md)
+[All 30 write-ups](../README.md)
 
-The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 276 more, as JSON and CSV.
+The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 281 more, as JSON and CSV.
 
-Topics: [Niche Market](../topics/niche-market.md)
+Topics: [Niche Market](../topics/niche-market.md) · [AI Tools](../topics/ai-tools.md)
 
 
 ---

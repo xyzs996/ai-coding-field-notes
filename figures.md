@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-291 figures pulled out of 29 write-ups in
+296 figures pulled out of 30 write-ups in
 [ai-coding-field-notes](https://github.com/xyzs996/ai-coding-field-notes) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -349,6 +349,18 @@ Published 2026-08-19.
 | `40-second` | duration | When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. |
 | `40-second` | duration | The 40-second number I cannot check. |
 
+## [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](https://xyzs996.github.io/ai-coding-field-notes/articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.html)
+
+Published 2026-08-20.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `$30` | price | With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. |
+| `$3` | price | With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. |
+| `$4` | price | With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. |
+| `5 minutes` | duration | WorkBuddy combined with BrowserAct can produce a competitive price table in 5 minutes and an opportunity report in 7, which is roughly the difference between checking a hypothesis during a coffee break and scheduling an afternoon for it. |
+| `5-minute` | duration | I remain a little skeptical of how well those reports hold up on messy niches, but for a first pass on pricing structure the speed is hard to argue with, and a 5-minute price table you can throw away costs you nothing when the niche turns out to be wrong. |
+
 ## [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](https://xyzs996.github.io/ai-coding-field-notes/articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.html)
 
 Published 2026-08-18.
@@ -526,5 +538,5 @@ Published 2026-08-11.
 | `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "291 figures pulled out of 29 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece.", "url": "https://xyzs996.github.io/ai-coding-field-notes/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/ai-coding-field-notes", "temporalCoverage": "2026-08-05/2026-08-21", "dateModified": "2026-08-21"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "296 figures pulled out of 30 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece.", "url": "https://xyzs996.github.io/ai-coding-field-notes/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/ai-coding-field-notes", "temporalCoverage": "2026-08-05/2026-08-21", "dateModified": "2026-08-21"}
 </script>

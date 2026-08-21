@@ -70,17 +70,20 @@ If this is your first time dealing with business-to-business clients or local se
 
 In those setups the person you talk to is the owner, the operator, and the one holding the corporate credit card, all at once. They sit at the problem site every day. They already know exactly which bottleneck costs them money, and roughly what it is worth to make it stop.
 
+*Also readable on [Telegraph](https://telegra.ph/How-Indie-Developers-Are-Building-AI-Powered-Digital-Landlords-and-Renting-Them-Out-for-Monthly-Cash-Flow-08-21).*
+
+
 ---
 
 **Read next**
 
 - [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](monkeycode-the-open-source-ai-coding-platform-with-900.md)
+- [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
-- [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 
-[All 29 write-ups](../README.md)
+[All 30 write-ups](../README.md)
 
-The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 277 more, as JSON and CSV.
+The 14 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 282 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md)
 

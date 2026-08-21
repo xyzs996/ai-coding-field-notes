@@ -1,6 +1,6 @@
 # Automation Systems
 
-9 of the 29 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+9 of the 30 write-ups here are tagged Automation Systems. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **$22,000** — StoryShort matched, in 3 months, the revenue that an established B2B tool took 2 years to build, with Stripe records showing about $22,000 a month and cumulative revenue approaching $500,000. [→](../articles/58-million-plays-started-with-one-account-not-four.md)
 - **12 months** — Quality degradation typically appears 6-12 months after full automation—long after the press releases have been sent. [→](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 
-[All figures, 291 rows](../figures.md)
+[All figures, 296 rows](../figures.md)
 
 ## The write-ups
 
@@ -55,4 +55,4 @@ Klarna's AI customer service experiment, which replaced 700 human agents, initia
 
 ---
 
-[All 29 write-ups](../README.md)
+[All 30 write-ups](../README.md)

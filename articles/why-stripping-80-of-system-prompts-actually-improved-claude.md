@@ -58,6 +58,9 @@ There are narrower mechanisms for enforcing intent before code generation begins
 
 I think Grill-me's 37 prompts are unnecessary, and I could be wrong about that on a project large enough to need them. It fits everyday development work where clarity is the whole problem, not the long-term documentation needs that Superpowers handles.
 
+*Also readable on [Telegraph](https://telegra.ph/Why-Stripping-80-of-System-Prompts-Actually-Improved-Claude-Codes-Performance-08-21).*
+
+
 ---
 
 **Read next**
@@ -66,9 +69,9 @@ I think Grill-me's 37 prompts are unnecessary, and I could be wrong about that o
 - [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 - [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
-[All 29 write-ups](../README.md)
+[All 30 write-ups](../README.md)
 
-The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 289 more, as JSON and CSV.
+The 2 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 294 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Code Review](../topics/code-review.md)
 
