@@ -99,11 +99,11 @@ The future of indie development lies in combining AI tools with human judgment. 
 
 - [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 - [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](ai-agent-loop-engineering-karpathy-s-method-for-5x.md)
-- [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
+- [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 
-[All 30 write-ups](../README.md)
+[All 31 write-ups](../README.md)
 
-The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 301 more, as JSON and CSV.
+The 5 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 312 more, as JSON and CSV.
 
 Topics: [Indie Development](../topics/indie-development.md) · [Automation Systems](../topics/automation-systems.md) · [AI Implementation](../topics/ai-implementation.md) · [Productivity](../topics/productivity.md)
 

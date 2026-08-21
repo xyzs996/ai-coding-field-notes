@@ -22,7 +22,7 @@ defaults:
   - scope:
       path: "topics/automation-systems.md"
     values:
-      description: "The 9 write-ups in these AI coding field notes tagged Automation Systems — each with the figures it cited and the sentence every figure came from."
+      description: "The 10 write-ups in these AI coding field notes tagged Automation Systems — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/ai-costs.md"
     values:
@@ -36,6 +36,10 @@ defaults:
     values:
       description: "The 6 write-ups in these AI coding field notes tagged SaaS Business — each with the figures it cited and the sentence every figure came from."
   - scope:
+      path: "topics/ai-programming.md"
+    values:
+      description: "The 5 write-ups in these AI coding field notes tagged AI Programming — each with the figures it cited and the sentence every figure came from."
+  - scope:
       path: "topics/cost-savings.md"
     values:
       description: "The 5 write-ups in these AI coding field notes tagged Cost Savings — each with the figures it cited and the sentence every figure came from."
@@ -44,13 +48,17 @@ defaults:
     values:
       description: "The 5 write-ups in these AI coding field notes tagged Niche Market — each with the figures it cited and the sentence every figure came from."
   - scope:
-      path: "topics/ai-programming.md"
-    values:
-      description: "The 4 write-ups in these AI coding field notes tagged AI Programming — each with the figures it cited and the sentence every figure came from."
-  - scope:
       path: "topics/development-tools.md"
     values:
       description: "The 4 write-ups in these AI coding field notes tagged Development Tools — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/productivity.md"
+    values:
+      description: "The 4 write-ups in these AI coding field notes tagged Productivity — each with the figures it cited and the sentence every figure came from."
+  - scope:
+      path: "topics/ai-features.md"
+    values:
+      description: "The 3 write-ups in these AI coding field notes tagged AI Features — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/ai-tools.md"
     values:
@@ -67,10 +75,6 @@ defaults:
       path: "topics/micro-saas.md"
     values:
       description: "The 3 write-ups in these AI coding field notes tagged Micro SaaS — each with the figures it cited and the sentence every figure came from."
-  - scope:
-      path: "topics/productivity.md"
-    values:
-      description: "The 3 write-ups in these AI coding field notes tagged Productivity — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/token-optimization.md"
     values:
@@ -137,6 +141,14 @@ defaults:
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/ai-generated-local-business-websites-don-t-rent-for-3-000.png"
       description: "You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income."
       date: "2026-08-10T09:46:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/best-practices-for-ai-agent-skill-management.md"
+    values:
+      image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/a/best-practices-for-ai-agent-skill-management.png"
+      description: "Managing AI Agent skills is not merely about tools; it's about designing workflows to boost your productivity."
+      date: "2026-08-21T11:57:00Z"
       seo:
         type: BlogPosting
   - scope:

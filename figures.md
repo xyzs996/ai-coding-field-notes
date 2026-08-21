@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-306 figures pulled out of 30 write-ups in
+317 figures pulled out of 31 write-ups in
 [ai-coding-field-notes](https://github.com/xyzs996/ai-coding-field-notes) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -197,6 +197,24 @@ Published 2026-08-10.
 | `$3,000` | price | If more than five paid ads appear above the organic results, the cost per lead will outstrip your $500–$3,000 margin. |
 | `$0` | price | Outreach: $0 if you send the emails yourself; a monthly fee once you automate with Lemlist |
 | `2 hours` | duration | - Month 4+: 2 hours/week for maintenance |
+
+## [Best Practices for AI Agent Skill Management](https://xyzs996.github.io/ai-coding-field-notes/articles/best-practices-for-ai-agent-skill-management.html)
+
+Published 2026-08-21.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `90%` | percent | 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. |
+| `80%` | percent | 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. |
+| `90 minutes` | duration | A developer reduced daily report creation from 90 minutes to 8 minutes by using Skill-MCP to automate data aggregation and formatting. |
+| `8 minutes` | duration | A developer reduced daily report creation from 90 minutes to 8 minutes by using Skill-MCP to automate data aggregation and formatting. |
+| `5 minutes` | duration | Tools like WorkBuddy + BrowserAct can expedite competitor analysis by extracting data to generate price tables in just 5 minutes and opportunity reports in 7 minutes. |
+| `7 minutes` | duration | Tools like WorkBuddy + BrowserAct can expedite competitor analysis by extracting data to generate price tables in just 5 minutes and opportunity reports in 7 minutes. |
+| `90 minutes` | duration | For example, developers using Skill-MCP reduced daily report generation time from 90 minutes to 8 minutes. |
+| `8 minutes` | duration | For example, developers using Skill-MCP reduced daily report generation time from 90 minutes to 8 minutes. |
+| `17-day` | duration | Transitioning from personal to enterprise account involves a 17-day process that includes subject migration, category completion, and dual-end true device payment verification, while the critical sequence—subject conversion, category supplementation, payment channel integration, and device verification—each step requiring specific audit procedures and material preparation, necessitates careful coordination to ensure compliance and operational continuity during the transition period, and For iOS platforms, separate verification is necessary due to distinct payment channels. |
+| `90%` | percent | 90% of beginners fixate on tools (e.g., Pi's 4 default tools: read/write/edit/bash) instead of defining clear task boundaries. |
+| `3x` | multiple | Example: A security team's bug bounty process improved 3x by adding context to Skill package, not just using new tools. |
 
 ## [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](https://xyzs996.github.io/ai-coding-field-notes/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html)
 
@@ -556,5 +574,5 @@ Published 2026-08-11.
 | `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "306 figures pulled out of 30 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/ai-coding-field-notes/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/ai-coding-field-notes", "temporalCoverage": "2026-08-05/2026-08-21", "dateModified": "2026-08-21"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "317 figures pulled out of 31 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/ai-coding-field-notes/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/ai-coding-field-notes", "temporalCoverage": "2026-08-05/2026-08-21", "dateModified": "2026-08-21"}
 </script>

@@ -2,7 +2,7 @@
 
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/ai-coding-field-notes/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/ai-coding-field-notes/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/ai-coding-field-notes/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/ai-coding-field-notes/blob/main/LICENSE)
 
-30 write-ups on running AI coding agents in production — token bills,
+31 write-ups on running AI coding agents in production — token bills,
 tool switching costs, where the agents actually break, and what the
 numbers looked like afterwards.
 
@@ -18,9 +18,9 @@ with AI assistance.
 The data is CC BY: a star changes nothing about what you can do with
 it, and this project gives nothing in return for one.
 
-## The figures, as data (306 rows)
+## The figures, as data (317 rows)
 
-Every figure published across the 30 write-ups —
+Every figure published across the 31 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -31,6 +31,7 @@ recent write-ups — quoted verbatim, not summarised:
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
 | `$1.43` | The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. | [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) |
+| `90%` | 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. | [Best Practices for AI Agent Skill Management](articles/best-practices-for-ai-agent-skill-management.md) |
 | `80%` | When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. | [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](articles/why-stripping-80-of-system-prompts-actually-improved-claude.md) |
 | `$30` | With a budget as low as $30 per day, developers have reached an effective lead cost of $3 to $4. | [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md) |
 | `$1,000` | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. | [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](articles/how-indie-developers-are-building-ai-powered-digital.md) |
@@ -41,9 +42,8 @@ recent write-ups — quoted verbatim, not summarised:
 | `87 percent` | The 87 percent figure and those two cases are measuring the same thing from different angles, which is time spent moving data by hand between a system that knows the answer and a system that needs it. | [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md) |
 | `40 seconds` | By using an AI agent to automate responses, negotiation, and price adjustment, the average response time can be reduced to within 40 seconds. | [From AI Demo to Product: Loop Engineering for Indie Devs](articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md) |
 | `1,000 tokens` | The fourth is not a tool so much as an escape hatch to the entire operating system, and it is doing the work that 20 tools would do in a larger framework, which is exactly why the total comes in under 1,000 tokens. | [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md) |
-| `$10,000` | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. | [How to Build a Micro-SaaS Without Spending a Dime on Ads](articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md) |
 
-[All 306 rows](figures.md) — or as data:
+[All 317 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json
@@ -88,7 +88,7 @@ Replies there get turned into rows.
 **Follow along.** [Atom feed](https://xyzs996.github.io/ai-coding-field-notes/feed.xml) — new
 write-ups land there first.
 
-**By topic.** [Indie Development](topics/indie-development.md) (12) · [Automation Systems](topics/automation-systems.md) (9) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [SaaS Business](topics/saas-business.md) (6) · [Cost Savings](topics/cost-savings.md) (5) · [Niche Market](topics/niche-market.md) (5) · [AI Programming](topics/ai-programming.md) (4) · [Development Tools](topics/development-tools.md) (4) · [AI Tools](topics/ai-tools.md) (3) · [Chinese AI](topics/chinese-ai.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Productivity](topics/productivity.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (12) · [Automation Systems](topics/automation-systems.md) (10) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [SaaS Business](topics/saas-business.md) (6) · [AI Programming](topics/ai-programming.md) (5) · [Cost Savings](topics/cost-savings.md) (5) · [Niche Market](topics/niche-market.md) (5) · [Development Tools](topics/development-tools.md) (4) · [Productivity](topics/productivity.md) (4) · [AI Features](topics/ai-features.md) (3) · [AI Tools](topics/ai-tools.md) (3) · [Chinese AI](topics/chinese-ai.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -139,6 +139,12 @@ A specialized code review agent beat Claude Code on accuracy across 200 real pul
 You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
 
 `AI Tools` `Local SEO` `Niche Market` `Revenue Growth`
+
+### [Best Practices for AI Agent Skill Management](articles/best-practices-for-ai-agent-skill-management.md)
+
+Managing AI Agent skills is not merely about tools; it's about designing workflows to boost your productivity.
+
+`Productivity` `AI Programming` `AI Features` `Automation Systems`
 
 ### [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
 

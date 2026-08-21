@@ -105,9 +105,9 @@ These principles apply whether working with AI agents or managing human teams.
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
-[All 30 write-ups](../README.md)
+[All 31 write-ups](../README.md)
 
-The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 303 more, as JSON and CSV.
+The 3 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 314 more, as JSON and CSV.
 
 Topics: [Automation Systems](../topics/automation-systems.md)
 

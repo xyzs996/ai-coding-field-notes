@@ -76,11 +76,11 @@ The credential your AI tool never saw is the one you never have to rotate.
 
 - [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 - [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
-- [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
+- [Best Practices for AI Agent Skill Management](best-practices-for-ai-agent-skill-management.md)
 
-[All 30 write-ups](../README.md)
+[All 31 write-ups](../README.md)
 
-The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 302 more, as JSON and CSV.
+The 4 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 313 more, as JSON and CSV.
 
 Topics: [AI Programming](../topics/ai-programming.md)
 
