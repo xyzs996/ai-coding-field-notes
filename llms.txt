@@ -4,6 +4,18 @@
 
 Every number in these notes traces back to a named source. Figures without one were cut before publishing.
 
+The write-ups are in English. The dataset itself is language-neutral (figures plus the English sentence each came from), and there is a summary page in 中文, Español, 日本語, 한국어, Tiếng Việt, Français, Deutsch, Русский, Bahasa Indonesia:
+
+- [中文](https://xyzs996.github.io/ai-coding-field-notes/README_CN.html): what this dataset is, how to pull it, and where to say something — in 中文.
+- [Español](https://xyzs996.github.io/ai-coding-field-notes/README_ES.html): what this dataset is, how to pull it, and where to say something — in Español.
+- [日本語](https://xyzs996.github.io/ai-coding-field-notes/README_JA.html): what this dataset is, how to pull it, and where to say something — in 日本語.
+- [한국어](https://xyzs996.github.io/ai-coding-field-notes/README_KO.html): what this dataset is, how to pull it, and where to say something — in 한국어.
+- [Tiếng Việt](https://xyzs996.github.io/ai-coding-field-notes/README_VI.html): what this dataset is, how to pull it, and where to say something — in Tiếng Việt.
+- [Français](https://xyzs996.github.io/ai-coding-field-notes/README_FR.html): what this dataset is, how to pull it, and where to say something — in Français.
+- [Deutsch](https://xyzs996.github.io/ai-coding-field-notes/README_DE.html): what this dataset is, how to pull it, and where to say something — in Deutsch.
+- [Русский](https://xyzs996.github.io/ai-coding-field-notes/README_RU.html): what this dataset is, how to pull it, and where to say something — in Русский.
+- [Bahasa Indonesia](https://xyzs996.github.io/ai-coding-field-notes/README_ID.html): what this dataset is, how to pull it, and where to say something — in Bahasa Indonesia.
+
 ## Dataset
 
 - [Every published figure, 335 rows](https://xyzs996.github.io/ai-coding-field-notes/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url`.
