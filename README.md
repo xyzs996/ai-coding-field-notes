@@ -85,6 +85,14 @@ what this repo is for.
 provider, which unit — [in the open thread](https://github.com/xyzs996/ai-coding-field-notes/discussions/1).
 Replies there get turned into rows.
 
+**Or read one of these first.** Each answers a question people
+actually search for, with every figure this repo has on it — the
+sentence and the date included:
+
+- [AI agent loop engineering: what does the 5x claim actually measure?](https://github.com/xyzs996/ai-coding-field-notes/discussions/2) — every figure published about running an agent in a loop instead of re-prompting it — including the one the write-up itself refuses.
+- [Which Chinese AI agent tools are actually free for coding, and what do they cost once they are not?](https://github.com/xyzs996/ai-coding-field-notes/discussions/3) — the per-million input prices behind the free-token grants, each kept with the sentence and the date it was published in.
+- [Which AI programming tool should I pick — and does the 70% time-saving figure apply to me?](https://github.com/xyzs996/ai-coding-field-notes/discussions/4) — why that one widely-quoted time-saving figure holds for one kind of reader and is close to meaningless for the other.
+
 **Follow along.** [Atom feed](https://xyzs996.github.io/ai-coding-field-notes/feed.xml) — new
 write-ups land there first.
 

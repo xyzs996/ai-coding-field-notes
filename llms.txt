@@ -132,6 +132,11 @@ Quoted, not paraphrased: each is the sentence it was published in, with the date
 - [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](https://xyzs996.github.io/ai-coding-field-notes/articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.html): Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it.
 - [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](https://xyzs996.github.io/ai-coding-field-notes/articles/why-stripping-80-of-system-prompts-actually-improved-claude.html): When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks.
 - [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html): The videos run about 60 seconds.
+## Questions answered in full, with the figures behind them
+
+- **AI agent loop engineering: what does the 5x claim actually measure?** — every figure published about running an agent in a loop instead of re-prompting it — including the one the write-up itself refuses. https://github.com/xyzs996/ai-coding-field-notes/discussions/2
+- **Which Chinese AI agent tools are actually free for coding, and what do they cost once they are not?** — the per-million input prices behind the free-token grants, each kept with the sentence and the date it was published in. https://github.com/xyzs996/ai-coding-field-notes/discussions/3
+- **Which AI programming tool should I pick — and does the 70% time-saving figure apply to me?** — why that one widely-quoted time-saving figure holds for one kind of reader and is close to meaningless for the other. https://github.com/xyzs996/ai-coding-field-notes/discussions/4
 
 ## Optional
 
