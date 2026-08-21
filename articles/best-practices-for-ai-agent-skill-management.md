@@ -58,6 +58,9 @@ The solution of starting with account environment setup, having AI explore the p
 
 Another advantageous tool is OpenWorker. It automates tasks across 25+ tools. However, it prioritizes safety by asking for user permission before performing critical operations. This characteristic is highly beneficial for indie devs, as it allows them to enjoy the benefits of automation without the fear of AI making unauthorized changes. They can use it to automate tasks across various platforms.
 
+*Also readable on [Telegraph](https://telegra.ph/Best-Practices-for-AI-Agent-Skill-Management-08-21).*
+
+
 ---
 
 **Read next**
