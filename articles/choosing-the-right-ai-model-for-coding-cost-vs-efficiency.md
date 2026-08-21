@@ -73,9 +73,6 @@ The optimal strategy balances cost with quality requirements and maintains code 
 
 When choosing tools and models, developers should also consider the user-profile trends. For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. Its cross-application context collection and multi-step task automation features may not boost developer efficiency. Therefore, terminal developers are advised to retain Claude Code, as the two have a complementary rather than substitutive relationship.
 
-*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html).*
-
-
 *Also readable on [Telegraph](https://telegra.ph/Choosing-the-Right-AI-Model-for-Coding-Cost-vs-Efficiency-08-19).*
 
 

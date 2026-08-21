@@ -66,9 +66,6 @@ Publishing quality gates matter more than any of it. A structured gate that lift
 
 Skip this approach if you cannot commit 12 hours a week for several months, or if your product does not demonstrate visually. Both are load-bearing. A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one.
 
-*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html).*
-
-
 *Also readable on [Telegraph](https://telegra.ph/Why-Your-Indie-App-Needs-Short-Form-Video-Marketing-And-How-to-Get-Started-08-19).*
 
 

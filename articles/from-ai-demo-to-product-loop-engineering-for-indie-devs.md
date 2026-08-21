@@ -90,9 +90,6 @@ By implementing Loop Engineering principles, which are foundational to AI-powere
 
 The future of indie development lies in combining AI tools with human judgment. While automation handles routine tasks, developers must focus on strategy and creative problem-solving. This balanced approach ensures sustainable growth in the competitive landscape.
 
-*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.html).*
-
-
 *Also readable on [Telegraph](https://telegra.ph/From-AI-Demo-to-Product-Loop-Engineering-for-Indie-Devs-08-19).*
 
 

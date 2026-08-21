@@ -85,9 +85,6 @@ While Stagewise integration provides large value by allowing AI agents to direct
 
 For independent developers using Codex for document automation, the cost is a small investment to access powerful features that automate workflows and increase productivity. The ability to process Word/Excel/PPT/PDF files automatically and generate interactive web pages through Codex's Sites functionality makes this a useful tool for creating specialized SaaS services.
 
-*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html).*
-
-
 *Also readable on [Telegraph](https://telegra.ph/Beyond-Chat-How-Codex-Can-Automate-Your-WordExcelPPTPDF-Workflows-08-19).*
 
 
@@ -96,8 +93,8 @@ For independent developers using Codex for document automation, the cost is a sm
 **Read next**
 
 - [From AI Demo to Product: Loop Engineering for Indie Devs](from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
-- [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](how-chinese-developers-are-using-codex-record-replay-to.md)
+- [How to Build a Micro-SaaS Without Spending a Dime on Ads](how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 
 [All 26 write-ups](../README.md)
 

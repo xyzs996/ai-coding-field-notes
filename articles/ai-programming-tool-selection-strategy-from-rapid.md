@@ -62,9 +62,6 @@ Both mistakes share a shape. They are what happens when you treat the tool as a 
 
 Start hosted if you are still deciding what to build. Move to files when the project stops fitting in one conversation. And whichever you pick, decide the permission scope before the first run, not after the first incident — that is the one choice on this list you cannot make retroactively.
 
-*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/ai-programming-tool-selection-strategy-from-rapid.html).*
-
-
 *Also readable on [Telegraph](https://telegra.ph/AI-Programming-Tool-Selection-Strategy-From-Rapid-Prototyping-to-Long-term-Collaboration-08-19).*
 
 

@@ -31,6 +31,41 @@ Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.j
 **Found one that is wrong or stale?** That is the point —
 [open an issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new).
 
+## [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.html)
+
+Published 2026-08-07.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `10,000 tokens` | tokens | This strategy revolves around using tools like OmniRoute, which aggregates 237 providers, compressing 10,000 tokens to 1080 through RTK+Caveman technology. |
+| `$0.19` | price | Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. |
+| `$5` | price | Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. |
+| `$1` | price | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
+| `10%` | percent | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
+| `20%` | percent | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
+| `10%` | percent | In contrast, top-tier American models only have a gross profit margin of 10% - 25% of that of these Chinese models, yet they still manage to maintain a positive gross profit. |
+| `25%` | percent | In contrast, top-tier American models only have a gross profit margin of 10% - 25% of that of these Chinese models, yet they still manage to maintain a positive gross profit. |
+| `$0.06` | price | It offers a price range of $0.06-0.2 per million tokens, targeting global small and medium-sized enterprises and individual users. |
+| `60%` | percent | An impressive 60% - 70% of its revenue comes from overseas, and the peak-time pricing mechanism boosts revenue further. |
+| `70%` | percent | An impressive 60% - 70% of its revenue comes from overseas, and the peak-time pricing mechanism boosts revenue further. |
+| `400-token` | tokens | Anthropic's 400-token SKILL.md file, through its "two-pass workflow" and specific aesthetic guidance, has achieved over 1 million installations, proving that aesthetic direction is more useful than mere tool innovation. |
+| `80%` | percent | Claude Code's team discovered that removing 80% of system prompts actually improved programming performance, revealing how excessive model constraints can hinder rather than help AI effectiveness. |
+| `20%` | percent | ChatGPT Work's user profile is projected to shift from 20% non-programmers to 60% within 12 months, showing its growing appeal across different professional backgrounds. |
+| `60%` | percent | ChatGPT Work's user profile is projected to shift from 20% non-programmers to 60% within 12 months, showing its growing appeal across different professional backgrounds. |
+| `12 months` | duration | ChatGPT Work's user profile is projected to shift from 20% non-programmers to 60% within 12 months, showing its growing appeal across different professional backgrounds. |
+| `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
+| `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
+| `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
+
+## [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](https://xyzs996.github.io/ai-coding-field-notes/articles/the-cost-effective-guide-to-using-open-code-review-for-ai.html)
+
+Published 2026-08-10.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `95%` | percent | That 95% export-issue figure gets quoted everywhere. |
+| `60%` | percent | It integrates with GitHub Actions and CircleCI, and its structured review comments cut false positives by 60% — which is the number I'd actually optimize for, because a review tool that cries wolf gets muted inside a week, and a muted tool reviews nothing at all while still showing green on every dashboard I own. |
+
 ## [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://xyzs996.github.io/ai-coding-field-notes/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html)
 
 Published 2026-08-19.
@@ -238,32 +273,6 @@ Published 2026-08-18.
 | `7 days` | duration | API keys rotate every 7 days via /hook-triggered management. |
 | `30 Days` | duration | 30 Days: Task Identification — Use SimilarWeb to validate demand for automation, then identify 3 to 5 repeatable tasks such as blog drafts or data scraping. |
 
-## [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.html)
-
-Published 2026-08-07.
-
-| Figure | Kind | In context |
-| --- | --- | --- |
-| `10,000 tokens` | tokens | This strategy revolves around using tools like OmniRoute, which aggregates 237 providers, compressing 10,000 tokens to 1080 through RTK+Caveman technology. |
-| `$0.19` | price | Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. |
-| `$5` | price | Chinese AI models provide a cost-effective alternative to their American counterparts, with input costs as low as $0.19 per million tokens, compared to OpenAI's $5-12. |
-| `$1` | price | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
-| `10%` | percent | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
-| `20%` | percent | They are priced at $1 per million tokens, with a gross profit margin of 10% - 20%. |
-| `10%` | percent | In contrast, top-tier American models only have a gross profit margin of 10% - 25% of that of these Chinese models, yet they still manage to maintain a positive gross profit. |
-| `25%` | percent | In contrast, top-tier American models only have a gross profit margin of 10% - 25% of that of these Chinese models, yet they still manage to maintain a positive gross profit. |
-| `$0.06` | price | It offers a price range of $0.06-0.2 per million tokens, targeting global small and medium-sized enterprises and individual users. |
-| `60%` | percent | An impressive 60% - 70% of its revenue comes from overseas, and the peak-time pricing mechanism boosts revenue further. |
-| `70%` | percent | An impressive 60% - 70% of its revenue comes from overseas, and the peak-time pricing mechanism boosts revenue further. |
-| `400-token` | tokens | Anthropic's 400-token SKILL.md file, through its "two-pass workflow" and specific aesthetic guidance, has achieved over 1 million installations, proving that aesthetic direction is more useful than mere tool innovation. |
-| `80%` | percent | Claude Code's team discovered that removing 80% of system prompts actually improved programming performance, revealing how excessive model constraints can hinder rather than help AI effectiveness. |
-| `20%` | percent | ChatGPT Work's user profile is projected to shift from 20% non-programmers to 60% within 12 months, showing its growing appeal across different professional backgrounds. |
-| `60%` | percent | ChatGPT Work's user profile is projected to shift from 20% non-programmers to 60% within 12 months, showing its growing appeal across different professional backgrounds. |
-| `12 months` | duration | ChatGPT Work's user profile is projected to shift from 20% non-programmers to 60% within 12 months, showing its growing appeal across different professional backgrounds. |
-| `35%` | percent | The GNM Head tool, with its 636 adjustable parameters, enables real-time expression and posture control via MediaPipe, resulting in a 35% increase in user retention. |
-| `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
-| `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
-
 ## [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-developers-are-using-codex-record-replay-to.html)
 
 Published 2026-08-05.
@@ -335,15 +344,6 @@ Published 2026-08-16.
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `90%` | percent | AI branding tools like Miora let indie developers cut design costs by 90%. |
-
-## [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](https://xyzs996.github.io/ai-coding-field-notes/articles/the-cost-effective-guide-to-using-open-code-review-for-ai.html)
-
-Published 2026-08-10.
-
-| Figure | Kind | In context |
-| --- | --- | --- |
-| `95%` | percent | That 95% export-issue figure gets quoted everywhere. |
-| `60%` | percent | It integrates with GitHub Actions and CircleCI, and its structured review comments cut false positives by 60% — which is the number I'd actually optimize for, because a review tool that cries wolf gets muted inside a week, and a muted tool reviews nothing at all while still showing green on every dashboard I own. |
 
 ## [The First Line of Defense in AI Programming: Environment Variable Management](https://xyzs996.github.io/ai-coding-field-notes/articles/the-first-line-of-defense-in-ai-programming-environment.html)
 

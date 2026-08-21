@@ -155,9 +155,6 @@ Loop engineering offers several key advantages.
 
 > The key to implementing loop engineering is to focus on three core capabilities: /loop for timed tasks, /hook for event triggers, and /goal for goal-driven actions.
 
-*Originally published on [Medium](https://xyzs996.github.io/ai-coding-field-notes/articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.html).*
-
-
 *Also readable on [Telegraph](https://telegra.ph/AI-Agent-Loop-Engineering-Karpathys-Method-for-5x-Productivity-Gains-08-19).*
 
 

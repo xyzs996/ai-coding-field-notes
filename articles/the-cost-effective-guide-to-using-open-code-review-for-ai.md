@@ -75,8 +75,8 @@ It solves a problem you solved another way.
 **Read next**
 
 - [58 Million Plays Started With One Account, Not Four](58-million-plays-started-with-one-account-not-four.md)
-- [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - [How to Build a Micro-SaaS Without Spending a Dime on Ads](how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
+- [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](the-ai-branding-revolution-how-indie-developers-are.md)
 
 [All 26 write-ups](../README.md)
 
