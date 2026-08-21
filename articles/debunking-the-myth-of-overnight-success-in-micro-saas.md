@@ -44,6 +44,9 @@ I have not audited any of these revenue figures myself. They come from the found
 
 The six-hour build is real, and it is also the cheapest part of what happened. Those six hours sat on top of a decision to keep every rule client-side, which is what made a $3 subscription at a 10% conversion rate profitable instead of merely busy. Zero servers meant all $400 stayed. The extension worked because its author knew which 200 people to show it to first and where the next 11,800 would come from. So pick something small enough to do by hand, charge three strangers for it this week, and open an editor only after the third one pays.
 
+*Also readable on [Telegraph](https://telegra.ph/Debunking-the-Myth-of-Overnight-Success-in-Micro-SaaS-08-21).*
+
+
 ---
 
 **Read next**
