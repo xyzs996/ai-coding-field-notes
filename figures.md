@@ -26,13 +26,18 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figu
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv
 ```
 
-Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url`.
+Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url`, `medium`.
 
 **What `published` means.** It is the day the write-up carrying that
 sentence went out — not the day the price or the percentage was in
 force. We do not know the latter: the piece states a figure, it does
 not date it. Model prices move fast, so read every row as of its own
 date, and treat a two-month-old price as a lead rather than a quote.
+
+**What `medium` means.** Some of these write-ups were published on
+Medium first; for those rows this column holds the original, and the
+headings below link to it. An empty cell means that piece was never
+on Medium, not that we failed to look.
 
 Served over jsDelivr, which caches `@main` for up to 12 hours —
 the table is rebuilt at most once a day, so that is close enough.
@@ -49,9 +54,9 @@ If this table saved you an afternoon,
 [a star](https://github.com/xyzs996/ai-coding-field-notes) helps the next person
 find it — the rows are CC BY and do not require one.
 
-## [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.html)
+## [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](https://markyanai.medium.com/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens-69b483c4eb6a)
 
-Published 2026-08-07.
+Published 2026-08-07. Originally published on Medium; [the copy here](https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.html) carries the same sentences.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -75,9 +80,9 @@ Published 2026-08-07.
 | `5 minutes` | duration | The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors. |
 | `35%` | percent | The ATOM camera system, tracking 34 key points and analyzing joint angles, provides more specific fitness feedback than existing applications, leading to a 35% increase in user retention. |
 
-## [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](https://xyzs996.github.io/ai-coding-field-notes/articles/the-cost-effective-guide-to-using-open-code-review-for-ai.html)
+## [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](https://markyanai.medium.com/the-cost-effective-guide-to-using-open-code-review-for-ai-programming-tools-d144b9bb5b46)
 
-Published 2026-08-10.
+Published 2026-08-10. Originally published on Medium; [the copy here](https://xyzs996.github.io/ai-coding-field-notes/articles/the-cost-effective-guide-to-using-open-code-review-for-ai.html) carries the same sentences.
 
 | Figure | Kind | In context |
 | --- | --- | --- |

@@ -52,7 +52,7 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figu
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv
 ```
 
-Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url`. `published` is the day that
+Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url`, `medium`. `published` is the day that
 write-up went out, not the day the figure was in force —
 prices move, so read each row as of its own date.
 Browse it as a table:

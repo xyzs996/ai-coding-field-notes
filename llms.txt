@@ -18,7 +18,7 @@ The write-ups are in English. The dataset itself is language-neutral (figures pl
 
 ## Dataset
 
-- [Every published figure, 335 rows](https://xyzs996.github.io/ai-coding-field-notes/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url`.
+- [Every published figure, 335 rows](https://xyzs996.github.io/ai-coding-field-notes/figures.html): prices, percentages, multiples, token counts and durations. Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url`, `medium`.
 - [JSON](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json): the same rows, machine-readable.
 - [CSV](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv): the same rows, one line each.
 
