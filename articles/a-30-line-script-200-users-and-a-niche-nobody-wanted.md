@@ -1,6 +1,6 @@
 # A 30-Line Script, 200 Users, and a Niche Nobody Wanted
 
-![A 30-Line Script, 200 Users, and a Niche Nobody Wanted](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/a-30-line-script-200-users-and-a-niche-nobody-wanted.png)
+![A 30-Line Script, 200 Users, and a Niche Nobody Wanted](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/assets/cards/a/a-30-line-script-200-users-and-a-niche-nobody-wanted.png)
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
@@ -133,13 +133,13 @@ Topics: [SaaS Business](../topics/saas-business.md) · [Niche Market](../topics/
 
 ---
 
-*Part of [ai-coding-field-notes](https://github.com/xyzs996/ai-coding-field-notes) — field notes on AI coding
+*Part of [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — field notes on AI coding
 agents.*
 
-**Did this save you an afternoon?** [A star](https://github.com/xyzs996/ai-coding-field-notes)
+**Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring. **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
-line](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml&came_from=articles%2Fa-30-line-script-200-users-and-a-niche-nobody-wanted.md). One required field, and the page you came from is already filled
-in. **Got a better number?** [Open an issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=articles%2Fa-30-line-script-200-users-and-a-niche-nobody-wanted.md&title=%5Bcorrection%5D+A+30-Line+Script%2C+200+Users%2C+and+a+Niche+Nobody+Wanted) — that form knows
+line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fa-30-line-script-200-users-and-a-niche-nobody-wanted.md). One required field, and the page you came from is already filled
+in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fa-30-line-script-200-users-and-a-niche-nobody-wanted.md&title=%5Bcorrection%5D+A+30-Line+Script%2C+200+Users%2C+and+a+Niche+Nobody+Wanted) — that form knows
 which write-up you came from too; corrections and counter-data are the point.

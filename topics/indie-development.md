@@ -71,8 +71,8 @@ The videos run about 60 seconds.
 
 ---
 
-**Did this answer it?** [A star](https://github.com/xyzs996/ai-coding-field-notes) on the repository is the whole ask — it is what puts these in front of the next person looking; the data is CC BY and does not require starring.
+**Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — it is what puts these in front of the next person looking; the data is CC BY and does not require starring.
 
-**Want a figure that is not here yet?** [Say which metric, which provider, which unit](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml&came_from=topics%2Findie-development.md) — one required field, and the page you came from is already filled in.
+**Want a figure that is not here yet?** [Say which metric, which provider, which unit](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=topics%2Findie-development.md) — one required field, and the page you came from is already filled in.
 
-**Got a better number?** [Open an issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=topics%2Findie-development.md) — corrections and counter-data are the point.
+**Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=topics%2Findie-development.md) — corrections and counter-data are the point.

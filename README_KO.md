@@ -2,7 +2,7 @@
 
 [English](./README.md) · [中文](./README_CN.md) · [Español](./README_ES.md) · [日本語](./README_JA.md) · **한국어** · [Tiếng Việt](./README_VI.md) · [Français](./README_FR.md) · [Deutsch](./README_DE.md) · [Русский](./README_RU.md) · [Bahasa Indonesia](./README_ID.md)
 
-[![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/ai-coding-field-notes/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/ai-coding-field-notes/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/ai-coding-field-notes/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/ai-coding-field-notes/blob/main/LICENSE)
+[![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
 공개 데이터셋입니다. 32편의 현장 기록에 나온 모든 수치 —— 가격, 비율, 배수, 토큰 수, 소요 시간 —— 를 한 줄씩 뽑아내고 **원래 문장 전체와 게시 날짜를 함께** 실었습니다.
 
@@ -16,7 +16,7 @@ Design Arena의 *agents* 부문에 순위가 있는 60개 모델의 100만 토�
 | $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
 | $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
 
-[60개 전체](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.csv)
+[60개 전체](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 ## 수치 먼저
 
@@ -40,22 +40,22 @@ Design Arena의 *agents* 부문에 순위가 있는 60개 모델의 100만 토�
 [335개 전체](figures.md)
 
 ```
-curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json
-curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv
 ```
 
 `published`는 그 기록을 게시한 날이지 **그 가격이 유효하던 날이 아닙니다**. 가격은 계속 바뀌므로 각 줄은 그 줄 자신의 날짜 기준으로 읽으십시오.
 
 ## 본문
 
-본문은 **영어**이며 여기 있습니다: https://xyzs996.github.io/ai-coding-field-notes/ —— 수치 표, 주제별 페이지, 업체별 페이지가 있습니다. 수치만 필요하다면 위의 `curl` 두 줄이면 충분합니다.
+본문은 **영어**이며 여기 있습니다: https://xyzs996.github.io/llm-api-pricing/ —— 수치 표, 주제별 페이지, 업체별 페이지가 있습니다. 수치만 필요하다면 위의 `curl` 두 줄이면 충분합니다.
 
 ## 한마디
 
 - **이 저장소에 별을** 누르면 갱신을 따라갈 수 있습니다. 데이터는 CC BY라서 별과 무관하게 무엇이든 하실 수 있습니다.
-- **수치가 틀렸나요?** 가격이 바뀌었거나 직접 재보니 다른 값이 나왔다면 issue를 열어 주십시오. 이 저장소는 그러라고 있습니다. ([issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml))
-- **원하는 수치가 없나요?** 어떤 지표를, 어느 업체의, 어떤 단위로 —— 한 줄이면 됩니다. 필수 항목은 하나뿐이고, 들어온 요청은 새 줄이 됩니다. ([form](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml))
+- **수치가 틀렸나요?** 가격이 바뀌었거나 직접 재보니 다른 값이 나왔다면 issue를 열어 주십시오. 이 저장소는 그러라고 있습니다. ([issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml))
+- **원하는 수치가 없나요?** 어떤 지표를, 어느 업체의, 어떤 단위로 —— 한 줄이면 됩니다. 필수 항목은 하나뿐이고, 들어온 요청은 새 줄이 됩니다. ([form](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml))
 
 ---
 
-CC BY 4.0: 복제, 재게시, 가공, 판매 모두 자유입니다. 조건은 하나, 출처를 밝히는 것 —— https://xyzs996.github.io/ai-coding-field-notes/ 링크면 됩니다.
+CC BY 4.0: 복제, 재게시, 가공, 판매 모두 자유입니다. 조건은 하나, 출처를 밝히는 것 —— https://xyzs996.github.io/llm-api-pricing/ 링크면 됩니다.

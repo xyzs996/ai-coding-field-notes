@@ -1,6 +1,6 @@
 # How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens
 
-![How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/assets/cards/a/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.png)
+![How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/assets/cards/a/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.png)
 
 *This piece was first published on [Medium](https://markyanai.medium.com/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens-69b483c4eb6a) — that copy is the original, and it is where you can clap or reply.*
 
@@ -100,13 +100,13 @@ Topics: [Automation Systems](../topics/automation-systems.md) · [Cost Savings](
 
 ---
 
-*Part of [ai-coding-field-notes](https://github.com/xyzs996/ai-coding-field-notes) — field notes on AI coding
+*Part of [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — field notes on AI coding
 agents.*
 
-**Did this save you an afternoon?** [A star](https://github.com/xyzs996/ai-coding-field-notes)
+**Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring. **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
-line](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml&came_from=articles%2Fhow-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md). One required field, and the page you came from is already filled
-in. **Got a better number?** [Open an issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=articles%2Fhow-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md&title=%5Bcorrection%5D+How+Chinese+AI+Agent+Tools+Leverage+1.6+Billion+Free+Tokens) — that form knows
+line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fhow-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md). One required field, and the page you came from is already filled
+in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fhow-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md&title=%5Bcorrection%5D+How+Chinese+AI+Agent+Tools+Leverage+1.6+Billion+Free+Tokens) — that form knows
 which write-up you came from too; corrections and counter-data are the point.

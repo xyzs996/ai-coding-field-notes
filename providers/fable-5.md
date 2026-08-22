@@ -15,7 +15,7 @@ Some of these are about Fable 5 and some only measure against it — a competito
 - **$9.05 per run** — “Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.” (2026-08-12) [→](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - **$9.05 per run** — “The most affordable AI model option, Fable 5, costs just $9.05 per run, but delivers only 41.2% accuracy in React projects.” (2026-08-12) [→](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
-[All 335 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv)
+[All 335 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
 ## Where these 6 came from
 
@@ -23,11 +23,11 @@ Some of these are about Fable 5 and some only measure against it — a competito
 - [Choosing the Right AI Model for Coding: Cost vs. Efficiency](../articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 - [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
-**Did this answer it?** [A star](https://github.com/xyzs996/ai-coding-field-notes) on the repository is the whole ask — the data is CC BY and does not require starring.
+**Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — the data is CC BY and does not require starring.
 
-**A Fable 5 figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml&came_from=Fable+5). The form already knows it is about Fable 5.
+**A Fable 5 figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=Fable+5). The form already knows it is about Fable 5.
 
-**Or is one of the 6 above already out of date?** [Say which one](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=Fable+5&title=%5Bcorrection%5D+Fable+5) — the form already knows it is about Fable 5; you only have to say what the number is now.
+**Or is one of the 6 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=Fable+5&title=%5Bcorrection%5D+Fable+5) — the form already knows it is about Fable 5; you only have to say what the number is now.
 
 ---
 

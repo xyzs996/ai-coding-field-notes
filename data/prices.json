@@ -46,7 +46,7 @@
       "catalog_url": "https://openrouter.ai/minimax/minimax-m3",
       "batch": false,
       "article": "1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy",
-      "article_url": "https://xyzs996.github.io/ai-coding-field-notes/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html"
+      "article_url": "https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html"
     },
     {
       "model": "MiniMax M3",
@@ -61,7 +61,7 @@
       "catalog_url": "https://openrouter.ai/minimax/minimax-m3:batch",
       "batch": true,
       "article": "1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy",
-      "article_url": "https://xyzs996.github.io/ai-coding-field-notes/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html"
+      "article_url": "https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html"
     },
     {
       "model": "Gemini 3.6 Flash",
@@ -391,7 +391,7 @@
       "catalog_url": "https://openrouter.ai/meta/muse-spark-1.1",
       "batch": false,
       "article": "1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy",
-      "article_url": "https://xyzs996.github.io/ai-coding-field-notes/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html"
+      "article_url": "https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html"
     },
     {
       "model": "Muse Spark 1.2",
@@ -781,7 +781,7 @@
       "catalog_url": "https://openrouter.ai/moonshotai/kimi-k3",
       "batch": false,
       "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-      "article_url": "https://xyzs996.github.io/ai-coding-field-notes/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html"
+      "article_url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html"
     },
     {
       "model": "Claude Fable 5",

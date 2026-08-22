@@ -8,8 +8,8 @@ abstract: >-
   published as JSON and CSV, each row carrying the sentence it came from.
 authors:
   - name: xyzs996
-url: https://xyzs996.github.io/ai-coding-field-notes/
-repository-code: https://github.com/xyzs996/ai-coding-field-notes
+url: https://xyzs996.github.io/llm-api-pricing/
+repository-code: https://github.com/xyzs996/llm-api-pricing
 license: CC-BY-4.0
 keywords:
   - ai-coding

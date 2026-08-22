@@ -2,7 +2,7 @@
 
 [English](./README.md) · **中文** · [Español](./README_ES.md) · [日本語](./README_JA.md) · [한국어](./README_KO.md) · [Tiếng Việt](./README_VI.md) · [Français](./README_FR.md) · [Deutsch](./README_DE.md) · [Русский](./README_RU.md) · [Bahasa Indonesia](./README_ID.md)
 
-[![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/ai-coding-field-notes/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/ai-coding-field-notes/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/ai-coding-field-notes/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/ai-coding-field-notes/blob/main/LICENSE)
+[![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
 这是一份公开数表。32 篇实测笔记里出现过的每一个数 —— 价格、百分比、倍数、token 数、耗时 —— 都抽成一行,**每行都附上它原来所在的那句话和发布日期**。
 
@@ -16,7 +16,7 @@
 | $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
 | $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
 
-[全部 60 个](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.csv)
+[全部 60 个](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 ## 先看数
 
@@ -40,22 +40,22 @@
 [全部 335 行](figures.md)
 
 ```
-curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json
-curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv
 ```
 
 字段里的 `published` 是那篇笔记发出去的日子,**不是这个价钱当时还作数的日子**。价格一直在变,每一行都得按它自己的日期读。
 
 ## 正文
 
-正文是**英文**,在这儿:https://xyzs996.github.io/ai-coding-field-notes/ —— 带数表、题目页和厂商页。只想要数的话,上面两条 `curl` 就够了,不用读正文。
+正文是**英文**,在这儿:https://xyzs996.github.io/llm-api-pricing/ —— 带数表、题目页和厂商页。只想要数的话,上面两条 `curl` 就够了,不用读正文。
 
 ## 说一句
 
 - **收藏这个仓库**,数表更新会跟着走。数据是 CC BY 的,收不收藏都随便拿,这儿不拿数据换 star。
-- **数不对?** 哪个价钱变了、你自己跑出来是另一个数 —— 提个issue。这个仓库就是干这个的。 ([issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml))
-- **想要的数这儿没有?** 说清楚要哪个指标、哪家、什么单位,一行就够 —— 表单只有一格必填,收到就收成新行。 ([form](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml))
+- **数不对?** 哪个价钱变了、你自己跑出来是另一个数 —— 提个issue。这个仓库就是干这个的。 ([issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml))
+- **想要的数这儿没有?** 说清楚要哪个指标、哪家、什么单位,一行就够 —— 表单只有一格必填,收到就收成新行。 ([form](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml))
 
 ---
 
-CC BY 4.0:随便复制、转载、再加工、拿去卖。唯一的条件是说一声出处,挂个链接回 https://xyzs996.github.io/ai-coding-field-notes/ 就行。
+CC BY 4.0:随便复制、转载、再加工、拿去卖。唯一的条件是说一声出处,挂个链接回 https://xyzs996.github.io/llm-api-pricing/ 就行。

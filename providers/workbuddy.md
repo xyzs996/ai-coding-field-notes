@@ -16,7 +16,7 @@ Some of these are about WorkBuddy and some only measure against it — a competi
 - **7 minutes** — “Similarly, WorkBuddy and BrowserAct can automate competitor price tracking and generate product opportunity reports in under 7 minutes — something to put in front of a skeptical client while the sandbox clock runs.” (2026-08-10) [→](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
 - **5 minutes** — “The combination of WorkBuddy and BrowserAct allows developers to generate competitor price lists in just 5 minutes, proving useful for individual sellers and product selectors.” (2026-08-07) [→](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 
-[All 335 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv)
+[All 335 figures, every kind](../figures.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv)
 
 ## Where these 7 came from
 
@@ -28,11 +28,11 @@ Some of these are about WorkBuddy and some only measure against it — a competi
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 
-**Did this answer it?** [A star](https://github.com/xyzs996/ai-coding-field-notes) on the repository is the whole ask — the data is CC BY and does not require starring.
+**Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — the data is CC BY and does not require starring.
 
-**A WorkBuddy figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml&came_from=WorkBuddy). The form already knows it is about WorkBuddy.
+**A WorkBuddy figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=WorkBuddy). The form already knows it is about WorkBuddy.
 
-**Or is one of the 7 above already out of date?** [Say which one](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=WorkBuddy&title=%5Bcorrection%5D+WorkBuddy) — the form already knows it is about WorkBuddy; you only have to say what the number is now.
+**Or is one of the 7 above already out of date?** [Say which one](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=WorkBuddy&title=%5Bcorrection%5D+WorkBuddy) — the form already knows it is about WorkBuddy; you only have to say what the number is now.
 
 ---
 

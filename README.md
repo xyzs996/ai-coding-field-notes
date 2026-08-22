@@ -2,13 +2,13 @@
 
 **English** · [中文](./README_CN.md) · [Español](./README_ES.md) · [日本語](./README_JA.md) · [한국어](./README_KO.md) · [Tiếng Việt](./README_VI.md) · [Français](./README_FR.md) · [Deutsch](./README_DE.md) · [Русский](./README_RU.md) · [Bahasa Indonesia](./README_ID.md)
 
-[![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/ai-coding-field-notes/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/ai-coding-field-notes/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/ai-coding-field-notes/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/ai-coding-field-notes/blob/main/LICENSE)
+[![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
 32 write-ups on running AI coding agents in production — token bills,
 tool switching costs, where the agents actually break, and what the
 numbers looked like afterwards.
 
-**Read these on the web:** [AI Coding Field Notes](https://xyzs996.github.io/ai-coding-field-notes/) — the same write-ups with the figures table, the topic pages and the
+**Read these on the web:** [AI Coding Field Notes](https://xyzs996.github.io/llm-api-pricing/) — the same write-ups with the figures table, the topic pages and the
 links between them.
 
 **On the figures.** Every number here traces back to a named source or
@@ -33,7 +33,7 @@ in. Re-read daily from OpenRouter's catalog; last read
 | $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
 | $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
 
-[All 60 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.csv)
+[All 60 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 **List price, not your bill** — cache hits, batch tiers and providers
 price differently, and `batch` rows are kept separate rather than
@@ -68,8 +68,8 @@ recent write-ups — quoted verbatim, not summarised:
 [All 335 rows](figures.md) — or as data:
 
 ```
-curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json
-curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv
 ```
 
 Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url`, `medium`. `published` is the day that
@@ -81,7 +81,7 @@ Browse it as a table:
 Those two go through jsDelivr, which caches `@main` for up to 12
 hours — fine for a table that is rebuilt once a day. If you want
 it uncached, the origin is
-`https://xyzs996.github.io/ai-coding-field-notes/data/figures.json`.
+`https://xyzs996.github.io/llm-api-pricing/data/figures.json`.
 
 A number without its sentence is not checkable — `$1.43` could be
 per million tokens, per month, or per seat. The sentence is quoted
@@ -92,38 +92,38 @@ else tomorrow. Every snapshot is also frozen as a dated release,
 and these two always resolve to the newest frozen one:
 
 ```
-curl -sL https://github.com/xyzs996/ai-coding-field-notes/releases/latest/download/figures.json
-curl -sL https://github.com/xyzs996/ai-coding-field-notes/releases/latest/download/figures.csv
+curl -sL https://github.com/xyzs996/llm-api-pricing/releases/latest/download/figures.json
+curl -sL https://github.com/xyzs996/llm-api-pricing/releases/latest/download/figures.csv
 ```
 
-[All snapshots](https://github.com/xyzs996/ai-coding-field-notes/releases) — one per day the table actually changed.
+[All snapshots](https://github.com/xyzs996/llm-api-pricing/releases) — one per day the table actually changed.
 
 **Corrections wanted.** If a figure is stale, a tool changed its
 pricing, or you ran the same thing and got something else — [open an
-issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml). That is
+issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml). That is
 what this repo is for.
 
 **Want a figure that is not here yet?** Say which metric, which
-provider, which unit — [in one line](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml).
+provider, which unit — [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml).
 The form has one required field and that is the whole of it.
 
 **Or read one of these first.** Each answers a question people
 actually search for, with every figure this repo has on it — the
 sentence and the date included:
 
-- [AI agent loop engineering: what does the 5x claim actually measure?](https://github.com/xyzs996/ai-coding-field-notes/discussions/2) — every figure published about running an agent in a loop instead of re-prompting it — including the one the write-up itself refuses.
-- [Which Chinese AI agent tools are actually free for coding, and what do they cost once they are not?](https://github.com/xyzs996/ai-coding-field-notes/discussions/3) — the per-million input prices behind the free-token grants, each kept with the sentence and the date it was published in.
-- [Which AI programming tool should I pick — and does the 70% time-saving figure apply to me?](https://github.com/xyzs996/ai-coding-field-notes/discussions/4) — why that one widely-quoted time-saving figure holds for one kind of reader and is close to meaningless for the other.
-- [Two AI code reviewers score within two points. One costs a sixth as much per run.](https://github.com/xyzs996/ai-coding-field-notes/discussions/5) — both benchmark scores and both per-run prices side by side, with the vendor self-reports marked as such.
-- [What does a coding agent actually cost per month — and which figure on the pricing page is the one that moves it?](https://github.com/xyzs996/ai-coding-field-notes/discussions/6) — every published per-million price this repo has collected, and why the one that decides the bill is usually not on the page.
-- [Klarna saved $4M replacing 700 agents, then rehired. Which number arrived first, and which one would have warned you?](https://github.com/xyzs996/ai-coding-field-notes/discussions/7) — the savings, the satisfaction drop and the months between them, in the order they were published.
-- [What does a one-person software product actually make — and how many months before it made anything?](https://github.com/xyzs996/ai-coding-field-notes/discussions/8) — the published monthly revenue figures next to the months each one took to get there, including the eighteen-month one.
-- [Short video for indie products: 95% organic sounds great until you ask how many hours a week it costs](https://github.com/xyzs996/ai-coding-field-notes/discussions/9) — the reach figures next to the weekly hour counts behind them, and why an organic share with no denominator is not a result.
+- [AI agent loop engineering: what does the 5x claim actually measure?](https://github.com/xyzs996/llm-api-pricing/discussions/2) — every figure published about running an agent in a loop instead of re-prompting it — including the one the write-up itself refuses.
+- [Which Chinese AI agent tools are actually free for coding, and what do they cost once they are not?](https://github.com/xyzs996/llm-api-pricing/discussions/3) — the per-million input prices behind the free-token grants, each kept with the sentence and the date it was published in.
+- [Which AI programming tool should I pick — and does the 70% time-saving figure apply to me?](https://github.com/xyzs996/llm-api-pricing/discussions/4) — why that one widely-quoted time-saving figure holds for one kind of reader and is close to meaningless for the other.
+- [Two AI code reviewers score within two points. One costs a sixth as much per run.](https://github.com/xyzs996/llm-api-pricing/discussions/5) — both benchmark scores and both per-run prices side by side, with the vendor self-reports marked as such.
+- [What does a coding agent actually cost per month — and which figure on the pricing page is the one that moves it?](https://github.com/xyzs996/llm-api-pricing/discussions/6) — every published per-million price this repo has collected, and why the one that decides the bill is usually not on the page.
+- [Klarna saved $4M replacing 700 agents, then rehired. Which number arrived first, and which one would have warned you?](https://github.com/xyzs996/llm-api-pricing/discussions/7) — the savings, the satisfaction drop and the months between them, in the order they were published.
+- [What does a one-person software product actually make — and how many months before it made anything?](https://github.com/xyzs996/llm-api-pricing/discussions/8) — the published monthly revenue figures next to the months each one took to get there, including the eighteen-month one.
+- [Short video for indie products: 95% organic sounds great until you ask how many hours a week it costs](https://github.com/xyzs996/llm-api-pricing/discussions/9) — the reach figures next to the weekly hour counts behind them, and why an organic share with no denominator is not a result.
 
-**Follow along.** [Atom feed](https://xyzs996.github.io/ai-coding-field-notes/feed.xml) — new
+**Follow along.** [Atom feed](https://xyzs996.github.io/llm-api-pricing/feed.xml) — new
 write-ups land there first.
 
-**Reading this with a model?** [llms.txt](https://xyzs996.github.io/ai-coding-field-notes/llms.txt)
+**Reading this with a model?** [llms.txt](https://xyzs996.github.io/llm-api-pricing/llms.txt)
 — the dataset first, then every write-up with one line of what it says.
 
 **By provider.** [GPT-5.6](providers/gpt-5-6.md) (18) · [Klarna](providers/klarna.md) (9) · [BrowserAct](providers/browseract.md) (7) · [Claude](providers/claude.md) (7) · [WorkBuddy](providers/workbuddy.md) (7) · [Fable 5](providers/fable-5.md) (6) · [ChatGPT](providers/chatgpt.md) (4) — every figure whose sentence names it, with the date.
@@ -335,4 +335,4 @@ Copyright © 2026 xyzs996. Everything here — the write-ups in
 [CC BY 4.0](LICENSE): copy it, republish it, build on it, sell it.
 
 One condition: say where it came from. A link back to
-<https://xyzs996.github.io/ai-coding-field-notes/> next to whatever you reuse is enough.
+<https://xyzs996.github.io/llm-api-pricing/> next to whatever you reuse is enough.

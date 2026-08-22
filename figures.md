@@ -1,7 +1,7 @@
 # Every figure we published, with the sentence it came from
 
 335 figures pulled out of 32 write-ups in
-[ai-coding-field-notes](https://github.com/xyzs996/ai-coding-field-notes) — prices, percentages, multiples, token counts and durations, each
+[llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
 **Why the sentence is in the table.** A number on its own is not
@@ -22,8 +22,8 @@ did not state a unit, not that we failed to record it.
 **Machine-readable.**
 
 ```
-curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json
-curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv
 ```
 
 Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url`, `medium`.
@@ -41,22 +41,22 @@ on Medium, not that we failed to look.
 
 Served over jsDelivr, which caches `@main` for up to 12 hours —
 the table is rebuilt at most once a day, so that is close enough.
-Uncached origin: `https://xyzs996.github.io/ai-coding-field-notes/data/figures.json`.
+Uncached origin: `https://xyzs996.github.io/llm-api-pricing/data/figures.json`.
 
 **Want a figure that is not in here yet?** Say which metric,
-which provider, which unit [in one line](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml&came_from=figures.md) —
+which provider, which unit [in one line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=figures.md) —
 one required field, and requests get turned into rows.
 
 **Found one that is wrong or stale?** That is the point —
-[open an issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new).
+[open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new).
 
 If this table saved you an afternoon,
-[a star](https://github.com/xyzs996/ai-coding-field-notes) helps the next person
+[a star](https://github.com/xyzs996/llm-api-pricing) helps the next person
 find it — the rows are CC BY and do not require one.
 
 ## [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](https://markyanai.medium.com/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens-69b483c4eb6a)
 
-Published 2026-08-07. Originally published on Medium; [the copy here](https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.html) carries the same sentences.
+Published 2026-08-07. Originally published on Medium; [the copy here](https://xyzs996.github.io/llm-api-pricing/articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.html) carries the same sentences.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
@@ -82,14 +82,14 @@ Published 2026-08-07. Originally published on Medium; [the copy here](https://xy
 
 ## [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](https://markyanai.medium.com/the-cost-effective-guide-to-using-open-code-review-for-ai-programming-tools-d144b9bb5b46)
 
-Published 2026-08-10. Originally published on Medium; [the copy here](https://xyzs996.github.io/ai-coding-field-notes/articles/the-cost-effective-guide-to-using-open-code-review-for-ai.html) carries the same sentences.
+Published 2026-08-10. Originally published on Medium; [the copy here](https://xyzs996.github.io/llm-api-pricing/articles/the-cost-effective-guide-to-using-open-code-review-for-ai.html) carries the same sentences.
 
 | Figure | Kind | In context |
 | --- | --- | --- |
 | `95%` | percent | That 95% export-issue figure gets quoted everywhere. |
 | `60%` | percent | It integrates with GitHub Actions and CircleCI, and its structured review comments cut false positives by 60% — which is the number I'd actually optimize for, because a review tool that cries wolf gets muted inside a week, and a muted tool reviews nothing at all while still showing green on every dashboard I own. |
 
-## [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://xyzs996.github.io/ai-coding-field-notes/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html)
+## [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html)
 
 Published 2026-08-19.
 
@@ -123,7 +123,7 @@ Published 2026-08-19.
 | `83%` | percent | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. |
 | `9x` | multiple | Nothing in a routing layer gets you a 9x reduction. |
 
-## [58 Million Plays Started With One Account, Not Four](https://xyzs996.github.io/ai-coding-field-notes/articles/58-million-plays-started-with-one-account-not-four.html)
+## [58 Million Plays Started With One Account, Not Four](https://xyzs996.github.io/llm-api-pricing/articles/58-million-plays-started-with-one-account-not-four.html)
 
 Published 2026-08-12.
 
@@ -143,7 +143,7 @@ Published 2026-08-12.
 | `30 days` | duration | It was later listed for sale at $1.2 million on a 4.4 times annual revenue multiple, after a 30-day stretch where revenue came in 11% below the previous 30 days. |
 | `$63,000` per month | price | Jordan's Resellbot started as 30 lines of JavaScript written because his partner was manually reposting listings every day, and it now runs at roughly $63,000 a month, which probably says more about picking a visible problem than about any distribution tactic. |
 
-## [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](https://xyzs996.github.io/ai-coding-field-notes/articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.html)
+## [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](https://xyzs996.github.io/llm-api-pricing/articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.html)
 
 Published 2026-08-15.
 
@@ -161,7 +161,7 @@ Published 2026-08-15.
 | `18 months` | duration | Resellbot took 18 months to reach profitability. |
 | `18-month` | duration | Sustainable growth in Micro-SaaS often requires patience and persistence, as seen with Resellbot's 18-month journey to profitability. |
 
-## [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](https://xyzs996.github.io/ai-coding-field-notes/articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.html)
+## [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](https://xyzs996.github.io/llm-api-pricing/articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.html)
 
 Published 2026-08-09.
 
@@ -181,7 +181,7 @@ Published 2026-08-09.
 | `48%` | percent | The retention rate improved from 20% to 35%, with natural search traffic accounting for 48% and user sessions making up 88% of the total. |
 | `88%` | percent | The retention rate improved from 20% to 35%, with natural search traffic accounting for 48% and user sessions making up 88% of the total. |
 
-## [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](https://xyzs996.github.io/ai-coding-field-notes/articles/ai-programming-tool-selection-strategy-from-rapid.html)
+## [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](https://xyzs996.github.io/llm-api-pricing/articles/ai-programming-tool-selection-strategy-from-rapid.html)
 
 Published 2026-08-07.
 
@@ -191,7 +191,7 @@ Published 2026-08-07.
 | `70%` | percent | They need the 70% time saving, and they need it without a repository. |
 | `70%` | percent | The 70% figure is real for the finance analyst pulling numbers across four applications, and it is close to meaningless for the person maintaining a service, because their bottleneck was never the typing. |
 
-## [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](https://xyzs996.github.io/ai-coding-field-notes/articles/ai-generated-local-business-websites-don-t-rent-for-3-000.html)
+## [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](https://xyzs996.github.io/llm-api-pricing/articles/ai-generated-local-business-websites-don-t-rent-for-3-000.html)
 
 Published 2026-08-10.
 
@@ -213,7 +213,7 @@ Published 2026-08-10.
 | `$0` | price | Outreach: $0 if you send the emails yourself; a monthly fee once you automate with Lemlist |
 | `2 hours` | duration | - Month 4+: 2 hours/week for maintenance |
 
-## [Best Practices for AI Agent Skill Management](https://xyzs996.github.io/ai-coding-field-notes/articles/best-practices-for-ai-agent-skill-management.html)
+## [Best Practices for AI Agent Skill Management](https://xyzs996.github.io/llm-api-pricing/articles/best-practices-for-ai-agent-skill-management.html)
 
 Published 2026-08-21.
 
@@ -231,7 +231,7 @@ Published 2026-08-21.
 | `90%` | percent | 90% of beginners fixate on tools (e.g., Pi's 4 default tools: read/write/edit/bash) instead of defining clear task boundaries. |
 | `3x` | multiple | Example: A security team's bug bounty process improved 3x by adding context to Skill package, not just using new tools. |
 
-## [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](https://xyzs996.github.io/ai-coding-field-notes/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html)
+## [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](https://xyzs996.github.io/llm-api-pricing/articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.html)
 
 Published 2026-08-17.
 
@@ -241,7 +241,7 @@ Published 2026-08-17.
 | `2 hours` | duration | One developer processed 200 PDFs in 2 hours, a faster improvement in efficiency compared to the manual process, which would typically take 10 hours. |
 | `10 hours` | duration | One developer processed 200 PDFs in 2 hours, a faster improvement in efficiency compared to the manual process, which would typically take 10 hours. |
 
-## [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](https://xyzs996.github.io/ai-coding-field-notes/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html)
+## [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html)
 
 Published 2026-08-05.
 
@@ -261,7 +261,7 @@ Published 2026-08-05.
 | `$19 billion` | price | Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months. |
 | `12 months` | duration | Anthropic is not signing a $19 billion lease in order to cut prices in the next 12 months. |
 
-## [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](https://xyzs996.github.io/ai-coding-field-notes/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html)
+## [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](https://xyzs996.github.io/llm-api-pricing/articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.html)
 
 Published 2026-08-19.
 
@@ -276,7 +276,7 @@ Published 2026-08-19.
 | `55.1%` | percent | The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again. |
 | `9.1%` | percent | The reported enterprise case reached 55.1% from 9.1% through exactly that loop: analyze the behaviour, change one stage, measure again. |
 
-## [Choosing the Right AI Model for Coding: Cost vs. Efficiency](https://xyzs996.github.io/ai-coding-field-notes/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html)
+## [Choosing the Right AI Model for Coding: Cost vs. Efficiency](https://xyzs996.github.io/llm-api-pricing/articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.html)
 
 Published 2026-08-12.
 
@@ -302,7 +302,7 @@ Published 2026-08-12.
 | `60%` | percent | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
 | `12 months` | duration | For instance, the user profile of ChatGPT Work is expected to shift from 20% non-programming users to 60% in 12 months. |
 
-## [Debunking the Myth of Overnight Success in Micro-SaaS](https://xyzs996.github.io/ai-coding-field-notes/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html)
+## [Debunking the Myth of Overnight Success in Micro-SaaS](https://xyzs996.github.io/llm-api-pricing/articles/debunking-the-myth-of-overnight-success-in-micro-saas.html)
 
 Published 2026-08-21.
 
@@ -327,7 +327,7 @@ Published 2026-08-21.
 | `10%` | percent | Those six hours sat on top of a decision to keep every rule client-side, which is what made a $3 subscription at a 10% conversion rate profitable instead of merely busy. |
 | `$400` | price | Zero servers meant all $400 stayed. |
 
-## [From AI Demo to Product: Loop Engineering for Indie Devs](https://xyzs996.github.io/ai-coding-field-notes/articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.html)
+## [From AI Demo to Product: Loop Engineering for Indie Devs](https://xyzs996.github.io/llm-api-pricing/articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.html)
 
 Published 2026-08-18.
 
@@ -339,7 +339,7 @@ Published 2026-08-18.
 | `7 days` | duration | API keys rotate every 7 days via /hook-triggered management. |
 | `30 Days` | duration | 30 Days: Task Identification — Use SimilarWeb to validate demand for automation, then identify 3 to 5 repeatable tasks such as blog drafts or data scraping. |
 
-## [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](https://xyzs996.github.io/ai-coding-field-notes/articles/how-chinese-developers-are-using-codex-record-replay-to.html)
+## [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](https://xyzs996.github.io/llm-api-pricing/articles/how-chinese-developers-are-using-codex-record-replay-to.html)
 
 Published 2026-08-05.
 
@@ -352,7 +352,7 @@ Published 2026-08-05.
 | `80 percent` | percent | Most of what feels repetitive in a week does not, which is why the 80 percent figure describes a narrow slice of the work rather than 80 percent of anyone's day. |
 | `80 percent` | percent | The 80 percent figure should probably travel too, with the caveat that it applies to the recorded slice and not the day. |
 
-## [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](https://xyzs996.github.io/ai-coding-field-notes/articles/how-indie-developers-are-building-ai-powered-digital.html)
+## [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](https://xyzs996.github.io/llm-api-pricing/articles/how-indie-developers-are-building-ai-powered-digital.html)
 
 Published 2026-08-20.
 
@@ -373,7 +373,7 @@ Published 2026-08-20.
 | `$1,000` | price | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. |
 | `$5,000` | price | Instead of chasing a 2.5% consumer conversion rate across unpredictable social channels, you sell a single $1,000 to $5,000 service package directly to one business owner — no massive ad campaigns, no hundreds of low-tier support tickets. |
 
-## [How to Build a Micro-SaaS Without Spending a Dime on Ads](https://xyzs996.github.io/ai-coding-field-notes/articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.html)
+## [How to Build a Micro-SaaS Without Spending a Dime on Ads](https://xyzs996.github.io/llm-api-pricing/articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.html)
 
 Published 2026-08-17.
 
@@ -383,7 +383,7 @@ Published 2026-08-17.
 | `$15,000` | price | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. |
 | `30 days` | duration | Sam Shore handed roughly two-thirds of Typeshare's equity to two people with established audiences, Dickie and Cole, and monthly revenue moved from $10,000 to $15,000 inside 30 days. |
 
-## [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](https://xyzs996.github.io/ai-coding-field-notes/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html)
+## [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](https://xyzs996.github.io/llm-api-pricing/articles/monkeycode-the-open-source-ai-coding-platform-with-900.html)
 
 Published 2026-08-16.
 
@@ -394,7 +394,7 @@ Published 2026-08-16.
 | `900 million tokens` | tokens | Which means the honest answer to "how long does 900 million tokens last" is that it depends on your repository rather than on your discipline. |
 | `80 percent` | percent | Track consumption from the first week rather than from the first warning at 80 percent. |
 
-## [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](https://xyzs996.github.io/ai-coding-field-notes/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html)
+## [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](https://xyzs996.github.io/llm-api-pricing/articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.html)
 
 Published 2026-08-19.
 
@@ -403,7 +403,7 @@ Published 2026-08-19.
 | `40-second` | duration | When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. |
 | `40-second` | duration | The 40-second number I cannot check. |
 
-## [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](https://xyzs996.github.io/ai-coding-field-notes/articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.html)
+## [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](https://xyzs996.github.io/llm-api-pricing/articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.html)
 
 Published 2026-08-20.
 
@@ -415,7 +415,7 @@ Published 2026-08-20.
 | `5 minutes` | duration | WorkBuddy combined with BrowserAct can produce a competitive price table in 5 minutes and an opportunity report in 7, which is roughly the difference between checking a hypothesis during a coffee break and scheduling an afternoon for it. |
 | `5-minute` | duration | I remain a little skeptical of how well those reports hold up on messy niches, but for a first pass on pricing structure the speed is hard to argue with, and a 5-minute price table you can throw away costs you nothing when the niche turns out to be wrong. |
 
-## [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](https://xyzs996.github.io/ai-coding-field-notes/articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.html)
+## [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](https://xyzs996.github.io/llm-api-pricing/articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.html)
 
 Published 2026-08-18.
 
@@ -436,7 +436,7 @@ Published 2026-08-18.
 | `3 weeks` | duration | Average time from concept to full production deployment was about 2 to 3 weeks. |
 | `3 weeks` | duration | If your work is mostly one-off, the components that make repetition cheap are solving a problem you do not have, and those 2 to 3 weeks are better spent elsewhere. |
 
-## [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](https://xyzs996.github.io/ai-coding-field-notes/articles/the-ai-branding-revolution-how-indie-developers-are.html)
+## [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](https://xyzs996.github.io/llm-api-pricing/articles/the-ai-branding-revolution-how-indie-developers-are.html)
 
 Published 2026-08-16.
 
@@ -444,7 +444,7 @@ Published 2026-08-16.
 | --- | --- | --- |
 | `90%` | percent | AI branding tools like Miora let indie developers cut design costs by 90%. |
 
-## [The First Line of Defense in AI Programming: Environment Variable Management](https://xyzs996.github.io/ai-coding-field-notes/articles/the-first-line-of-defense-in-ai-programming-environment.html)
+## [The First Line of Defense in AI Programming: Environment Variable Management](https://xyzs996.github.io/llm-api-pricing/articles/the-first-line-of-defense-in-ai-programming-environment.html)
 
 Published 2026-08-08.
 
@@ -455,7 +455,7 @@ Published 2026-08-08.
 | `30-second` | duration | The gap opens when someone pastes a key into a chat window to debug why a call is failing, which is a 30-second decision that puts a live credential into a log you do not control and cannot delete. |
 | `10 minutes` | duration | Setting this up takes 10 minutes on a new project and rather longer on an existing one, which is why people put it off. |
 
-## [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](https://xyzs996.github.io/ai-coding-field-notes/articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.html)
+## [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](https://xyzs996.github.io/llm-api-pricing/articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.html)
 
 Published 2026-08-12.
 
@@ -474,7 +474,7 @@ Published 2026-08-12.
 | `9 token` | tokens | Open Code Review's 1/9 token consumption advantage over general-purpose agents translates to large cost savings for development teams. |
 | `6 months` | duration | A mid-sized e-commerce company cut its model spend over 6 months. |
 
-## [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](https://xyzs996.github.io/ai-coding-field-notes/articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.html)
+## [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](https://xyzs996.github.io/llm-api-pricing/articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.html)
 
 Published 2026-08-10.
 
@@ -484,7 +484,7 @@ Published 2026-08-10.
 | `12 months` | duration | Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading the CEO to admit they "went too far" with automation after 12 months. |
 | `12 months` | duration | Quality degradation typically appears 6-12 months after full automation—long after the press releases have been sent. |
 
-## [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](https://xyzs996.github.io/ai-coding-field-notes/articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.html)
+## [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](https://xyzs996.github.io/llm-api-pricing/articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.html)
 
 Published 2026-08-21.
 
@@ -506,7 +506,7 @@ Published 2026-08-21.
 | `9 token` | tokens | Run a specialised reviewer rather than a general agent where one exists for your stack — the 1/9 token figure is the largest single number in this whole comparison, and it is the one people skip. |
 | `43.1%` | percent | At 43.1%, that is what it is. |
 
-## [Token Optimization for Indie Developers' AI API Bills](https://xyzs996.github.io/ai-coding-field-notes/articles/token-optimization-for-indie-developers-ai-api-bills.html)
+## [Token Optimization for Indie Developers' AI API Bills](https://xyzs996.github.io/llm-api-pricing/articles/token-optimization-for-indie-developers-ai-api-bills.html)
 
 Published 2026-08-18.
 
@@ -519,7 +519,7 @@ Published 2026-08-18.
 | `9x` | multiple | Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. |
 | `3,000 tokens` | tokens | It comes from a system prompt of 3,000 tokens replayed on every one of 40 turns in an agent loop, or from a file-tree dump the editor attaches whether or not the current question touches those files. |
 
-## [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](https://xyzs996.github.io/ai-coding-field-notes/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html)
+## [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](https://xyzs996.github.io/llm-api-pricing/articles/when-ai-customer-service-backfired-klarna-s-case-and-the.html)
 
 Published 2026-08-16.
 
@@ -549,7 +549,7 @@ Published 2026-08-16.
 | `10%` | percent | Klarna's 10% and 18% are exactly those two counters, and they are the only numbers in this story that would have predicted the rehiring before it happened. |
 | `18%` | percent | Klarna's 10% and 18% are exactly those two counters, and they are the only numbers in this story that would have predicted the rehiring before it happened. |
 
-## [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](https://xyzs996.github.io/ai-coding-field-notes/articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.html)
+## [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](https://xyzs996.github.io/llm-api-pricing/articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.html)
 
 Published 2026-08-17.
 
@@ -560,7 +560,7 @@ Published 2026-08-17.
 | `1,000 tokens` | tokens | The fourth is not a tool so much as an escape hatch to the entire operating system, and it is doing the work that 20 tools would do in a larger framework, which is exactly why the total comes in under 1,000 tokens. |
 | `1,000 tokens` | tokens | That is arguably the correct decision for Pi, since guided discovery is exactly the kind of thing that costs tokens in the system prompt, and the whole premise here is that the prompt stays under 1,000 tokens. |
 
-## [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](https://xyzs996.github.io/ai-coding-field-notes/articles/why-stripping-80-of-system-prompts-actually-improved-claude.html)
+## [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](https://xyzs996.github.io/llm-api-pricing/articles/why-stripping-80-of-system-prompts-actually-improved-claude.html)
 
 Published 2026-08-20.
 
@@ -569,7 +569,7 @@ Published 2026-08-20.
 | `80%` | percent | When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. |
 | `80%` | percent | Stripping away that redundant 80% removes the cognitive drag holding the model back, freeing native reasoning capacity and cutting the token burn. |
 
-## [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](https://xyzs996.github.io/ai-coding-field-notes/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html)
+## [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](https://xyzs996.github.io/llm-api-pricing/articles/why-your-indie-app-needs-short-form-video-marketing-and-how.html)
 
 Published 2026-08-11.
 
@@ -614,5 +614,5 @@ Published 2026-08-11.
 | `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "335 figures pulled out of 32 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/ai-coding-field-notes/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/ai-coding-field-notes", "temporalCoverage": "2026-08-05/2026-08-21", "dateModified": "2026-08-21"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "335 figures pulled out of 32 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-21", "dateModified": "2026-08-21"}
 </script>

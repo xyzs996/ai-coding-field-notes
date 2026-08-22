@@ -2,7 +2,7 @@
 
 [English](./README.md) · [中文](./README_CN.md) · **Español** · [日本語](./README_JA.md) · [한국어](./README_KO.md) · [Tiếng Việt](./README_VI.md) · [Français](./README_FR.md) · [Deutsch](./README_DE.md) · [Русский](./README_RU.md) · [Bahasa Indonesia](./README_ID.md)
 
-[![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/ai-coding-field-notes/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/ai-coding-field-notes/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fai-coding-field-notes%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/ai-coding-field-notes/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/ai-coding-field-notes/blob/main/LICENSE)
+[![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
 Un conjunto de datos abierto. Cada cifra publicada en 32 notas de campo — precios, porcentajes, múltiplos, recuentos de tokens y duraciones — extraída a una fila, **con la frase completa de la que salió y la fecha de publicación**.
 
@@ -16,7 +16,7 @@ Un conjunto de datos abierto. Cada cifra publicada en 32 notas de campo — prec
 | $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
 | $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
 
-[Los 60 modelos](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.csv)
+[Los 60 modelos](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
 ## Las cifras primero
 
@@ -40,22 +40,22 @@ Las líneas siguientes están **en inglés, copiadas tal cual**, sin traducir: u
 [Las 335 filas](figures.md)
 
 ```
-curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.json
-curl -s https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/figures.csv
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
+curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv
 ```
 
 El campo `published` es el día en que salió esa nota, **no el día en que ese precio estaba vigente**. Los precios cambian: lea cada fila según su propia fecha.
 
 ## Los textos
 
-Los textos están **en inglés**, aquí: https://xyzs996.github.io/ai-coding-field-notes/ — con la tabla de cifras, las páginas por tema y las páginas por proveedor. Si solo quiere los datos, los dos `curl` de arriba bastan.
+Los textos están **en inglés**, aquí: https://xyzs996.github.io/llm-api-pricing/ — con la tabla de cifras, las páginas por tema y las páginas por proveedor. Si solo quiere los datos, los dos `curl` de arriba bastan.
 
 ## Diga algo
 
 - **Marque el repositorio con una estrella** para seguir las actualizaciones. Los datos son CC BY: la estrella no cambia nada de lo que puede hacer con ellos.
-- **¿Una cifra está mal?** Si un precio cambió o usted midió otra cosa, abra un issue. Para eso existe este repositorio. ([issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml))
-- **¿Falta una cifra?** Diga qué métrica, qué proveedor y en qué unidad, en una línea — el formulario tiene un solo campo obligatorio y las peticiones se convierten en filas. ([form](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml))
+- **¿Una cifra está mal?** Si un precio cambió o usted midió otra cosa, abra un issue. Para eso existe este repositorio. ([issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml))
+- **¿Falta una cifra?** Diga qué métrica, qué proveedor y en qué unidad, en una línea — el formulario tiene un solo campo obligatorio y las peticiones se convierten en filas. ([form](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml))
 
 ---
 
-CC BY 4.0: copie, republique, derive o venda. Una sola condición: diga de dónde salió, con un enlace a https://xyzs996.github.io/ai-coding-field-notes/.
+CC BY 4.0: copie, republique, derive o venda. Una sola condición: diga de dónde salió, con un enlace a https://xyzs996.github.io/llm-api-pricing/.

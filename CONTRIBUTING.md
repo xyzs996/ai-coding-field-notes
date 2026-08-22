@@ -5,18 +5,18 @@ The most useful thing you can send here is a correction.
 ## Corrections
 
 A price moved, a limit changed, a tool shipped the thing this write-up said
-it could not do, a link died. [Open a correction](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml) —
+it could not do, a link died. [Open a correction](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml) —
 one field is required, the rest are optional. A source link helps but a bare
 "this is stale now" is still worth having.
 
-Every figure in [`data/figures.json`](https://xyzs996.github.io/ai-coding-field-notes/data/figures.json) carries the
+Every figure in [`data/figures.json`](https://xyzs996.github.io/llm-api-pricing/data/figures.json) carries the
 sentence it came from, so a correction can point at the exact row.
 
 ## Your own numbers
 
 If you ran the same thing and got a different number, that is more valuable
 than anything in here — it is a second data point on a question this
-collection only has one on. [Start a discussion](https://github.com/xyzs996/ai-coding-field-notes/discussions).
+collection only has one on. [Start a discussion](https://github.com/xyzs996/llm-api-pricing/discussions).
 
 ## What does not get merged
 
@@ -28,4 +28,4 @@ collection only has one on. [Start a discussion](https://github.com/xyzs996/ai-c
 ## Reuse
 
 Everything here is [CC BY 4.0](LICENSE). Copy it, republish it, sell it —
-just say where it came from and link back to <https://xyzs996.github.io/ai-coding-field-notes/>.
+just say where it came from and link back to <https://xyzs996.github.io/llm-api-pricing/>.
