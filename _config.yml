@@ -16,6 +16,10 @@ defaults:
       description: "Every figure published in these AI coding field notes (prices, percentages, multiples, token counts and durations), as JSON and CSV — each row carries the full sentence it came from and a link to the write-up."
       image: "https://xyzs996.github.io/ai-coding-field-notes/assets/cards/figures.png"
   - scope:
+      path: "prices.md"
+    values:
+      description: "List price per million tokens for every model ranked in an agent category of the Design Arena — input, output, cached input, context window and rank, as JSON and CSV, re-read daily from a public catalog."
+  - scope:
       path: "topics/indie-development.md"
     values:
       description: "The 12 write-ups in these AI coding field notes tagged Indie Development — each with the figures it cited and the sentence every figure came from."

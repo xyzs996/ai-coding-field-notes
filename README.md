@@ -20,6 +20,26 @@ with AI assistance.
 The data is CC BY: a star changes nothing about what you can do with
 it, and this project gives nothing in return for one.
 
+## What the agent models cost (60 models)
+
+List price per million tokens for every model ranked in an *agents*
+category of the Design Arena, with the rank and the category it is
+in. Re-read daily from OpenRouter's catalog; last read
+**2026-08-22**. The three cheapest:
+
+| $ in | $ out | Model | Best agents rank |
+| --- | --- | --- | --- |
+| $0.1875 | $0.9375 | Gemini 3.7 Flash `batch` | #3 androidnative |
+| $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
+| $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
+
+[All 60 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.csv)
+
+**List price, not your bill** — cache hits, batch tiers and providers
+price differently, and `batch` rows are kept separate rather than
+folded in. The prices are the catalog's and the ranks are the
+arena's; neither is ours, and both move.
+
 ## The figures, as data (335 rows)
 
 Every figure published across the 32 write-ups —
