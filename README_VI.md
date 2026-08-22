@@ -18,6 +18,8 @@ Một bộ dữ liệu mở. Mọi con số xuất hiện trong 33 ghi chép th�
 
 [Toàn bộ 60 mô hình](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
+**Cùng một con số, hai câu trả lời trái ngược.** Google và xAI đều chuyển sang mức giá cao ở 200,000 token đầu vào, nhưng một prompt đúng bằng 200,000 lại được tính giá rẻ ở Google và giá đắt ở xAI. Các bảng giá khác chỉ in con số rồi dừng ở đó. Bên nào tính theo cách nào, trích nguyên văn từ trang của chính nhà cung cấp kèm ngày kiểm tra: [same number, opposite answer](prices.md#same-number-opposite-answer) (tiếng Anh).
+
 **Bảng trên là giá niêm yết. Không hóa đơn nào khớp với nó.** Thứ làm con số dịch chuyển là cache hit, lần thử lại, và phần ngữ cảnh bạn trả tiền để gửi đi hai lần — không catalog nào cho thấy những thứ đó. Có một bài đi tìm đúng khoảng chênh ấy: [tiền token thực sự chảy đi đâu](https://github.com/xyzs996/llm-api-pricing/discussions/37). Bài kết lại bằng câu hỏi duy nhất mà bảng này không trả lời được — **tháng trước bạn trả bao nhiêu, và bao nhiêu trong đó là ngữ cảnh bạn tiếc khi phải gửi lại?** Trang đó có ô trả lời; trang này thì không.
 
 ## Xem số trước

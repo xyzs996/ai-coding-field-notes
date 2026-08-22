@@ -18,6 +18,8 @@ Design Arena の *agents* 部門で順位のついた 60 モデルの、100 万�
 
 [60 モデル全部](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
+**同じ数字、逆の答え。** Google と xAI はどちらも入力 200,000 トークンで高い方の料金に切り替わります。ただし**ちょうど** 200,000 のとき、Google は安い方、xAI は高い方で課金されます。ほかの価格表は境界の数字を載せてそこで終わりです。どちらに入るかを、各社の公式ページの原文と確認日つきで: [same number, opposite answer](prices.md#same-number-opposite-answer)(英語)。
+
 **上の表は定価であって、これと一致する請求書は一つもありません。**数字を動かすのはキャッシュヒット、リトライ、そして二度払って送り直すコンテキストで、そのどれもカタログには写りません。その差を追いかけた記事があります:[トークン代は実際どこへ消えるのか](https://github.com/xyzs996/llm-api-pricing/discussions/37)。最後に、この表では答えられない問いが一つ残ります — **先月あなたはいくら払い、そのうち送り直しに費やしたコンテキストはどれだけでしたか?** 返信欄はあちらのページにあります。ここにはありません。
 
 ## まず数字から

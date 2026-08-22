@@ -18,6 +18,8 @@ Un conjunto de datos abierto. Cada cifra publicada en 33 notas de campo — prec
 
 [Los 60 modelos](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
+**Un número, dos respuestas.** Google y xAI pasan a la tarifa alta a los 200,000 tokens de entrada, pero un prompt de exactamente 200,000 se cobra a la tarifa barata en Google y a la cara en xAI. Las demás tablas imprimen el número y ahí lo dejan. Qué lado aplica cada proveedor, citado de su propia página y con la fecha de consulta: [same number, opposite answer](prices.md#same-number-opposite-answer) (en inglés).
+
 **La tabla de arriba es precio de lista. Ninguna factura coincide con ella.** Lo que mueve la cifra son los aciertos de caché, los reintentos y el contexto que pagas por enviar dos veces — nada de eso lo puede mostrar un catálogo. Un artículo fue a buscar esa diferencia: [adónde va de verdad la factura de tokens](https://github.com/xyzs996/llm-api-pricing/discussions/37). Termina con la única pregunta que la tabla no puede responder: **¿cuánto pagaste el mes pasado y qué parte era contexto que te dolió reenviar?** Esa página tiene caja de respuesta; esta no.
 
 ## Las cifras primero

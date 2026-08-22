@@ -18,6 +18,8 @@ Design Arena의 *agents* 부문에 순위가 있는 60개 모델의 100만 토�
 
 [60개 전체](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
+**같은 숫자, 반대의 답.** Google 와 xAI 모두 입력 200,000 토큰에서 비싼 요금으로 넘어갑니다. 그런데 **정확히** 200,000 인 요청은 Google 에서는 싼 쪽, xAI 에서는 비싼 쪽으로 청구됩니다. 다른 가격표는 경계 숫자만 적고 끝납니다. 어느 쪽인지를 각 업체 공식 페이지의 원문과 확인 날짜와 함께: [same number, opposite answer](prices.md#same-number-opposite-answer) (영문).
+
 **위 표는 정가일 뿐, 이와 일치하는 청구서는 없습니다.** 숫자를 움직이는 것은 캐시 적중, 재시도, 그리고 두 번 값을 치르고 다시 보내는 컨텍스트인데 카탈로그는 그 어느 것도 보여주지 못합니다. 그 간극을 따라간 글이 하나 있습니다: [토큰 요금은 실제로 어디로 가는가](https://github.com/xyzs996/llm-api-pricing/discussions/37). 이 표가 답할 수 없는 질문 하나로 끝납니다 — **지난달에 얼마를 냈고, 그중 다시 보내기 아까웠던 컨텍스트는 얼마였습니까?** 답장 상자는 그 페이지에 있습니다. 이 페이지에는 없습니다.
 
 ## 수치 먼저

@@ -18,6 +18,8 @@
 
 [全部 60 个](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
+**同一个数,相反的答案。** Google 和 xAI 都在 200,000 个输入 token 上跳贵价档 —— 而**正好** 200,000 这一发,Google 按便宜的收,xAI 按贵的收。别处的价目表印一个门槛数就没了下文。哪家算在哪一边、引的是厂商自己那页上的原话、附核对日期:[same number, opposite answer](prices.md#same-number-opposite-answer)(英文)。
+
 **上面那张是挂牌价,没有一张账单跟它对得上。** 差额在缓存命中、重试、和你要付两遍钱重发的上下文里 —— 这些目录表一样都看不见。有一篇专门去追这段差额:[钱到底花在哪儿了](https://github.com/xyzs996/llm-api-pricing/discussions/37)。它结尾问的正是这张表答不上来的那个问题:**上个月你付了多少,其中有多少是你不情愿重发一遍的上下文?** 那一页有回复框,这一页没有。
 
 ## 先看数
