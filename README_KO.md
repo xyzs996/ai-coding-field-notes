@@ -18,6 +18,8 @@ Design Arena의 *agents* 부문에 순위가 있는 60개 모델의 100만 토�
 
 [60개 전체](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
+**위 표는 정가일 뿐, 이와 일치하는 청구서는 없습니다.** 숫자를 움직이는 것은 캐시 적중, 재시도, 그리고 두 번 값을 치르고 다시 보내는 컨텍스트인데 카탈로그는 그 어느 것도 보여주지 못합니다. 그 간극을 따라간 글이 하나 있습니다: [토큰 요금은 실제로 어디로 가는가](https://github.com/xyzs996/llm-api-pricing/discussions/37). 이 표가 답할 수 없는 질문 하나로 끝납니다 — **지난달에 얼마를 냈고, 그중 다시 보내기 아까웠던 컨텍스트는 얼마였습니까?** 답장 상자는 그 페이지에 있습니다. 이 페이지에는 없습니다.
+
 ## 수치 먼저
 
 아래 줄들은 **영어 원문 그대로**이며 번역하지 않았습니다. 수치는 원래 문장에서 떼어내면 검증할 수 없기 때문입니다 —— `$1.43`이 100만 토큰당인지, 월 요금인지, 좌석당인지는 그 문장에만 적혀 있습니다.

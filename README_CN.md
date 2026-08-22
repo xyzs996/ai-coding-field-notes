@@ -18,6 +18,8 @@
 
 [全部 60 个](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
+**上面那张是挂牌价,没有一张账单跟它对得上。** 差额在缓存命中、重试、和你要付两遍钱重发的上下文里 —— 这些目录表一样都看不见。有一篇专门去追这段差额:[钱到底花在哪儿了](https://github.com/xyzs996/llm-api-pricing/discussions/37)。它结尾问的正是这张表答不上来的那个问题:**上个月你付了多少,其中有多少是你不情愿重发一遍的上下文?** 那一页有回复框,这一页没有。
+
 ## 先看数
 
 下面几行是**英文原文照抄**,没有翻译:一个数离开它原来那句话就没法核对 —— `$1.43` 可能是每百万 token、每月、也可能是每个席位。
