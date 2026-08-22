@@ -1,30 +1,16 @@
-# What AI coding agents cost, where they break, and what shipped
+# LLM API pricing for coding agents, re-read daily
 
 **English** · [中文](./README_CN.md) · [Español](./README_ES.md) · [日本語](./README_JA.md) · [한국어](./README_KO.md) · [Tiếng Việt](./README_VI.md) · [Français](./README_FR.md) · [Deutsch](./README_DE.md) · [Русский](./README_RU.md) · [Bahasa Indonesia](./README_ID.md)
 
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
-32 write-ups on running AI coding agents in production — token bills,
-tool switching costs, where the agents actually break, and what the
-numbers looked like afterwards.
-
-**Read these on the web:** [AI Coding Field Notes](https://xyzs996.github.io/llm-api-pricing/) — the same write-ups with the figures table, the topic pages and the
-links between them.
-
-**On the figures.** Every number here traces back to a named source or
-a run we did. Numbers we could not trace were cut before publishing,
-not rounded or guessed. Each piece says up front that it was drafted
-with AI assistance.
-
-**Star this repository** to bookmark the table and follow releases.
-The data is CC BY: a star changes nothing about what you can do with
-it, and this project gives nothing in return for one.
+Two things: a price table re-read from OpenRouter's catalog every day, and
+32 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (60 models)
 
-List price per million tokens for every model ranked in an *agents*
-category of the Design Arena, with the rank and the category it is
-in. Re-read daily from OpenRouter's catalog; last read
+List price per million tokens, with the *agents* rank the Design
+Arena gave it and the category it ranked in. Last read
 **2026-08-22**. The three cheapest:
 
 | $ in | $ out | Model | Best agents rank |
@@ -39,6 +25,18 @@ in. Re-read daily from OpenRouter's catalog; last read
 price differently, and `batch` rows are kept separate rather than
 folded in. The prices are the catalog's and the ranks are the
 arena's; neither is ours, and both move.
+
+**Star this repository** to bookmark the table and follow releases.
+The data is CC BY: a star changes nothing about what you can do with
+it, and this project gives nothing in return for one.
+
+**Read these on the web:** [AI Coding Field Notes](https://xyzs996.github.io/llm-api-pricing/) — the same write-ups with the figures table, the topic pages and the
+links between them.
+
+**On the figures.** Every number here traces back to a named source or
+a run we did. Numbers we could not trace were cut before publishing,
+not rounded or guessed. Each piece says up front that it was drafted
+with AI assistance.
 
 ## The figures, as data (335 rows)
 

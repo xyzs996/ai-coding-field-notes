@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: AI Coding Field Notes
 description: >-
-  An open token pricing dataset of AI Model Costs and revenue per month: an OpenRouter price list for every model ranked in an agent category, cost per million tokens, plus 300+ figures (prices, percentages, multiples, token counts and durations) as JSON and CSV. Each figure is one row with the sentence it came from, and the field notes behind it.
+  Daily LLM API pricing comparison: the OpenRouter catalog as JSON and CSV.
 author: xyzs996
 show_downloads: false
 
