@@ -18,7 +18,7 @@ defaults:
   - scope:
       path: "prices.md"
     values:
-      description: "List price per million tokens for every model ranked in an agent category of the Design Arena — input, output, cached input, context window and rank, as JSON and CSV, re-read daily from a public catalog."
+      description: "Every model ranked in an agent category of the Design Arena, priced twice: the list price, and what a coding agent actually pays once 95.6% of its tokens are cache reads — a median 6.5x less. JSON and CSV, re-read daily."
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/prices.png"
   - scope:
       path: "topics/indie-development.md"
@@ -57,6 +57,10 @@ defaults:
     values:
       description: "The 5 write-ups in these AI coding field notes tagged Productivity — each with the figures it cited and the sentence every figure came from."
   - scope:
+      path: "topics/artificial-intelligence.md"
+    values:
+      description: "The 4 write-ups in these AI coding field notes tagged Artificial Intelligence — each with the figures it cited and the sentence every figure came from."
+  - scope:
       path: "topics/development-tools.md"
     values:
       description: "The 4 write-ups in these AI coding field notes tagged Development Tools — each with the figures it cited and the sentence every figure came from."
@@ -68,10 +72,6 @@ defaults:
       path: "topics/ai-tools.md"
     values:
       description: "The 3 write-ups in these AI coding field notes tagged AI Tools — each with the figures it cited and the sentence every figure came from."
-  - scope:
-      path: "topics/artificial-intelligence.md"
-    values:
-      description: "The 3 write-ups in these AI coding field notes tagged Artificial Intelligence — each with the figures it cited and the sentence every figure came from."
   - scope:
       path: "topics/chinese-ai.md"
     values:
@@ -276,6 +276,14 @@ defaults:
       image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.png"
       description: "If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic."
       date: "2026-08-19T11:56:00Z"
+      seo:
+        type: BlogPosting
+  - scope:
+      path: "articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md"
+    values:
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/a/stop-doing-manual-devops-how-i-use-loop-and-hook-to.png"
+      description: "As a solo developer shipping products alone, manual DevOps and repetitive data processing tasks are the silent killers of your side-project momentum, but configuring raw AI agents often creates mor…"
+      date: "2026-08-22T11:53:00Z"
       seo:
         type: BlogPosting
   - scope:

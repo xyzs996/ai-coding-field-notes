@@ -4,8 +4,16 @@
   <id>https://xyzs996.github.io/llm-api-pricing/</id>
   <link href="https://xyzs996.github.io/llm-api-pricing/"/>
   <link rel="self" href="https://xyzs996.github.io/llm-api-pricing/feed.xml"/>
-  <updated>2026-08-21T11:57:00Z</updated>
+  <updated>2026-08-22T11:53:00Z</updated>
   <author><name>xyzs996</name></author>
+  <entry>
+    <title>Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks</title>
+    <link href="https://xyzs996.github.io/llm-api-pricing/articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.html"/>
+    <id>https://xyzs996.github.io/llm-api-pricing/articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.html</id>
+    <updated>2026-08-22T11:53:00Z</updated>
+    <published>2026-08-22T11:53:00Z</published>
+    <summary>As a solo developer shipping products alone, manual DevOps and repetitive data processing tasks are the silent killers of your side-project momentum, but configuring raw AI agents often creates mor…</summary>
+  </entry>
   <entry>
     <title>Best Practices for AI Agent Skill Management</title>
     <link href="https://xyzs996.github.io/llm-api-pricing/articles/best-practices-for-ai-agent-skill-management.html"/>

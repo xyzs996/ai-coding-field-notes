@@ -83,13 +83,13 @@ And read the output like a filter, not a verdict. At 43.1%, that is what it is.
 
 **Read next**
 
+- [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
 - [Debunking the Myth of Overnight Success in Micro-SaaS](debunking-the-myth-of-overnight-success-in-micro-saas.md)
 - [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
-- [Token Optimization for Indie Developers' AI API Bills](token-optimization-for-indie-developers-ai-api-bills.md)
 
-[All 32 write-ups](../README.md)
+[All 33 write-ups](../README.md)
 
-The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 320 more, as JSON and CSV.
+The 15 figures in this piece — each with the sentence it came from — are in [the figures table](../figures.md), alongside 322 more, as JSON and CSV.
 
 Topics: [Artificial Intelligence](../topics/artificial-intelligence.md)
 

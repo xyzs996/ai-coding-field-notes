@@ -1,6 +1,6 @@
 # Productivity
 
-5 of the 32 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+5 of the 33 write-ups here are tagged Productivity. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -13,7 +13,7 @@
 - **5 minutes** — WorkBuddy + BrowserAct combination delivers competitor price lists in 5 minutes and product opportunity reports in 7 minutes. [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 - **40 seconds** — By using an AI agent to automate responses, negotiation, and price adjustment, the average response time can be reduced to within 40 seconds. [→](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
-[All figures, 335 rows](../figures.md)
+[All figures, 337 rows](../figures.md)
 
 ## The write-ups
 
@@ -49,7 +49,7 @@ The videos run about 60 seconds.
 
 ---
 
-[All 32 write-ups](../README.md)
+[All 33 write-ups](../README.md)
 
 ---
 

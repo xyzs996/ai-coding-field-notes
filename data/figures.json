@@ -2299,6 +2299,28 @@
     "thread": "https://github.com/xyzs996/llm-api-pricing/discussions/29"
   },
   {
+    "value": "1000 tokens",
+    "kind": "tokens",
+    "unit": "",
+    "context": "Its initial system prompt and tool description total under 1000 tokens.",
+    "article": "Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks",
+    "published": "2026-08-22",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
+    "value": "1000-token",
+    "kind": "tokens",
+    "unit": "",
+    "context": "Still, I'd say the Pi base framework's 1000-token limit seems overstated.",
+    "article": "Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks",
+    "published": "2026-08-22",
+    "url": "https://xyzs996.github.io/llm-api-pricing/articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.html",
+    "medium": "",
+    "thread": ""
+  },
+  {
     "value": "$30",
     "kind": "price",
     "unit": "per day",

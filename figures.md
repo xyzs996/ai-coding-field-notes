@@ -1,6 +1,6 @@
 # Every figure we published, with the sentence it came from
 
-335 figures pulled out of 32 write-ups in
+337 figures pulled out of 33 write-ups in
 [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) — prices, percentages, multiples, token counts and durations, each
 with the full sentence it appeared in and a link to the piece.
 
@@ -403,6 +403,15 @@ Published 2026-08-19.
 | `40-second` | duration | When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. |
 | `40-second` | duration | The 40-second number I cannot check. |
 
+## [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](https://xyzs996.github.io/llm-api-pricing/articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.html)
+
+Published 2026-08-22.
+
+| Figure | Kind | In context |
+| --- | --- | --- |
+| `1000 tokens` | tokens | Its initial system prompt and tool description total under 1000 tokens. |
+| `1000-token` | tokens | Still, I'd say the Pi base framework's 1000-token limit seems overstated. |
+
 ## [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](https://xyzs996.github.io/llm-api-pricing/articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.html)
 
 Published 2026-08-20.
@@ -614,5 +623,5 @@ Published 2026-08-11.
 | `60-second` | duration | A tool whose value only appears after a week of use has no 60-second version, and no amount of editing skill invents one. |
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "335 figures pulled out of 32 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-21", "dateModified": "2026-08-21"}
+{"@context": "https://schema.org", "@type": "Dataset", "name": "Every figure published in AI Coding Field Notes", "description": "337 figures pulled out of 33 write-ups on running AI coding agents in production (prices, percentages, multiples, token counts and durations). Each row carries the full sentence the figure appeared in, quoted verbatim from the published piece, plus a link to that piece. Prices also carry the unit they were quoted in (per million tokens, per month, per run) wherever the sentence states one.", "url": "https://xyzs996.github.io/llm-api-pricing/figures.html", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "xyzs996", "url": "https://github.com/xyzs996"}, "keywords": ["AI coding agents", "LLM pricing", "developer tools", "token costs", "AI coding assistants"], "variableMeasured": ["prices", "percentages", "multiples", "token counts", "durations"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv"}], "isBasedOn": "https://github.com/xyzs996/llm-api-pricing", "temporalCoverage": "2026-08-05/2026-08-22", "dateModified": "2026-08-22"}
 </script>

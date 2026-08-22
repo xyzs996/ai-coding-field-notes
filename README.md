@@ -5,26 +5,24 @@
 [![figures](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Ffigures.json)](https://github.com/xyzs996/llm-api-pricing/blob/main/figures.md) [![writeups](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fwriteups.json)](https://xyzs996.github.io/llm-api-pricing/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxyzs996%2Fllm-api-pricing%40main%2Fdata%2Fbadges%2Fupdated.json)](https://github.com/xyzs996/llm-api-pricing/releases) [![license](https://img.shields.io/badge/data-CC%20BY%204.0-blue)](https://github.com/xyzs996/llm-api-pricing/blob/main/LICENSE)
 
 Two things: a price table re-read from OpenRouter's catalog every day, and
-32 write-ups on what those bills looked like in production.
+33 write-ups on what those bills looked like in production.
 
 ## What the agent models cost (60 models)
 
-List price per million tokens, with the *agents* rank the Design
-Arena gave it and the category it ranked in. Last read
-**2026-08-22**. The three cheapest:
+A coding agent re-reads its context every step, so **95.6% of the
+tokens it sends are cache reads**. Repriced at that mix, the list
+input price every other table sorts by overstates the bill by a
+median **6.5×** (3.4×–7.9×). Read **2026-08-22**; the three cheapest *to run*:
 
-| $ in | $ out | Model | Best agents rank |
-| --- | --- | --- | --- |
-| $0.1875 | $0.9375 | Gemini 3.7 Flash `batch` | #3 androidnative |
-| $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
-| $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
+| $ / 1M at agent mix | $ in | $ out | Model | Best agents rank |
+| --- | --- | --- | --- | --- |
+| **$0.0283** | $0.1875 | $0.9375 | Gemini 3.7 Flash `batch` | #3 androidnative |
+| **$0.0566** | $0.375 | $1.875 | Gemini 3.6 Flash `batch` | #6 agenticgamedev |
+| **$0.0566** | $0.375 | $1.875 | Gemini 3.7 Flash | #3 androidnative |
 
 [All 60 models](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/prices.csv)
 
-**List price, not your bill** — cache hits, batch tiers and providers
-price differently, and `batch` rows are kept separate rather than
-folded in. The prices are the catalog's and the ranks are the
-arena's; neither is ours, and both move.
+That 95.6% is **one person's measurement of one coding agent** ([8.04B tokens, 2026-05-16](https://gist.github.com/hungson175/91147b729afdf9fd691342359265731b)), not an industry figure — it is simply the only public measurement we could find. 58 of these rows publish a cached-input price, so the weights ship in the JSON: recompute with your own mix. Cache-*write* prices are not in the catalog, so that 2.7% of tokens is folded into the cache-miss share, which understates cost by roughly 0.7%.
 
 **The table above is a list price. No bill matches it.** What moves
 the number is cache hits, retries, and context you pay to send twice —
@@ -50,9 +48,9 @@ a run we did. Numbers we could not trace were cut before publishing,
 not rounded or guessed. Each piece says up front that it was drafted
 with AI assistance.
 
-## The figures, as data (335 rows)
+## The figures, as data (337 rows)
 
-Every figure published across the 32 write-ups —
+Every figure published across the 33 write-ups —
 prices, percentages, multiples, token counts and durations — pulled into one table. Each row carries
 the **full sentence it came from** and a link to the piece, so
 you can check it without reading all of them.
@@ -62,6 +60,7 @@ recent write-ups — quoted verbatim, not summarised:
 
 | Figure | The sentence it came from | Write-up |
 | --- | --- | --- |
+| `1000-token` | Still, I'd say the Pi base framework's 1000-token limit seems overstated. | [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md) |
 | `$1.43` | The $1.43 and the $9.05 are both frontier models doing a job they were not specifically built for. | [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md) |
 | `$29` | Before writing a contract-comparison tool, one builder handled three to ten comparisons by hand at $29 a document, and only turned the routine into software once the same people kept coming back and paying for it. | [Debunking the Myth of Overnight Success in Micro-SaaS](articles/debunking-the-myth-of-overnight-success-in-micro-saas.md) |
 | `90%` | 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly. | [Best Practices for AI Agent Skill Management](articles/best-practices-for-ai-agent-skill-management.md) |
@@ -73,9 +72,8 @@ recent write-ups — quoted verbatim, not summarised:
 | `$1.25` | Meta priced Muse Spark 1.1 at $1.25 per million input and $4.25 per million output, roughly 75% and 83% below Anthropic's Opus, and the tradeoff is visible in the benchmarks, since it leads on MCP Atlas and JobBench while trailing on SWE-Bench Pro and DeepSWE 1.1. | [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md) |
 | `9x` | Open Code Review reports roughly 9x lower token consumption than general-purpose agents while holding accuracy, which suggests that a specialized agent aimed at one job often beats a heavy generalist on the only axis an indie developer can afford to optimize. | [Token Optimization for Indie Developers' AI API Bills](articles/token-optimization-for-indie-developers-ai-api-bills.md) |
 | `87 percent` | The 87 percent figure and those two cases are measuring the same thing from different angles, which is time spent moving data by hand between a system that knows the answer and a system that needs it. | [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md) |
-| `40 seconds` | By using an AI agent to automate responses, negotiation, and price adjustment, the average response time can be reduced to within 40 seconds. | [From AI Demo to Product: Loop Engineering for Indie Devs](articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md) |
 
-[All 335 rows](figures.md) — or as data:
+[All 337 rows](figures.md) — or as data:
 
 ```
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.json
@@ -138,7 +136,7 @@ write-ups land there first.
 
 **By provider.** [GPT-5.6](providers/gpt-5-6.md) (18) · [Klarna](providers/klarna.md) (9) · [BrowserAct](providers/browseract.md) (7) · [Claude](providers/claude.md) (7) · [WorkBuddy](providers/workbuddy.md) (7) · [Fable 5](providers/fable-5.md) (6) · [ChatGPT](providers/chatgpt.md) (4) — every figure whose sentence names it, with the date.
 
-**By topic.** [Indie Development](topics/indie-development.md) (12) · [Automation Systems](topics/automation-systems.md) (10) · [SaaS Business](topics/saas-business.md) (7) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [Niche Market](topics/niche-market.md) (6) · [AI Programming](topics/ai-programming.md) (5) · [Cost Savings](topics/cost-savings.md) (5) · [Productivity](topics/productivity.md) (5) · [Development Tools](topics/development-tools.md) (4) · [AI Features](topics/ai-features.md) (3) · [AI Tools](topics/ai-tools.md) (3) · [Artificial Intelligence](topics/artificial-intelligence.md) (3) · [Chinese AI](topics/chinese-ai.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
+**By topic.** [Indie Development](topics/indie-development.md) (12) · [Automation Systems](topics/automation-systems.md) (10) · [SaaS Business](topics/saas-business.md) (7) · [AI Costs](topics/ai-costs.md) (6) · [AI Implementation](topics/ai-implementation.md) (6) · [Niche Market](topics/niche-market.md) (6) · [AI Programming](topics/ai-programming.md) (5) · [Cost Savings](topics/cost-savings.md) (5) · [Productivity](topics/productivity.md) (5) · [Artificial Intelligence](topics/artificial-intelligence.md) (4) · [Development Tools](topics/development-tools.md) (4) · [AI Features](topics/ai-features.md) (3) · [AI Tools](topics/ai-tools.md) (3) · [Chinese AI](topics/chinese-ai.md) (3) · [Code Review](topics/code-review.md) (3) · [Micro SaaS](topics/micro-saas.md) (3) · [Token Optimization](topics/token-optimization.md) (3)
 
 ## The write-ups
 
@@ -261,6 +259,12 @@ MonkeyCode's free tier includes 900 million tokens, deploys to your own network 
 If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic.
 
 `Productivity` `Recurring Revenue` `AI Features` `Niche Market` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/29)
+
+### [Stop Doing Manual DevOps: How I Use /loop and /hook to Automate My Daily Indie Hacker Tasks](articles/stop-doing-manual-devops-how-i-use-loop-and-hook-to.md)
+
+As a solo developer shipping products alone, manual DevOps and repetitive data processing tasks are the silent killers of your side-project momentum, but configuring raw AI agents often creates mor…
+
+`Indie Hacking` `Artificial Intelligence` `Software Development` `Automation`
 
 ### [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 

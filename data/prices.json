@@ -2,6 +2,15 @@
   "source": "https://openrouter.ai/api/v1/models",
   "source_name": "OpenRouter",
   "checked": "2026-08-22",
+  "agent_token_mix": {
+    "cache_read": 0.9564,
+    "cache_miss": 0.0407,
+    "output": 0.0029,
+    "measured": "2026-05-16",
+    "measured_tokens": "8.04B",
+    "source": "https://gist.github.com/hungson175/91147b729afdf9fd691342359265731b",
+    "note": "One person's measurement of one coding agent. Recompute with your own mix; the inputs are all here."
+  },
   "rows": [
     {
       "model": "Gemini 3.7 Flash",
@@ -16,7 +25,8 @@
       "catalog_url": "https://openrouter.ai/google/gemini-3.7-flash:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.028282
     },
     {
       "model": "Gemini 3 Flash Preview",
@@ -31,7 +41,8 @@
       "catalog_url": "https://openrouter.ai/google/gemini-3-flash-preview:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": ""
     },
     {
       "model": "MiniMax M3",
@@ -46,7 +57,8 @@
       "catalog_url": "https://openrouter.ai/minimax/minimax-m3",
       "batch": false,
       "article": "1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy",
-      "article_url": "https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html"
+      "article_url": "https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html",
+      "effective_per_million": 0.073074
     },
     {
       "model": "MiniMax M3",
@@ -61,7 +73,8 @@
       "catalog_url": "https://openrouter.ai/minimax/minimax-m3:batch",
       "batch": true,
       "article": "1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy",
-      "article_url": "https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html"
+      "article_url": "https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html",
+      "effective_per_million": 0.073074
     },
     {
       "model": "Gemini 3.6 Flash",
@@ -76,7 +89,8 @@
       "catalog_url": "https://openrouter.ai/google/gemini-3.6-flash:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.056565
     },
     {
       "model": "Gemini 3.7 Flash",
@@ -91,7 +105,8 @@
       "catalog_url": "https://openrouter.ai/google/gemini-3.7-flash",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.056565
     },
     {
       "model": "GLM 4.7",
@@ -106,7 +121,8 @@
       "catalog_url": "https://openrouter.ai/z-ai/glm-4.7",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.097867
     },
     {
       "model": "Kimi K2.5",
@@ -121,7 +137,8 @@
       "catalog_url": "https://openrouter.ai/moonshotai/kimi-k2.5",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.091788
     },
     {
       "model": "GLM 4.6",
@@ -136,7 +153,8 @@
       "catalog_url": "https://openrouter.ai/z-ai/glm-4.6",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.12179
     },
     {
       "model": "Gemini 3 Flash Preview",
@@ -151,7 +169,8 @@
       "catalog_url": "https://openrouter.ai/google/gemini-3-flash-preview",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.07687
     },
     {
       "model": "DeepSeek V4 Pro 0423",
@@ -166,7 +185,8 @@
       "catalog_url": "https://openrouter.ai/deepseek/deepseek-v4-pro",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.06715
     },
     {
       "model": "Kimi K2.6",
@@ -181,7 +201,8 @@
       "catalog_url": "https://openrouter.ai/moonshotai/kimi-k2.6",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.119941
     },
     {
       "model": "GLM 5",
@@ -196,7 +217,8 @@
       "catalog_url": "https://openrouter.ai/z-ai/glm-5",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.144756
     },
     {
       "model": "Kimi K2.7 Code",
@@ -211,7 +233,8 @@
       "catalog_url": "https://openrouter.ai/moonshotai/kimi-k2.7-code",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.199717
     },
     {
       "model": "Gemini 3.6 Flash",
@@ -226,7 +249,8 @@
       "catalog_url": "https://openrouter.ai/google/gemini-3.6-flash",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.11313
     },
     {
       "model": "Gemini 3.5 Flash",
@@ -241,7 +265,8 @@
       "catalog_url": "https://openrouter.ai/google/gemini-3.5-flash:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.115305
     },
     {
       "model": "GPT-5.2",
@@ -256,7 +281,8 @@
       "catalog_url": "https://openrouter.ai/openai/gpt-5.2:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.139597
     },
     {
       "model": "Kimi K2.7 Code",
@@ -271,7 +297,8 @@
       "catalog_url": "https://openrouter.ai/moonshotai/kimi-k2.7-code:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.231981
     },
     {
       "model": "GLM 5.1",
@@ -286,7 +313,8 @@
       "catalog_url": "https://openrouter.ai/z-ai/glm-5.1",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.219699
     },
     {
       "model": "GLM 5.2",
@@ -301,7 +329,8 @@
       "catalog_url": "https://openrouter.ai/z-ai/glm-5.2",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.232897
     },
     {
       "model": "Claude Sonnet 5",
@@ -316,7 +345,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-sonnet-5:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.15084
     },
     {
       "model": "Gemini 3.1 Pro Preview",
@@ -331,7 +361,8 @@
       "catalog_url": "https://openrouter.ai/google/gemini-3.1-pro-preview:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": ""
     },
     {
       "model": "GLM 5V Turbo",
@@ -346,7 +377,8 @@
       "catalog_url": "https://openrouter.ai/z-ai/glm-5v-turbo",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.289976
     },
     {
       "model": "Grok 4.20",
@@ -361,7 +393,8 @@
       "catalog_url": "https://openrouter.ai/x-ai/grok-4.20",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.249405
     },
     {
       "model": "Grok 4.3",
@@ -376,7 +409,8 @@
       "catalog_url": "https://openrouter.ai/x-ai/grok-4.3",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.249405
     },
     {
       "model": "Muse Spark 1.1",
@@ -391,7 +425,8 @@
       "catalog_url": "https://openrouter.ai/meta/muse-spark-1.1",
       "batch": false,
       "article": "1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy",
-      "article_url": "https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html"
+      "article_url": "https://xyzs996.github.io/llm-api-pricing/articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.html",
+      "effective_per_million": 0.20666
     },
     {
       "model": "Muse Spark 1.2",
@@ -406,7 +441,8 @@
       "catalog_url": "https://openrouter.ai/meta/muse-spark-1.2",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.20666
     },
     {
       "model": "GPT-5.4",
@@ -421,7 +457,8 @@
       "catalog_url": "https://openrouter.ai/openai/gpt-5.4:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.192175
     },
     {
       "model": "GPT-5.1-Codex",
@@ -436,7 +473,8 @@
       "catalog_url": "https://openrouter.ai/openai/gpt-5.1-codex",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.204207
     },
     {
       "model": "GLM 5.2",
@@ -451,7 +489,8 @@
       "catalog_url": "https://openrouter.ai/z-ai/glm-5.2:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.318404
     },
     {
       "model": "Qwen3.7 Max",
@@ -466,7 +505,8 @@
       "catalog_url": "https://openrouter.ai/qwen/qwen3.7-max",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.355003
     },
     {
       "model": "Claude Sonnet 4.5",
@@ -481,7 +521,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-sonnet-4.5:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.22626
     },
     {
       "model": "Claude Sonnet 4.6",
@@ -496,7 +537,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-sonnet-4.6:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.22626
     },
     {
       "model": "Gemini 3.5 Flash",
@@ -511,7 +553,8 @@
       "catalog_url": "https://openrouter.ai/google/gemini-3.5-flash",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.23061
     },
     {
       "model": "GPT-5.2",
@@ -526,7 +569,8 @@
       "catalog_url": "https://openrouter.ai/openai/gpt-5.2",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.279195
     },
     {
       "model": "GPT-5.2-Codex",
@@ -541,7 +585,8 @@
       "catalog_url": "https://openrouter.ai/openai/gpt-5.2-codex",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.279195
     },
     {
       "model": "GPT-5.3-Codex",
@@ -556,7 +601,8 @@
       "catalog_url": "https://openrouter.ai/openai/gpt-5.3-codex",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.279195
     },
     {
       "model": "Qwen3.8 Max",
@@ -571,7 +617,8 @@
       "catalog_url": "https://openrouter.ai/qwen/qwen3.8-max",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.3379
     },
     {
       "model": "Grok 4.5",
@@ -586,7 +633,8 @@
       "catalog_url": "https://openrouter.ai/x-ai/grok-4.5",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.38572
     },
     {
       "model": "Grok 4.6",
@@ -601,7 +649,8 @@
       "catalog_url": "https://openrouter.ai/x-ai/grok-4.6",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.577
     },
     {
       "model": "Claude Sonnet 5",
@@ -616,7 +665,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-sonnet-5",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.30168
     },
     {
       "model": "Gemini 3.1 Pro Preview",
@@ -631,7 +681,8 @@
       "catalog_url": "https://openrouter.ai/google/gemini-3.1-pro-preview",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.30748
     },
     {
       "model": "Claude Opus 4.5",
@@ -646,7 +697,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-opus-4.5:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.3771
     },
     {
       "model": "Claude Opus 4.6",
@@ -661,7 +713,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-opus-4.6:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.3771
     },
     {
       "model": "Claude Opus 4.7",
@@ -676,7 +729,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-opus-4.7:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.3771
     },
     {
       "model": "Claude Opus 4.8",
@@ -691,7 +745,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-opus-4.8:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.3771
     },
     {
       "model": "Claude Opus 5",
@@ -706,7 +761,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-opus-5:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.3771
     },
     {
       "model": "GPT-5.4",
@@ -721,7 +777,8 @@
       "catalog_url": "https://openrouter.ai/openai/gpt-5.4",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.38435
     },
     {
       "model": "GPT-5.5",
@@ -736,7 +793,8 @@
       "catalog_url": "https://openrouter.ai/openai/gpt-5.5:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.38435
     },
     {
       "model": "Claude Sonnet 4.5",
@@ -751,7 +809,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-sonnet-4.5",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.45252
     },
     {
       "model": "Claude Sonnet 4.6",
@@ -766,7 +825,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-sonnet-4.6",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.45252
     },
     {
       "model": "Kimi K3",
@@ -781,7 +841,8 @@
       "catalog_url": "https://openrouter.ai/moonshotai/kimi-k3",
       "batch": false,
       "article": "Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs",
-      "article_url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html"
+      "article_url": "https://xyzs996.github.io/llm-api-pricing/articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.html",
+      "effective_per_million": 0.45252
     },
     {
       "model": "Claude Fable 5",
@@ -796,7 +857,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-fable-5:batch",
       "batch": true,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.7542
     },
     {
       "model": "Claude Opus 4.5",
@@ -811,7 +873,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-opus-4.5",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.7542
     },
     {
       "model": "Claude Opus 4.6",
@@ -826,7 +889,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-opus-4.6",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.7542
     },
     {
       "model": "Claude Opus 4.7",
@@ -841,7 +905,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-opus-4.7",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.7542
     },
     {
       "model": "Claude Opus 4.8",
@@ -856,7 +921,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-opus-4.8",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.7542
     },
     {
       "model": "Claude Opus 5",
@@ -871,7 +937,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-opus-5",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.7542
     },
     {
       "model": "GPT-5.5",
@@ -886,7 +953,8 @@
       "catalog_url": "https://openrouter.ai/openai/gpt-5.5",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 0.7687
     },
     {
       "model": "Claude Fable 5",
@@ -901,7 +969,8 @@
       "catalog_url": "https://openrouter.ai/anthropic/claude-fable-5",
       "batch": false,
       "article": "",
-      "article_url": ""
+      "article_url": "",
+      "effective_per_million": 1.5084
     }
   ]
 }

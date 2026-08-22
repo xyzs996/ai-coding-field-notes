@@ -1,6 +1,6 @@
 # AI Features
 
-3 of the 32 write-ups here are tagged AI Features. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
+3 of the 33 write-ups here are tagged AI Features. Every figure quoted below is in the [figures table](../figures.md) with the sentence it came from.
 
 ## The figures
 
@@ -11,7 +11,7 @@
 - **40-second** — When an independent developer uses Agency Agents to set up a 40-second response cycle for e-commerce listings, they are building a feedback loop that reads market conditions and adjusts, which is what separates a timed automation from a script on a timer. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 - **40-second** — The 40-second number I cannot check. [→](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
-[All figures, 335 rows](../figures.md)
+[All figures, 337 rows](../figures.md)
 
 ## The write-ups
 
@@ -35,7 +35,7 @@ When the Claude Code team decided to slash 80% of their system prompts, most dev
 
 ---
 
-[All 32 write-ups](../README.md)
+[All 33 write-ups](../README.md)
 
 ---
 
