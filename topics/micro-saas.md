@@ -29,3 +29,11 @@ Of the 27 AI-powered micro-SaaS projects that generated predictable monthly reve
 ---
 
 [All 32 write-ups](../README.md)
+
+---
+
+**Did this answer it?** [A star](https://github.com/xyzs996/ai-coding-field-notes) on the repository is the whole ask — it is what puts these in front of the next person looking; the data is CC BY and does not require starring.
+
+**Want a figure that is not here yet?** [Say which metric, which provider, which unit](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml&came_from=topics%2Fmicro-saas.md) — one required field, and the page you came from is already filled in.
+
+**Got a better number?** [Open an issue](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=topics%2Fmicro-saas.md) — corrections and counter-data are the point.

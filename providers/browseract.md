@@ -28,6 +28,8 @@ Some of these are about BrowserAct and some only measure against it — a compet
 - [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 - [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 
+**Did this answer it?** [A star](https://github.com/xyzs996/ai-coding-field-notes) on the repository is the whole ask — the data is CC BY and does not require starring.
+
 **A BrowserAct figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml&came_from=BrowserAct). The form already knows it is about BrowserAct.
 
 **Or is one of the 7 above already out of date?** [Say which one](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=BrowserAct&title=%5Bcorrection%5D+BrowserAct) — the form already knows it is about BrowserAct; you only have to say what the number is now.

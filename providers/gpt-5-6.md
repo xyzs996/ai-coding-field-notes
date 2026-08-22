@@ -36,6 +36,8 @@ Some of these are about GPT-5.6 and some only measure against it — a competito
 - [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](../articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 - [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
+**Did this answer it?** [A star](https://github.com/xyzs996/ai-coding-field-notes) on the repository is the whole ask — the data is CC BY and does not require starring.
+
 **A GPT-5.6 figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml&came_from=GPT-5.6). The form already knows it is about GPT-5.6.
 
 **Or is one of the 18 above already out of date?** [Say which one](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=GPT-5.6&title=%5Bcorrection%5D+GPT-5.6) — the form already knows it is about GPT-5.6; you only have to say what the number is now.

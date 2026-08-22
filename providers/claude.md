@@ -25,6 +25,8 @@ Some of these are about Claude and some only measure against it — a competitor
 - [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
 - [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 
+**Did this answer it?** [A star](https://github.com/xyzs996/ai-coding-field-notes) on the repository is the whole ask — the data is CC BY and does not require starring.
+
 **A Claude figure that is not here yet?** Say which metric, which unit, and where you read it — [in one line](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=figure.yml&came_from=Claude). The form already knows it is about Claude.
 
 **Or is one of the 7 above already out of date?** [Say which one](https://github.com/xyzs996/ai-coding-field-notes/issues/new?template=correction.yml&where=Claude&title=%5Bcorrection%5D+Claude) — the form already knows it is about Claude; you only have to say what the number is now.
