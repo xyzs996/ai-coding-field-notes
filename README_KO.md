@@ -6,6 +6,18 @@
 
 공개 데이터셋입니다. 32편의 현장 기록에 나온 모든 수치 —— 가격, 비율, 배수, 토큰 수, 소요 시간 —— 를 한 줄씩 뽑아내고 **원래 문장 전체와 게시 날짜를 함께** 실었습니다.
 
+## 에이전트 모델의 오늘 가격
+
+Design Arena의 *agents* 부문에 순위가 있는 60개 모델의 100만 토큰당 **정가**입니다. 청구서가 아닙니다 — 캐시, 배치, 제공자마다 가격이 다릅니다. OpenRouter의 공개 카탈로그에서 2026-08-22에 마지막으로 읽었습니다. 가장 싼 3개:
+
+| $ in / 1M | $ out / 1M | Model | Best agents rank |
+| --- | --- | --- | --- |
+| $0.1875 | $0.9375 | Gemini 3.7 Flash `batch` | #3 androidnative |
+| $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
+| $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
+
+[60개 전체](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.csv)
+
 ## 수치 먼저
 
 아래 줄들은 **영어 원문 그대로**이며 번역하지 않았습니다. 수치는 원래 문장에서 떼어내면 검증할 수 없기 때문입니다 —— `$1.43`이 100만 토큰당인지, 월 요금인지, 좌석당인지는 그 문장에만 적혀 있습니다.

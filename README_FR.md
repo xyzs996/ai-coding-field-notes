@@ -6,6 +6,18 @@
 
 Un jeu de données ouvert. Chaque chiffre publié dans 32 notes de terrain — prix, pourcentages, multiples, nombres de tokens et durées — extrait en une ligne, **avec la phrase entière dont il provient et sa date de publication**.
 
+## Ce que coûtent aujourd'hui les modèles d'agent
+
+60 modèles classés dans une catégorie *agents* de la Design Arena, avec leur **prix affiché** par million de jetons — ce n'est pas votre facture : le cache, les lots et chaque fournisseur facturent différemment. Depuis le catalogue public de OpenRouter, relu le 2026-08-22. Les trois moins chers :
+
+| $ in / 1M | $ out / 1M | Model | Best agents rank |
+| --- | --- | --- | --- |
+| $0.1875 | $0.9375 | Gemini 3.7 Flash `batch` | #3 androidnative |
+| $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
+| $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
+
+[Les 60 modèles](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.csv)
+
 ## Les chiffres d'abord
 
 Les lignes ci-dessous sont **en anglais, recopiées telles quelles**, sans traduction : un chiffre séparé de sa phrase n'est pas vérifiable — `$1.43` peut être par million de tokens, par mois ou par utilisateur.

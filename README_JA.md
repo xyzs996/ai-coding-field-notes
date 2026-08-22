@@ -6,6 +6,18 @@
 
 オープンなデータセットです。32 本の実測ノートに出てきた数字 —— 料金、割合、倍率、トークン数、所要時間 —— をすべて 1 行ずつに抜き出し、**元の一文と公開日を必ず添えて**あります。
 
+## エージェント向けモデルの今日の値段
+
+Design Arena の *agents* 部門で順位のついた 60 モデルの、100 万トークンあたりの**定価**です。請求額ではありません — キャッシュ、バッチ、提供元ごとに価格は違います。OpenRouter の公開カタログより、最終取得日 2026-08-22。安い順に 3 つ:
+
+| $ in / 1M | $ out / 1M | Model | Best agents rank |
+| --- | --- | --- | --- |
+| $0.1875 | $0.9375 | Gemini 3.7 Flash `batch` | #3 androidnative |
+| $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
+| $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
+
+[60 モデル全部](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.csv)
+
 ## まず数字から
 
 以下の行は**英語の原文そのまま**で、翻訳していません。数字は元の一文から切り離すと検証できないからです —— `$1.43` が 100 万トークンあたりなのか、月額なのか、1 席あたりなのかは、その一文にしか書かれていません。

@@ -6,6 +6,18 @@
 
 这是一份公开数表。32 篇实测笔记里出现过的每一个数 —— 价格、百分比、倍数、token 数、耗时 —— 都抽成一行,**每行都附上它原来所在的那句话和发布日期**。
 
+## 跑 agent 的模型,今天多少钱
+
+60 个在 Design Arena 的 agents 各档里排过名的模型,每百万 token 的**挂牌价**——不是账单:缓存命中、batch、不同接入方各有各的价。取自 OpenRouter 的公开目录,最后核到 2026-08-22。最便宜的三个:
+
+| $ in / 1M | $ out / 1M | Model | Best agents rank |
+| --- | --- | --- | --- |
+| $0.1875 | $0.9375 | Gemini 3.7 Flash `batch` | #3 androidnative |
+| $0.25 | $1.50 | Gemini 3 Flash Preview `batch` | #9 agenticslides |
+| $0.30 | $1.20 | MiniMax M3 | #10 python-pptxslides |
+
+[全部 60 个](prices.md) · [JSON](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.json) · [CSV](https://cdn.jsdelivr.net/gh/xyzs996/ai-coding-field-notes@main/data/prices.csv)
+
 ## 先看数
 
 下面几行是**英文原文照抄**,没有翻译:一个数离开它原来那句话就没法核对 —— `$1.43` 可能是每百万 token、每月、也可能是每个席位。
