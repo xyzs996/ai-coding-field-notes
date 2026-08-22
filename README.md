@@ -29,10 +29,12 @@ arena's; neither is ours, and both move.
 **The table above is a list price. No bill matches it.** What moves
 the number is cache hits, retries, and context you pay to send twice —
 none of which a catalog can show. One write-up went after that gap:
-[where the token bill actually goes](https://github.com/xyzs996/llm-api-pricing/discussions/37). It ends on the one
-question the table cannot answer — **what did you pay last month,
-and how much of it was context you resented resending?** That page
-has a reply box; this one does not.
+[where the token bill actually goes](https://github.com/xyzs996/llm-api-pricing/discussions/37). It ends on one question
+the table cannot answer, and answering it takes one word:
+
+> **One thing this piece could not settle:** 1.6 billion free tokens a month is an advertised ceiling; a bill is a fact. Roughly what did you pay last month — tens, hundreds, or thousands? Reply with the bracket, no exact figure.
+
+That page has a reply box; this one does not.
 
 **Star this repository** to bookmark the table and follow releases.
 The data is CC BY: a star changes nothing about what you can do with
