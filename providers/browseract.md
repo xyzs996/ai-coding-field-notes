@@ -20,13 +20,13 @@ Some of these are about BrowserAct and some only measure against it — a compet
 
 ## Where these 7 came from
 
-- [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
-- [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
-- [Best Practices for AI Agent Skill Management](../articles/best-practices-for-ai-agent-skill-management.md)
-- [From AI Demo to Product: Loop Engineering for Indie Devs](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
-- [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md)
-- [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
-- [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
+- [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](../articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/14)
+- [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/17)
+- [Best Practices for AI Agent Skill Management](../articles/best-practices-for-ai-agent-skill-management.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18)
+- [From AI Demo to Product: Loop Engineering for Indie Devs](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/24)
+- [How Chinese AI Agent Tools Leverage 1.6 Billion Free Tokens](../articles/how-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10)
+- [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/30)
+- [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/41)
 
 **Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — the data is CC BY and does not require starring.
 

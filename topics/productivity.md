@@ -21,21 +21,31 @@
 
 Managing AI Agent skills is not merely about tools; it's about designing workflows to boost your productivity.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18)
+
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
 A six-hour Chrome extension pays $400 a month.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/23)
 
 ### [From AI Demo to Product: Loop Engineering for Indie Devs](../articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
 The agent processes 40-plus podcast channels overnight, transcribed and summarized, ready to read by morning.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/24)
+
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
 If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/29)
+
 ### [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](../articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 
 The videos run about 60 seconds.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/41)
 
 ---
 

@@ -22,8 +22,8 @@ Some of these are about what Klarna did and some come from pieces that only cite
 
 ## Where these 9 came from
 
-- [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
-- [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
+- [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/35)
+- [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md) · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/38)
 
 **Did this answer it?** [A star](https://github.com/xyzs996/llm-api-pricing) on the repository is the whole ask — the data is CC BY and does not require starring.
 

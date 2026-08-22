@@ -19,13 +19,19 @@
 
 Managing AI Agent skills is not merely about tools; it's about designing workflows to boost your productivity.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18)
+
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
 If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/29)
+
 ### [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](../articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 
 When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/40)
 
 ---
 

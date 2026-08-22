@@ -19,13 +19,19 @@
 
 A six-hour Chrome extension pays $400 a month.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/23)
+
 ### [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](../articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 
 Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading…
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/35)
+
 ### [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](../articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
 On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/36)
 
 ---
 

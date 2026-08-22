@@ -19,13 +19,19 @@
 
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10)
+
 ### [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](../articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
 A monthly report that used to take four hours now takes a few minutes.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/25)
+
 ### [Token Optimization for Indie Developers' AI API Bills](../articles/token-optimization-for-indie-developers-ai-api-bills.md)
 
 In July 2026, while indie developers building AI coding products full-time watched their API burn rate climb toward their revenue, a quieter shift in the Chinese developer stack showed a different…
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/37)
 
 ---
 

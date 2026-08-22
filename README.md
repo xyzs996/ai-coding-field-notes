@@ -70,7 +70,7 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.js
 curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.csv
 ```
 
-Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url`, `medium`. `published` is the day that
+Fields: `value`, `kind` (`price` / `percent` / `multiple` / `tokens` / `duration`), `unit`, `context`, `article`, `published`, `url` (the copy on this site — no reply box), `medium` (published there first, empty if it never was), `thread` (same piece as a GitHub discussion, with a reply box). `published` is the day that
 write-up went out, not the day the figure was in force —
 prices move, so read each row as of its own date.
 Browse it as a table:
@@ -134,193 +134,193 @@ write-ups land there first.
 
 Chinese AI agent tools offer a game-changing strategy for independent developers to access a massive pool of 1.6 billion free tokens monthly.
 
-`Token Optimization` `Cost Savings` `Chinese AI` `Automation Systems`
+`Token Optimization` `Cost Savings` `Chinese AI` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/10)
 
 ### [The Cost-Effective Guide to Using Open Code Review for AI Programming Tools](articles/the-cost-effective-guide-to-using-open-code-review-for-ai.md)
 
 Open Code Review is an open-source review tool built for AI-assisted development, and in benchmark tests spanning 200 real pull requests across 50 open-source repositories it scored higher on both…
 
-`Code Review` `Cost Savings` `SaaS Business` `Automation Systems`
+`Code Review` `Cost Savings` `SaaS Business` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/11)
 
 ### [1.6 Billion Free Tokens Is a Compression Ratio, Not a Strategy](articles/1-6-billion-free-tokens-is-a-compression-ratio-not-a.md)
 
 OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free tokens a month, and that figure is arithmetic rather than a promotion, because the RTK+Caveman layer compresses 10,000 tok…
 
-`Token Optimization` `Cost Savings` `Indie Development` `Development Tools`
+`Token Optimization` `Cost Savings` `Indie Development` `Development Tools` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/12)
 
 ### [58 Million Plays Started With One Account, Not Four](articles/58-million-plays-started-with-one-account-not-four.md)
 
 Two brothers ran a single short-video account until one piece of content took off, and only then copied it across several accounts, which is how the cumulative play count passed 58 million.
 
-`Content Marketing` `Video Marketing` `SaaS Business` `Automation Systems`
+`Content Marketing` `Video Marketing` `SaaS Business` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/13)
 
 ### [A 30-Line Script, 200 Users, and a Niche Nobody Wanted](articles/a-30-line-script-200-users-and-a-niche-nobody-wanted.md)
 
 "Solving a niche problem is the secret to building a profitable Micro-SaaS." This common advice ignores the power of focusing on a single, well-defined pain point in a specific market.
 
-`AI Automation` `Micro SaaS` `SaaS Business` `Niche Market`
+`AI Automation` `Micro SaaS` `SaaS Business` `Niche Market` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/14)
 
 ### [AI Agent Loop Engineering: Karpathy's Method for 5x Productivity Gains](articles/ai-agent-loop-engineering-karpathy-s-method-for-5x.md)
 
 A developer in China’s AI community achieved 5x productivity gains using loop engineering, reducing MVP development time from four prompt tuning sessions to a single command installation.
 
-`Enterprise AI` `Developer Tools` `Automation Systems` `Indie Development`
+`Enterprise AI` `Developer Tools` `Automation Systems` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/15)
 
 ### [AI Programming Tool Selection Strategy: From Rapid Prototyping to Long-term Collaboration](articles/ai-programming-tool-selection-strategy-from-rapid.md)
 
 A specialized code review agent beat Claude Code on accuracy across 200 real pull requests and 50 open-source repositories while burning about one-ninth the tokens.
 
-`AI Implementation` `AI Costs` `Development Tools` `Enterprise Automation`
+`AI Implementation` `AI Costs` `Development Tools` `Enterprise Automation` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/16)
 
 ### [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
 
 You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
 
-`AI Tools` `Local SEO` `Niche Market` `Revenue Growth`
+`AI Tools` `Local SEO` `Niche Market` `Revenue Growth` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/17)
 
 ### [Best Practices for AI Agent Skill Management](articles/best-practices-for-ai-agent-skill-management.md)
 
 Managing AI Agent skills is not merely about tools; it's about designing workflows to boost your productivity.
 
-`Productivity` `AI Programming` `AI Features` `Automation Systems`
+`Productivity` `AI Programming` `AI Features` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/18)
 
 ### [Beyond Chat: How Codex Can Automate Your Word/Excel/PPT/PDF Workflows](articles/beyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md)
 
 Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF…
 
-`Codex` `AI Programming` `Automation Systems` `Office Automation`
+`Codex` `AI Programming` `Automation Systems` `Office Automation` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/19)
 
 ### [Beyond Token Pricing: How Indie Devs Should Really Evaluate AI Model Costs](articles/beyond-token-pricing-how-indie-devs-should-really-evaluate.md)
 
 Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requ…
 
-`AI Systems` `AI Implementation` `AI Pricing` `Indie Development`
+`AI Systems` `AI Implementation` `AI Pricing` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/20)
 
 ### [Boosting AI Bot Conversion: A Deep Dive into Funnel Data](articles/boosting-ai-bot-conversion-a-deep-dive-into-funnel-data.md)
 
 One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed us…
 
-`AI Implementation` `AI Bot Conversion` `Funnel Data Analysis` `Enterprise AI Adoption`
+`AI Implementation` `AI Bot Conversion` `Funnel Data Analysis` `Enterprise AI Adoption` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/21)
 
 ### [Choosing the Right AI Model for Coding: Cost vs. Efficiency](articles/choosing-the-right-ai-model-for-coding-cost-vs-efficiency.md)
 
 Fable 5, the cheapest option at $9.05 per run, delivers only 41.2% accuracy in React projects.
 
-`Code Review` `AI Costs` `Indie Development` `Development Tools`
+`Code Review` `AI Costs` `Indie Development` `Development Tools` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/22)
 
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
 A six-hour Chrome extension pays $400 a month.
 
-`Artificial Intelligence` `Productivity` `SaaS Business` `Niche Market`
+`Artificial Intelligence` `Productivity` `SaaS Business` `Niche Market` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/23)
 
 ### [From AI Demo to Product: Loop Engineering for Indie Devs](articles/from-ai-demo-to-product-loop-engineering-for-indie-devs.md)
 
 The agent processes 40-plus podcast channels overnight, transcribed and summarized, ready to read by morning.
 
-`Productivity` `AI Implementation` `Automation Systems` `Indie Development`
+`Productivity` `AI Implementation` `Automation Systems` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/24)
 
 ### [How Chinese Developers Are Using Codex Record & Replay to Streamline Repetitive Workflows](articles/how-chinese-developers-are-using-codex-record-replay-to.md)
 
 A monthly report that used to take four hours now takes a few minutes.
 
-`Workflow Automation` `AI Development` `Chinese AI` `Automation Systems`
+`Workflow Automation` `AI Development` `Chinese AI` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/25)
 
 ### [How Indie Developers Are Building AI-Powered "Digital Landlords" and Renting Them Out for Monthly Cash Flow](articles/how-indie-developers-are-building-ai-powered-digital.md)
 
 Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into "digital properties" and renting them to local businesses for monthly ren…
 
-`Passive Income` `Indie Development` `AI-Powered` `Digital Landlords`
+`Passive Income` `Indie Development` `AI-Powered` `Digital Landlords` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/26)
 
 ### [How to Build a Micro-SaaS Without Spending a Dime on Ads](articles/how-to-build-a-micro-saas-without-spending-a-dime-on-ads.md)
 
 Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 people asking for access within days, at zero cost, and those users stuck around better than the paid traffic he never bo…
 
-`Micro-SaaS` `Rental Business` `SaaS Business` `Automation Systems`
+`Micro-SaaS` `Rental Business` `SaaS Business` `Automation Systems` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/27)
 
 ### [MonkeyCode: The Open-Source AI Coding Platform With 900 Million Free Tokens](articles/monkeycode-the-open-source-ai-coding-platform-with-900.md)
 
 MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read.
 
-`Open-Source` `AI Costs` `Indie Development` `Development Tools`
+`Open-Source` `AI Costs` `Indie Development` `Development Tools` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/28)
 
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
 If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic.
 
-`Productivity` `Recurring Revenue` `AI Features` `Niche Market`
+`Productivity` `Recurring Revenue` `AI Features` `Niche Market` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/29)
 
 ### [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
 Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab.
 
-`AI tools` `Indie developers` `Niche market` `Indie development`
+`AI tools` `Indie developers` `Niche market` `Indie development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/30)
 
 ### [The 5 AI Features That Separated 27 Profitable Solopreneurs From the Rest](articles/the-5-ai-features-that-separated-27-profitable-solopreneurs.md)
 
 Of the 27 AI-powered micro-SaaS projects that generated predictable monthly revenue in a recent analysis, every profitable one used at least three of the same five architectural components.
 
-`AI Automation` `Micro SaaS` `Indie Developer` `AI for Solopreneurs`
+`AI Automation` `Micro SaaS` `Indie Developer` `AI for Solopreneurs` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/31)
 
 ### [The AI Branding Revolution: How Indie Developers Are Ditching Design Costs with AI](articles/the-ai-branding-revolution-how-indie-developers-are.md)
 
 Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics…
 
-`AI Tools` `Cost Savings` `SaaS Business` `Indie Development`
+`AI Tools` `Cost Savings` `SaaS Business` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/32)
 
 ### [The First Line of Defense in AI Programming: Environment Variable Management](articles/the-first-line-of-defense-in-ai-programming-environment.md)
 
 MonkeyCode ships with 900 million free tokens and supports private deployment, which tells you exactly what its users are doing: pointing an AI coding tool at their own keys, on their own infrastru…
 
-`AI Development` `AI Programming` `Environment Variables` `AI Security`
+`AI Development` `AI Programming` `Environment Variables` `AI Security` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/33)
 
 ### [The Hidden Costs of GPT-5.6 Model Selection: A Developer's Real-World Guide](articles/the-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md)
 
 "Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option."
 
-`AI Implementation` `AI Costs` `AI Programming` `Cost Savings`
+`AI Implementation` `AI Costs` `AI Programming` `Cost Savings` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/34)
 
 ### [The Klarna Lesson: Why AI Implementation Needs a Staircase, Not a Leap](articles/the-klarna-lesson-why-ai-implementation-needs-a-staircase.md)
 
 Klarna's AI customer service experiment, which replaced 700 human agents, initially saved $40 million in a year, but the quality of service suffered so badly that they had to rehire humans, leading…
 
-`Artificial Intelligence` `AI Systems` `Automation Systems` `Enterprise Automation`
+`Artificial Intelligence` `AI Systems` `Automation Systems` `Enterprise Automation` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/35)
 
 ### [The Two Best AI Code Reviewers Score the Same. One Costs $1.43 a Run, the Other $9.05.](articles/the-two-best-ai-code-reviewers-score-the-same-one-costs-1.md)
 
 On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%.
 
-`Artificial Intelligence` `Software Development` `Machine Learning` `AI code review`
+`Artificial Intelligence` `Software Development` `Machine Learning` `AI code review` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/36)
 
 ### [Token Optimization for Indie Developers' AI API Bills](articles/token-optimization-for-indie-developers-ai-api-bills.md)
 
 In July 2026, while indie developers building AI coding products full-time watched their API burn rate climb toward their revenue, a quieter shift in the Chinese developer stack showed a different…
 
-`AI Costs` `Token Optimization` `SaaS Business` `Chinese AI`
+`AI Costs` `Token Optimization` `SaaS Business` `Chinese AI` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/37)
 
 ### [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 
 Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts.
 
-`AI Implementation` `AI Costs` `Niche Market` `Profitable Business`
+`AI Implementation` `AI Costs` `Niche Market` `Profitable Business` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/38)
 
 ### [Why Pi's 1000-Token Agent Engine Needs a Sandbox Before You Touch It](articles/why-pi-s-1000-token-agent-engine-needs-a-sandbox-before-you.md)
 
 Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it.
 
-`Security` `AI Programming` `Indie Development` `Sandbox`
+`Security` `AI Programming` `Indie Development` `Sandbox` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/39)
 
 ### [Why Stripping 80% of System Prompts Actually Improved Claude Code's Performance](articles/why-stripping-80-of-system-prompts-actually-improved-claude.md)
 
 When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks.
 
-`Developer Productivity` `Code Review` `AI Features` `Indie Development`
+`Developer Productivity` `Code Review` `AI Features` `Indie Development` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/40)
 
 ### [Why Your Indie App Needs Short-Form Video Marketing (And How to Get Started)](articles/why-your-indie-app-needs-short-form-video-marketing-and-how.md)
 
 The videos run about 60 seconds.
 
-`Productivity` `Content Creation` `Indie Development` `Short Form Video`
+`Productivity` `Content Creation` `Indie Development` `Short Form Video` · [reply box](https://github.com/xyzs996/llm-api-pricing/discussions/41)
 
 ## Related
 

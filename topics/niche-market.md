@@ -21,25 +21,37 @@
 
 "Solving a niche problem is the secret to building a profitable Micro-SaaS." This common advice ignores the power of focusing on a single, well-defined pain point in a specific market.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/14)
+
 ### [AI-Generated Local Business Websites Don't Rent for $3,000/Month (Until You Do This)](../articles/ai-generated-local-business-websites-don-t-rent-for-3-000.md)
 
 You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/17)
 
 ### [Debunking the Myth of Overnight Success in Micro-SaaS](../articles/debunking-the-myth-of-overnight-success-in-micro-saas.md)
 
 A six-hour Chrome extension pays $400 a month.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/23)
+
 ### [Stop Chatting With AI: How I Use /loop and /hook to Automate My Indie Dev Workflow](../articles/stop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md)
 
 If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/29)
 
 ### [Stop Reading SimilarWeb Like a Traffic Dashboard — Read It Like a Feasibility Test](../articles/stop-reading-similarweb-like-a-traffic-dashboard-read-it.md)
 
 Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab.
 
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/30)
+
 ### [When AI Customer Service Backfired: Klarna’s Case and the Four-Stage Path to Enterprise AI Adoption](../articles/when-ai-customer-service-backfired-klarna-s-case-and-the.md)
 
 Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts.
+
+[reply box](https://github.com/xyzs996/llm-api-pricing/discussions/38)
 
 ---
 
