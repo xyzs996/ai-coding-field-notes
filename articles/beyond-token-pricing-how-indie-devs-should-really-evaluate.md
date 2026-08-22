@@ -85,7 +85,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** the claim is that thinking depth drives about 60% of the cost gap, but almost nobody checks their own split. Your dashboard can answer this: what share of last month's bill was input context versus generated output? Reply with the two numbers, even roughly. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/20).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fbeyond-token-pricing-how-indie-devs-should-really-evaluate.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fbeyond-token-pricing-how-indie-devs-should-really-evaluate.md&title=%5Bcorrection%5D+Beyond+Token+Pricing%3A+How+Indie+Devs+Should+Really+Evaluate+AI+Model+Costs) — that form knows

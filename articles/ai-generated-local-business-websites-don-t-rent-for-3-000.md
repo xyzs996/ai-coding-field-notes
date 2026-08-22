@@ -110,7 +110,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** the 90% who quit between day 90 and day 180 do not write posts, so the public record is made entirely of survivors. Reply with how many months in you are and how many of your sites are currently paying rent — zero is a real answer and the one this piece most needs. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/17).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fai-generated-local-business-websites-don-t-rent-for-3-000.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fai-generated-local-business-websites-don-t-rent-for-3-000.md&title=%5Bcorrection%5D+AI-Generated+Local+Business+Websites+Don%27t+Rent+for+%243%2C000%2FMonth+%28Until+You+Do+This%29) — that form knows

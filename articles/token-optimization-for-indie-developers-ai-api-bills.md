@@ -85,7 +85,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** 1.6 billion free tokens a month is an advertised ceiling; a bill is a fact. Reply with what you paid last month and roughly what share of it was context you resented paying to resend — the second number is where the optimization actually lives. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/37).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Ftoken-optimization-for-indie-developers-ai-api-bills.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Ftoken-optimization-for-indie-developers-ai-api-bills.md&title=%5Bcorrection%5D+Token+Optimization+for+Indie+Developers%27+AI+API+Bills) — that form knows

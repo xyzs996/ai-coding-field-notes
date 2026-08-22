@@ -101,7 +101,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** two points of Pass@1 and a six-fold price gap look obvious on paper, and people still pay the six-fold price for reasons the benchmark cannot see. Reply with what one review costs you and whether those two points were worth it — especially if they were. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/36).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-two-best-ai-code-reviewers-score-the-same-one-costs-1.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fthe-two-best-ai-code-reviewers-score-the-same-one-costs-1.md&title=%5Bcorrection%5D+The+Two+Best+AI+Code+Reviewers+Score+the+Same.+One+Costs+%241.43+a+Run%2C+the+Other+%249.05.) — that form knows

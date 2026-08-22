@@ -114,7 +114,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** more than ten assets out of one session counts what was generated, not what was used. Reply with how many generated assets you actually shipped without editing them — if the answer is none, the generic-output objection wins and the piece should say so. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/32).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-ai-branding-revolution-how-indie-developers-are.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fthe-ai-branding-revolution-how-indie-developers-are.md&title=%5Bcorrection%5D+The+AI+Branding+Revolution%3A+How+Indie+Developers+Are+Ditching+Design+Costs+with+AI) — that form knows

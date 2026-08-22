@@ -182,7 +182,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** "5x" is a ratio without a task attached, which makes it unfalsifiable. Reply naming one task where a loop beat you typing prompts by hand, with the wall-clock time on each side — a single honest task with a 1.2x ratio is more useful here than the 5x claim. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/15).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fai-agent-loop-engineering-karpathy-s-method-for-5x.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fai-agent-loop-engineering-karpathy-s-method-for-5x.md&title=%5Bcorrection%5D+AI+Agent+Loop+Engineering%3A+Karpathy%27s+Method+for+5x+Productivity+Gains) — that form knows

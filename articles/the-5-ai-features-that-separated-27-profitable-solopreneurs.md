@@ -85,7 +85,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** 27 profitable projects is a sample of survivors, so any component shared by all of them may just be common. Reply with which of the five you built first and which one you still do not have — a profitable project missing three of the five would break the finding, and that is worth knowing. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/31).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-5-ai-features-that-separated-27-profitable-solopreneurs.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fthe-5-ai-features-that-separated-27-profitable-solopreneurs.md&title=%5Bcorrection%5D+The+5+AI+Features+That+Separated+27+Profitable+Solopreneurs+From+the+Rest) — that form knows

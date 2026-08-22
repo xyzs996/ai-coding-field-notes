@@ -85,7 +85,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** one team cut 80% and their benchmarks went up, which is a result, not a rule. Reply with how long your system prompt is now and what happened the last time you cut it — if performance dropped, that is the more useful direction and it is not written down anywhere. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/40).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fwhy-stripping-80-of-system-prompts-actually-improved-claude.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fwhy-stripping-80-of-system-prompts-actually-improved-claude.md&title=%5Bcorrection%5D+Why+Stripping+80%25+of+System+Prompts+Actually+Improved+Claude+Code%27s+Performance) — that form knows

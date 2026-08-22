@@ -63,7 +63,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** every automation post describes the run that worked. Reply with the one task you now let run without watching it, and what broke the first time you stopped watching — the failure is the part that tells someone else whether to try it. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/29).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fstop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fstop-chatting-with-ai-how-i-use-loop-and-hook-to-automate.md&title=%5Bcorrection%5D+Stop+Chatting+With+AI%3A+How+I+Use+%2Floop+and+%2Fhook+to+Automate+My+Indie+Dev+Workflow) — that form knows

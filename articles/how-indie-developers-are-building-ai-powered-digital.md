@@ -97,7 +97,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** $500 to $3,000 a month is a rent range quoted by people who collected it. Reply with what one of your own sites actually rented for and how many months passed between launching it and the first payment landing — the lag is what the pitch leaves out. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/26).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fhow-indie-developers-are-building-ai-powered-digital.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fhow-indie-developers-are-building-ai-powered-digital.md&title=%5Bcorrection%5D+How+Indie+Developers+Are+Building+AI-Powered+%22Digital+Landlords%22+and+Renting+Them+Out+for+Monthly+Cash+Flow) — that form knows

@@ -89,7 +89,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** every published tool comparison is written in week one, when switching is still cheap. Reply with what finally made you move from a hosted tool to an IDE-style one — or what kept you from moving — and how many working days the switch actually cost. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/16).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fai-programming-tool-selection-strategy-from-rapid.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fai-programming-tool-selection-strategy-from-rapid.md&title=%5Bcorrection%5D+AI+Programming+Tool+Selection+Strategy%3A+From+Rapid+Prototyping+to+Long-term+Collaboration) — that form knows

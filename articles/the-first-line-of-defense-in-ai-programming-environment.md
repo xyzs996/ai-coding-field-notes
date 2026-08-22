@@ -94,7 +94,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** the rule is that the agent never sees the credential, and rules get broken quietly. Reply with whether an agent has ever read a key it should not have in your setup, and what caught it — a near miss described plainly is worth more than the rule restated. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/33).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-first-line-of-defense-in-ai-programming-environment.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fthe-first-line-of-defense-in-ai-programming-environment.md&title=%5Bcorrection%5D+The+First+Line+of+Defense+in+AI+Programming%3A+Environment+Variable+Management) — that form knows

@@ -107,7 +107,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** 95% accuracy, one-third the cost, and 800ms are vendor-side measurements on somebody else's tasks. Reply with the median latency and the per-task token count you see on the model you actually run — measured on your work, not theirs. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/34).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fthe-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fthe-hidden-costs-of-gpt-5-6-model-selection-a-developer-s.md&title=%5Bcorrection%5D+The+Hidden+Costs+of+GPT-5.6+Model+Selection%3A+A+Developer%27s+Real-World+Guide) — that form knows

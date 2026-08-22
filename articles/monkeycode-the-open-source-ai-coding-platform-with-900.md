@@ -85,7 +85,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** the 900 million free tokens get the attention, but private deployment is the part that decides whether the tool is usable where AI coding is banned. Reply with whether you actually deployed it inside your own network — and if you did not, what stopped you. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/28).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fmonkeycode-the-open-source-ai-coding-platform-with-900.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fmonkeycode-the-open-source-ai-coding-platform-with-900.md&title=%5Bcorrection%5D+MonkeyCode%3A+The+Open-Source+AI+Coding+Platform+With+900+Million+Free+Tokens) — that form knows

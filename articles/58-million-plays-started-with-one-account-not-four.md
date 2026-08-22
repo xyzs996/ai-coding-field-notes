@@ -85,7 +85,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** the 58 million is a total, and totals hide the order things happened in. Reply with how many accounts you started with and how many videos went out before one of them broke out — if you copied across accounts first and it still worked, that contradicts the whole piece and is worth saying. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/13).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2F58-million-plays-started-with-one-account-not-four.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2F58-million-plays-started-with-one-account-not-four.md&title=%5Bcorrection%5D+58+Million+Plays+Started+With+One+Account%2C+Not+Four) — that form knows

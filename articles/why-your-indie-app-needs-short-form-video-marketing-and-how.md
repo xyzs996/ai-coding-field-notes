@@ -93,7 +93,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** 95% of users arriving through organic content and 12 hours a week are two numbers from the same account of the same experiment. Reply with the hours a week it actually took you and the share of signups that came from video — if the hours were higher and the share lower, say so; that is the correction this piece needs. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/41).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fwhy-your-indie-app-needs-short-form-video-marketing-and-how.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fwhy-your-indie-app-needs-short-form-video-marketing-and-how.md&title=%5Bcorrection%5D+Why+Your+Indie+App+Needs+Short-Form+Video+Marketing+%28And+How+to+Get+Started%29) — that form knows

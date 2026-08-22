@@ -71,7 +71,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** 10% of 12,000 users paying $3 is one product's conversion, and free-to-paid rates vary by an order of magnitude. Reply with your own free-to-paid percentage and the hours that went into the first version you shipped — both numbers, or the piece is just an anecdote. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/23).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fdebunking-the-myth-of-overnight-success-in-micro-saas.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fdebunking-the-myth-of-overnight-success-in-micro-saas.md&title=%5Bcorrection%5D+Debunking+the+Myth+of+Overnight+Success+in+Micro-SaaS) — that form knows

@@ -112,7 +112,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** a 70% cut in document-processing time is an average over jobs nobody lists. Reply naming the one document job you automated, with how long it took before and after — including the case where it took longer, which happens and never gets written up. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/19).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fbeyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fbeyond-chat-how-codex-can-automate-your-word-excel-ppt-pdf.md&title=%5Bcorrection%5D+Beyond+Chat%3A+How+Codex+Can+Automate+Your+Word%2FExcel%2FPPT%2FPDF+Workflows) — that form knows

@@ -111,7 +111,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** the argument is that traffic sources beat traffic volume, and that is easy to assert and rarely tested. Reply with one thing a competitor's referral or search breakdown told you that the visit count did not — including the case where the volume number was in fact the useful one. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/30).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fstop-reading-similarweb-like-a-traffic-dashboard-read-it.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fstop-reading-similarweb-like-a-traffic-dashboard-read-it.md&title=%5Bcorrection%5D+Stop+Reading+SimilarWeb+Like+a+Traffic+Dashboard+%E2%80%94+Read+It+Like+a+Feasibility+Test) — that form knows

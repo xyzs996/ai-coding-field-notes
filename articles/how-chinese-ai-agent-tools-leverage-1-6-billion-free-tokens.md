@@ -105,7 +105,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** the prices above are list prices, read on the date shown. What no published table has is which model you actually ended up routing to once the free quota ran down. Reply with the model you settled on and one month's bill next to what the same work used to cost — the switching cost is the number nobody publishes. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/10).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fhow-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fhow-chinese-ai-agent-tools-leverage-1-6-billion-free-tokens.md&title=%5Bcorrection%5D+How+Chinese+AI+Agent+Tools+Leverage+1.6+Billion+Free+Tokens) — that form knows

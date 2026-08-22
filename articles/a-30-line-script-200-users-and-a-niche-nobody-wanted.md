@@ -140,7 +140,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** 200 people asking for access is a launch-week number, and launch weeks lie. Reply with how many asked in your first week and how many were still using it a month later — the ratio between those two is the only part of this story that predicts anything. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/14).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fa-30-line-script-200-users-and-a-niche-nobody-wanted.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fa-30-line-script-200-users-and-a-niche-nobody-wanted.md&title=%5Bcorrection%5D+A+30-Line+Script%2C+200+Users%2C+and+a+Niche+Nobody+Wanted) — that form knows

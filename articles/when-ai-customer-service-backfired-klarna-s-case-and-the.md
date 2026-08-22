@@ -102,7 +102,11 @@ agents.*
 
 **Did this save you an afternoon?** [A star](https://github.com/xyzs996/llm-api-pricing)
 on the repository is the whole ask — it is what puts these in front of the next
-person looking; the data is CC BY and does not require starring. **Want a figure
+person looking; the data is CC BY and does not require starring.
+
+**One thing this piece could not settle:** Klarna is one company at one scale, and the lesson only transfers if the boundary does. Reply with which support work you handed to a model and which specific kind of request came back to a person — the boundary is the whole finding. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/38).
+
+**Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
 line](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml&came_from=articles%2Fwhen-ai-customer-service-backfired-klarna-s-case-and-the.md). One required field, and the page you came from is already filled
 in. **Got a better number?** [Open an issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml&where=articles%2Fwhen-ai-customer-service-backfired-klarna-s-case-and-the.md&title=%5Bcorrection%5D+When+AI+Customer+Service+Backfired%3A+Klarna%E2%80%99s+Case+and+the+Four-Stage+Path+to+Enterprise+AI+Adoption) — that form knows
