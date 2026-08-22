@@ -65,7 +65,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** every automation post describes the run that worked. Reply with the one task you now let run without watching it, and what broke the first time you stopped watching — the failure is the part that tells someone else whether to try it. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/29).
+**One thing this piece could not settle:** every automation post describes the run that worked. Name one task you now let run without watching it. If there isn't one yet, reply saying so — that is the more common answer and it belongs here. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/29).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

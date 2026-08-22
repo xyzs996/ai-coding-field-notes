@@ -92,7 +92,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** 9.1% to 55.1% is one funnel in one product, and funnels rarely fail in the same place twice. Reply with your current entry-group conversion rate and which stage loses the most people — a stage that does not appear anywhere above is the most useful reply this thread can get. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/21).
+**One thing this piece could not settle:** 9.1% to 55.1% is one funnel in one product, and funnels rarely fail in the same place twice. Which stage of yours loses the most people? Reply with the stage, not the number. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/21).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

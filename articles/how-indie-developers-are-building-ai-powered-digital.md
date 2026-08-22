@@ -99,7 +99,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** $500 to $3,000 a month is a rent range quoted by people who collected it. Reply with what one of your own sites actually rented for and how many months passed between launching it and the first payment landing — the lag is what the pitch leaves out. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/26).
+**One thing this piece could not settle:** $500 to $3,000 a month is a rent range quoted by the people who collected it. Has one of yours ever actually paid you? Yes or no in a reply. Nothing else needed. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/26).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

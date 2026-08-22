@@ -87,7 +87,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** the 900 million free tokens get the attention, but private deployment is the part that decides whether the tool is usable where AI coding is banned. Reply with whether you actually deployed it inside your own network — and if you did not, what stopped you. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/28).
+**One thing this piece could not settle:** the 900 million free tokens get the attention, but private deployment decides whether this is usable where AI coding is banned outright. Did you run it inside your own network, or only try the hosted one? One word in a reply. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/28).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

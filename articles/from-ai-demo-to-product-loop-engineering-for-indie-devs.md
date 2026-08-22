@@ -119,7 +119,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** "fewer than ten credits per task" was measured on research tasks that happened to be small. Reply with what one of your own tasks actually spends against a 100-a-day allowance — if you have hit the ceiling, say on what. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/24).
+**One thing this piece could not settle:** "fewer than ten credits per task" was measured on tasks that happened to be small. Have you ever hit a daily ceiling? Yes or no in a reply, and on what if yes. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/24).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

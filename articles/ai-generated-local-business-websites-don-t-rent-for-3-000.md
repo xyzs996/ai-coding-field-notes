@@ -112,7 +112,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** the 90% who quit between day 90 and day 180 do not write posts, so the public record is made entirely of survivors. Reply with how many months in you are and how many of your sites are currently paying rent — zero is a real answer and the one this piece most needs. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/17).
+**One thing this piece could not settle:** the ones who quit between day 90 and day 180 never write posts, so the public record is made of survivors. Is any site of yours paying rent right now? Yes or no in a reply — "no" is the answer that never gets printed. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/17).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

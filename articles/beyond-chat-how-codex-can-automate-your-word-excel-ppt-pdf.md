@@ -114,7 +114,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** a 70% cut in document-processing time is an average over jobs nobody lists. Reply naming the one document job you automated, with how long it took before and after — including the case where it took longer, which happens and never gets written up. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/19).
+**One thing this piece could not settle:** a 70% cut in document-processing time is an average over jobs nobody lists. Name one document job you handed over — or one you tried and went back to doing by hand. Reply with either; the second is worth more. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/19).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

@@ -116,7 +116,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** more than ten assets out of one session counts what was generated, not what was used. Reply with how many generated assets you actually shipped without editing them — if the answer is none, the generic-output objection wins and the piece should say so. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/32).
+**One thing this piece could not settle:** more than ten assets out of one session counts what got generated, not what got used. Have you ever shipped a generated asset without editing it first? Yes or no in a reply. If no, the generic-output objection wins. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/32).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

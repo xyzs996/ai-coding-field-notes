@@ -87,7 +87,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** one team cut 80% and their benchmarks went up, which is a result, not a rule. Reply with how long your system prompt is now and what happened the last time you cut it — if performance dropped, that is the more useful direction and it is not written down anywhere. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/40).
+**One thing this piece could not settle:** one team cut 80% and their scores went up, which is a result, not a rule. Have you ever cut your system prompt and had things get worse? Yes or no in a reply — that direction is the one nobody writes up. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/40).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

@@ -87,7 +87,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** "90% still write prompts by hand" is a survey number, not a working practice. Reply with how many of your skills are actually under version control, and when one of them last broke after an edit — the breakage is the part no tool page describes. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/18).
+**One thing this piece could not settle:** "90% still write prompts by hand" is a survey number, not a working practice. Are your own skills in version control, or in a folder somewhere? One word in a reply. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/18).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

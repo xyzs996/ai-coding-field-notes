@@ -73,7 +73,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** 10% of 12,000 users paying $3 is one product's conversion, and free-to-paid rates vary by an order of magnitude. Reply with your own free-to-paid percentage and the hours that went into the first version you shipped — both numbers, or the piece is just an anecdote. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/23).
+**One thing this piece could not settle:** 10% of 12,000 users paying $3 is one product's conversion, and free-to-paid rates vary by an order of magnitude. How long between your first line of code and your first paying user? Reply in months, rounded is fine. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/23).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

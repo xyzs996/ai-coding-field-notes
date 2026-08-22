@@ -95,7 +95,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** "run it in a sandbox" is advice everyone gives and fewer follow. Reply with whether your agent's shell tool is actually sandboxed, and what it can currently reach that you would rather it could not — naming one thing is enough. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/39).
+**One thing this piece could not settle:** "run it in a sandbox" is advice everyone gives and fewer follow. Is the shell your agent uses actually sandboxed? Yes or no in a reply. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/39).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

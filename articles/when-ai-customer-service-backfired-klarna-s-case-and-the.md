@@ -104,7 +104,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** Klarna is one company at one scale, and the lesson only transfers if the boundary does. Reply with which support work you handed to a model and which specific kind of request came back to a person — the boundary is the whole finding. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/38).
+**One thing this piece could not settle:** Klarna is one company at one scale, and the lesson only transfers if the boundary does. Which kind of request do you refuse to let a model answer? Reply with one. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/38).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

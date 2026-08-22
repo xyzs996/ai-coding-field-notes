@@ -123,7 +123,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** the four-rung staircase is a framework, and frameworks describe the climb, never the fall. Reply with which rung you are actually on and what pushed you back down one — the retreat is the part of the Klarna story everyone quotes and nobody has data on. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/35).
+**One thing this piece could not settle:** the four-rung staircase is a framework, and frameworks describe the climb, never the fall. Have you ever gone back down a rung? Yes or no in a reply — the retreat is the part nobody writes up. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/35).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

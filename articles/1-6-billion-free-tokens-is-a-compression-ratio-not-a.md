@@ -85,7 +85,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** a compression ratio is arithmetic; a routing decision is not. Which model actually answered your requests last week, and did your bill move when the router changed its mind? A reply naming the model and the direction the bill went is worth more than the quota figure at the top. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/12).
+**One thing this piece could not settle:** a compression ratio is arithmetic; a routing decision is not. When your free quota ran out, did you pay or did you switch? One word in a reply, plus the model name if you switched. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/12).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

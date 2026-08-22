@@ -91,7 +91,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** five of fifteen articles carrying the traffic is one writer's hit rate on one keyword. Reply with how many of your posts carry your traffic, and which channel brought the users who were still there in month two — the second question is the one that decides where to write next. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/27).
+**One thing this piece could not settle:** five of fifteen articles carrying the traffic is one writer's hit rate on one keyword. Which channel brought you the users who were still there a month later? Reply with the channel name. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/27).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

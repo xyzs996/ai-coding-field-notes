@@ -91,7 +91,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** every published tool comparison is written in week one, when switching is still cheap. Reply with what finally made you move from a hosted tool to an IDE-style one — or what kept you from moving — and how many working days the switch actually cost. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/16).
+**One thing this piece could not settle:** every tool comparison gets written in week one, when switching is still cheap. Which tool are you in right now, and did you switch to it or start there? A name and one word, in a reply. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/16).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

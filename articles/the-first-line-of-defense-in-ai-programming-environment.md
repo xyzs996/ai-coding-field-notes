@@ -96,7 +96,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** the rule is that the agent never sees the credential, and rules get broken quietly. Reply with whether an agent has ever read a key it should not have in your setup, and what caught it — a near miss described plainly is worth more than the rule restated. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/33).
+**One thing this piece could not settle:** the rule is that the agent never sees the credential, and rules get broken quietly. Can your agent read your environment file right now? Yes or no in a reply — no need to name anything in it. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/33).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

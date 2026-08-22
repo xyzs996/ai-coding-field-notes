@@ -87,7 +87,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** the claim is that thinking depth drives about 60% of the cost gap, but almost nobody checks their own split. Your dashboard can answer this: what share of last month's bill was input context versus generated output? Reply with the two numbers, even roughly. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/20).
+**One thing this piece could not settle:** the claim is that thinking depth drives most of the cost gap, and almost nobody checks their own split. Off the top of your head: is your bill mostly context you resend, or output you generate? Reply with a guess and say it's a guess. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/20).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

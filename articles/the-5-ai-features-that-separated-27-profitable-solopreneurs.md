@@ -87,7 +87,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** 27 profitable projects is a sample of survivors, so any component shared by all of them may just be common. Reply with which of the five you built first and which one you still do not have — a profitable project missing three of the five would break the finding, and that is worth knowing. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/31).
+**One thing this piece could not settle:** 27 profitable projects is a sample of survivors, so anything all of them share may just be common. Which of the five do you not have? Reply with one — a profitable project missing three would break the list. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/31).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

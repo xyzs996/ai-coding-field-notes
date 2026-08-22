@@ -103,7 +103,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** a recorded workflow works until the input changes shape, and the 80% figure does not say where that line falls. Reply with one recording that survived new inputs and one you had to make again — the second is the more informative half. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/25).
+**One thing this piece could not settle:** a recorded workflow holds until the input changes shape, and the 80% figure does not say where that line falls. Do you still use a recording you made over a month ago? Yes or no in a reply. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/25).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

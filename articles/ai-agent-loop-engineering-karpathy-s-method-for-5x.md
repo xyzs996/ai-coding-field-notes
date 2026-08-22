@@ -184,7 +184,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** "5x" is a ratio without a task attached, which makes it unfalsifiable. Reply naming one task where a loop beat you typing prompts by hand, with the wall-clock time on each side — a single honest task with a 1.2x ratio is more useful here than the 5x claim. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/15).
+**One thing this piece could not settle:** "5x" is a ratio with no task attached, which makes it unfalsifiable. Name one task you now hand to a loop instead of typing prompts by hand. Reply with the task alone — no timings. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/15).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

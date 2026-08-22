@@ -142,7 +142,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** 200 people asking for access is a launch-week number, and launch weeks lie. Reply with how many asked in your first week and how many were still using it a month later — the ratio between those two is the only part of this story that predicts anything. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/14).
+**One thing this piece could not settle:** 200 people asking for access is a launch-week number, and launch weeks lie. Is your own tool still running today? Yes or no in a reply. "No" is the answer this piece is missing. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/14).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

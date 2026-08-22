@@ -93,7 +93,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** a benchmark counts findings against a labelled answer key. Your repository has no answer key. Reply with your last twenty pull requests: how many real defects the reviewer caught, and how many it invented — the second number is the one benchmarks never report. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/11).
+**One thing this piece could not settle:** a benchmark has an answer key and your repository does not. Do you still read the AI review before merging, or have you started skipping it? One word in a reply — "skipping" is the more useful answer. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/11).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

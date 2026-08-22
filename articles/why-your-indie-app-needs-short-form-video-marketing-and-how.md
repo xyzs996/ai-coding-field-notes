@@ -95,7 +95,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** 95% of users arriving through organic content and 12 hours a week are two numbers from the same account of the same experiment. Reply with the hours a week it actually took you and the share of signups that came from video — if the hours were higher and the share lower, say so; that is the correction this piece needs. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/41).
+**One thing this piece could not settle:** 95% of signups from organic content and 12 hours a week are two numbers out of the same account of the same experiment. Have you posted a video for your app yet? Yes or no in a reply — "not yet" is the honest majority answer. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/41).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

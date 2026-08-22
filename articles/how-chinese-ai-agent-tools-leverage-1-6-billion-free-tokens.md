@@ -107,7 +107,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** the prices above are list prices, read on the date shown. What no published table has is which model you actually ended up routing to once the free quota ran down. Reply with the model you settled on and one month's bill next to what the same work used to cost — the switching cost is the number nobody publishes. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/10).
+**One thing this piece could not settle:** the prices above are list prices, not routing decisions. Which model do you actually send your coding work to today? Reply with the name — that alone is the whole answer, no bill and no benchmark. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/10).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

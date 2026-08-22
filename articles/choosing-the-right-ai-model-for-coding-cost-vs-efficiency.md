@@ -102,7 +102,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** a per-run price only matters alongside how many runs it takes before you keep the output. Reply with what one run costs you and how many you burn before something ships — that second number is missing from every pricing page and every benchmark. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/22).
+**One thing this piece could not settle:** a per-run price only matters next to the number of runs it takes before you keep the output. For you: one, a few, or many? Reply with one of the three. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/22).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

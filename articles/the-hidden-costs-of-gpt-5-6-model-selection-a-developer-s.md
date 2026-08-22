@@ -109,7 +109,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** 95% accuracy, one-third the cost, and 800ms are vendor-side measurements on somebody else's tasks. Reply with the median latency and the per-task token count you see on the model you actually run — measured on your work, not theirs. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/34).
+**One thing this piece could not settle:** 95% accuracy, one-third the cost and 800ms are vendor-side numbers measured on somebody else's tasks. Which model do you actually run day to day? Reply with the name; that's enough. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/34).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one

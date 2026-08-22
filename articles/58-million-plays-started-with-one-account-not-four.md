@@ -87,7 +87,7 @@ agents.*
 on the repository is the whole ask — it is what puts these in front of the next
 person looking; the data is CC BY and does not require starring.
 
-**One thing this piece could not settle:** the 58 million is a total, and totals hide the order things happened in. Reply with how many accounts you started with and how many videos went out before one of them broke out — if you copied across accounts first and it still worked, that contradicts the whole piece and is worth saying. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/13).
+**One thing this piece could not settle:** the 58 million is a total, and totals hide the order things happened in. Did you start with one account or with several? Reply with one or the other — no view counts needed. [The reply box is on the thread copy of this piece](https://github.com/xyzs996/llm-api-pricing/discussions/13).
 
 **Want a figure
 that is not in here yet?** Say which metric, which provider, which unit — [in one
