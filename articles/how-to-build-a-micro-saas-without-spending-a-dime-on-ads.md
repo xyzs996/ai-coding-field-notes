@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/27) — that copy has a reply box under it, and this one does not.*
+
 Jordan posted an introduction thread across 3 Reddit sub-boards and had 200 people asking for access within days, at zero cost, and those users stuck around better than the paid traffic he never bought. He wrote 15 blog articles after that. Five of them, all aimed at the phrase Poshmark Automation, carry most of the organic search traffic to this day. The other ten are still up.
 
 The tool itself started as a 30-line script that clicked the share button on his wife's Poshmark listings so she did not have to. Here is the order those two things happened in, why the Reddit thread worked when most launch posts do not, and what the five-out-of-fifteen ratio says about writing for search.

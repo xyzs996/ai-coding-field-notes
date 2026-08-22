@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/13) — that copy has a reply box under it, and this one does not.*
+
 Two brothers ran a single short-video account until one piece of content took off, and only then copied it across several accounts, which is how the cumulative play count passed 58 million. The order is the entire lesson, and it is the part most people reverse.
 
 Rob Hallam posts 3 to 5 videos a week and gets around 1,000 views on each one, which is nowhere near a viral number and was never meant to be. Across the 4 zero-budget cases in the source material, roughly 95% of users arrived through content rather than paid acquisition. Nobody in that group bought reach.

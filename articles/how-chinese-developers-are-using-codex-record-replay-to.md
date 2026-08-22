@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/25) — that copy has a reply box under it, and this one does not.*
+
 A monthly report that used to take four hours now takes a few minutes. He showed Codex the workflow once, and Record and Replay turned that single demonstration into a reusable skill that accepts new inputs without being recorded again, which is the difference between writing a script for the job and simply doing the job in front of something that was watching. A team of three in Shanghai did the same thing to their test cycle. Nobody wrote a script.
 
 The claimed reduction in manual effort is 80 percent, and the feature is explicitly not built for enterprise-scale workflows. Here is what a recording actually captures, where the skill stops adapting and needs a fresh one, and which repetitive work is worth recording at all.

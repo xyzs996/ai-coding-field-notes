@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/15) — that copy has a reply box under it, and this one does not.*
+
 A developer in China’s AI community achieved 5x productivity gains using loop engineering, reducing MVP development time from four prompt tuning sessions to a single command installation. This method automates repetitive tasks and integrates complex workflows, as seen in Marvy 2.0’s 74% optimization efficiency improvement. The approach transforms AI workflows by creating closed-loop systems with clear goals, execution paths, and termination conditions.
 
 ## The Context: How Loop Engineering Transforms AI Workflows

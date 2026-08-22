@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/32) — that copy has a reply box under it, and this one does not.*
+
 Chris launched WiseMindAI last year and came out of a single session with Miora's brand visual template holding more than ten finished assets, covering color schemes, typography and social graphics, none of it involving a designer or the days of back-and-forth that usually come attached to that word. That is the part worth arguing about. The standard objection is that anything generated this way ends up looking like everything else generated this way.
 
 Miora runs three tiers, Standard, Pro and Max, and the 24/7 designer support sits on the Pro one. Here is what the template actually produces, where the generic-output objection holds up and where it falls apart, and what a 9-step README workflow with 7 design specifications does to the same problem from the other end.

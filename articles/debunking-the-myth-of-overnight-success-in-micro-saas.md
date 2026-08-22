@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/23) — that copy has a reply box under it, and this one does not.*
+
 A six-hour Chrome extension pays $400 a month. Nothing runs on a server. That sounds like something invented to sell a course. I read the Chinese indie-developer accounts every day, and that is where this one came from. A text-replacement extension, one weekend of work, about six hours of it. 12,000 active users. Roughly 10% of them pay $3 a month for the premium tier. The free version replaces text on any page, as often as you like. The $3 tier adds multi-word replacement, regex matching, and per-site rules. That split only makes sense once you already know which users are the impatient ones. All the logic runs inside the browser. No server bill, no database, nothing that can page you at 3am. Top line and bottom line are the same number.
 
 That is a clean figure attached to a small object, which is why it travels so well in a screenshot. It is also the less useful half of the story.

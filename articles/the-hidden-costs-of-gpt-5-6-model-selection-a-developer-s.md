@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/34) — that copy has a reply box under it, and this one does not.*
+
 "Choosing the right GPT-5.6 model for your business is more about avoiding cost overruns than just picking the cheapest option."
 
 The problem isn't about finding the cheapest model—it's about finding the one that delivers real value without hidden costs. Luna's 95% accuracy rate at 1/3 the cost of Terra shows how much you can save by making the right choice. Terra requires 3x more tokens for equivalent tasks, and its 800ms response time makes it far less efficient for time-sensitive applications.

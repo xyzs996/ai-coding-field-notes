@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/36) — that copy has a reply box under it, and this one does not.*
+
 On ReactBench, GPT 5.6 Sol and Fable 5 posted Pass@1 scores of 43.1% and 41.2%. Two points apart. A single run costs about $1.43 on the first and $9.05 on the second.
 
 That gap is the whole decision, and almost nobody frames it that way. The leaderboards rank by score, so a two-point lead reads as a win, and the price column sits somewhere below the fold where it stops affecting anything.

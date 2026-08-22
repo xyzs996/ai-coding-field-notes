@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/18) — that copy has a reply box under it, and this one does not.*
+
 Managing AI Agent skills is not merely about tools; it's about designing workflows to boost your productivity. For indie developers, the key is avoiding chaos in version control, **role-based access management**, and tool integration. For instance, Skill-MCP, a tool for AI skill management, addresses this by offering version rollbacks, permission controls, and multi-environment deployment via environment variables. 90% of developers still rely on manual prompt writing, while top performers use Skill Package to automate 80% of repetitive tasks, saving hours weekly.
 
 ## Skill Package Management: Version Control & Reusability

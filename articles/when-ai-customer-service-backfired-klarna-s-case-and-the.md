@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/38) — that copy has a reply box under it, and this one does not.*
+
 Klarna reported $4 million a year in savings and a 99.96 percent conversation engagement rate, the kind of pair of numbers that ends an internal debate before it starts. Six months later the same CEO said publicly that the company had overshot and was rehiring agents. The system had been fine on the repetitive work and then ran into complaints that needed empathy, recommendations that needed judgment, and escalations that needed a person on the other end of them. The savings were real. So was the rehiring.
 
 The path that survives contact with reality starts much smaller than replacing 100 agents, with one person and one high-frequency task, before anything gets called an organizational capability. Here is what Klarna automated, which parts of it came back in-house, and the stages that separate the two.

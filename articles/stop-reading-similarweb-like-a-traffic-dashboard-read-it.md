@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/30) — that copy has a reply box under it, and this one does not.*
+
 Most indie developers open SimilarWeb, look at the big monthly visits number, and close the tab. I think that is the single most expensive habit in early product research, because the traffic number is the one figure on the page that cannot tell you whether a market is worth entering.
 
 The useful question is not how many people visit a competitor. It is where those people came from, what they typed to get there, and where they went next.

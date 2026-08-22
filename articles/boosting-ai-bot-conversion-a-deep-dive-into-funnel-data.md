@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/21) — that copy has a reply box under it, and this one does not.*
+
 One reported case moved entry-group conversion from 9.1% to 55.1% by rebuilding an automated onboarding flow around what the funnel data actually showed, rather than around what the team assumed users were doing. The interesting part is not the size of the jump. It is which stage turned out to be responsible.
 
 ## Understanding the Funnel: A Data-Driven Approach

@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/37) — that copy has a reply box under it, and this one does not.*
+
 In July 2026, while indie developers building AI coding products full-time watched their API burn rate climb toward their revenue, a quieter shift in the Chinese developer stack showed a different way out. OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free tokens a month. If you run long coding sessions or heavy refactoring against proprietary models, that number changes how long your runway lasts, assuming it survives contact with your actual workload.
 
 ## The Anatomy of an Indie AI Bill Crisis and Why Western Devs Miss Out

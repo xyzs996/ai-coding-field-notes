@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/39) — that copy has a reply box under it, and this one does not.*
+
 Pi's system prompt and its 4 tool descriptions come to under 1,000 tokens, which is the whole reason to like it. The tools are read, write, edit, and bash. That is the entire set, and the fourth one is why this article exists.
 
 Pi ships with no sandbox. The bash tool executes with exactly the file, process, network, and credential access of the account that launched it, which on a normal developer machine means everything you can reach, the agent can reach.

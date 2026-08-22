@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/31) — that copy has a reply box under it, and this one does not.*
+
 Of the 27 AI-powered micro-SaaS projects that generated predictable monthly revenue in a recent analysis, every profitable one used at least three of the same five architectural components. The most common of the 5 was scheduling automation, present in more of the 27 than anything else on the list. That is a duller finding than the ones that circulate about model choice and prompt engineering, and it is also the one that survives contact with a real project.
 
 The thread running through all 27 cases is architecture rather than intelligence. Five components keep reappearing in the ones that made money, and they appear in a rough order that turns out to matter more than the list itself.

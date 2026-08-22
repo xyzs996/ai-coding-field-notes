@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/17) — that copy has a reply box under it, and this one does not.*
+
 You can build AI-generated local business websites, rent them to plumbers or dentists for $500–$3,000 a month, and scale to passive income. That’s the viral pitch. It’s true for about 1 in 20 people who try it.
 
 The claim leaves out the gap: **90% of beginners quit during the first 90–180 days** because traffic never arrives and the invoices never land. The channel works, but the timeline doesn’t match the hype.

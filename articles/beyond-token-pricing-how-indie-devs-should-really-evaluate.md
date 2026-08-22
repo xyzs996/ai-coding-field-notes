@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/20) — that copy has a reply box under it, and this one does not.*
+
 Microsoft's evaluation of Kimi K3 landed on a number that should change how you read a pricing page: about 60 percent of the cost difference between models comes from the thinking depth a task requires, not from the price per token. That is the whole argument in one line. The number on the landing page is the smallest of the two variables you are actually paying for.
 
 Here is what thinking depth costs in practice, why project context rather than generated code drives most of the bill, and what the $1-per-million tier tells you about where this market is heading.

@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/14) — that copy has a reply box under it, and this one does not.*
+
 "Solving a niche problem is the secret to building a profitable Micro-SaaS." This common advice ignores the power of focusing on a single, well-defined pain point in a specific market.
 
 ## The Niche Market Advantage

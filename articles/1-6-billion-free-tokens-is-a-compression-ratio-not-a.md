@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/12) — that copy has a reply box under it, and this one does not.*
+
 OmniRoute aggregates 237 providers and advertises roughly 1.6 billion free tokens a month, and that figure is arithmetic rather than a promotion, because the RTK+Caveman layer compresses 10,000 tokens down to 1,080, and a free quota multiplied by about 10 is exactly what a ratio like that buys you. What the number does not tell you is which model answers your next request. That is the only thing your bill and your output quality actually depend on.
 
 ## Where the number comes from

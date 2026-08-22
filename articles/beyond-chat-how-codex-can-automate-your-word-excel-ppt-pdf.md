@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/19) — that copy has a reply box under it, and this one does not.*
+
 Codex's office automation capabilities, which are severely underestimated, can be transformed into powerful document processing agents, as shown by real-world developers, one of whom automated PDF data extraction to PPT report generation, cutting document processing time by 70%.
 
 The key limitation is Codex's poor session management-Codex++ solves this with Markdown export and session deletion.

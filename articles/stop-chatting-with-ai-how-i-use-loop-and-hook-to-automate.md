@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/29) — that copy has a reply box under it, and this one does not.*
+
 If you run a solo dev shop, the day goes to fragmented feeds, forty open tabs, and backend maintenance that eats the hours meant for product logic. It is easy to slip into treating AI as one more chat window where you paste an error and hope for a clean patch. Loop Engineering is the alternative taking shape in developer communities: instead of typing fresh prompts into an empty box, you lean on `/loop`, `/hook`, and `/goal` to keep background pipelines running without babysitting them. The standing instinct, whenever an agent went off the rails, was to go optimize the prompt, and that instinct is wrong in a specific way, because a polished prompt cannot rescue a system that has no engineering discipline and no automated constraints standing behind it. Vague requirements and missing project boundaries make every new agent repeat the same mistakes, burning tokens and patience together. Structured files are what lower that load. That one I believe.
 
 ## Moving Beyond Manual Triggers with Timed Automation

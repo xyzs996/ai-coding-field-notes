@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/16) — that copy has a reply box under it, and this one does not.*
+
 A specialized code review agent beat Claude Code on accuracy across 200 real pull requests and 50 open-source repositories while burning about one-ninth the tokens. That ratio is the whole argument in miniature: the general tool is not worse, it is just paying for generality you may not need. Meanwhile ChatGPT Work saves non-technical staff up to 70% of their time on cross-application tasks, and those same people would get nothing out of an IDE.
 
 So the question is not which tool is best. Here is where hosted tools actually stop being enough, what the switch to an IDE-style tool costs you, and the two mistakes that cost more than picking the wrong tool in the first place.

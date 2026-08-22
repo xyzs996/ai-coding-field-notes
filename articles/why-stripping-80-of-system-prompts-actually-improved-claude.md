@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/40) — that copy has a reply box under it, and this one does not.*
+
 When the Claude Code team decided to slash 80% of their system prompts, most developers expected the model to lose its edge in complex engineering tasks. Instead, the coding benchmarks went up.
 
 I had the same reaction most people did, which was that someone must have measured the wrong thing. If you have ever stared at a multi-thousand-word system instruction file wondering why your assistant still forgets half your codebase, that result points straight at the core flaw in how I, and probably you, have been writing prompts.

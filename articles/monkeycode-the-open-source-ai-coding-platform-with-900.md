@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/28) — that copy has a reply box under it, and this one does not.*
+
 MonkeyCode's free tier includes 900 million tokens, deploys to your own network with 1 command, and ships as open source you can read. Those three facts do different jobs, and only the first one gets attention.
 
 The free allocation is what people notice, since 900 million tokens is well beyond what most competing tools give away and beyond what a solo developer exhausts in normal work. The deployment model is what actually decides whether the tool is usable in the places where AI coding is currently blocked.

@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/26) — that copy has a reply box under it, and this one does not.*
+
 Independent developers are using AI to mass-produce local SEO content and build vertical service sites, packaging them into "digital properties" and renting them to local businesses for monthly rent between $500 and $3,000.
 
 If you have watched independent developers try to launch micro-SaaS products, you know how exhausting the traditional path is. You spend three months writing code, push it to Product Hunt, get a spike of traffic that converts at less than one percent, and then watch sign-ups flatline.

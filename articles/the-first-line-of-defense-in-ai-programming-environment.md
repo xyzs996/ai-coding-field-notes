@@ -4,6 +4,8 @@
 
 *Written with AI assistance. Figures without a traceable source were cut before publishing.*
 
+*The same piece is posted [as a thread on GitHub](https://github.com/xyzs996/llm-api-pricing/discussions/33) — that copy has a reply box under it, and this one does not.*
+
 MonkeyCode ships with 900 million free tokens and supports private deployment, which tells you exactly what its users are doing: pointing an AI coding tool at their own keys, on their own infrastructure, with no vendor sitting between the model and the repository to catch anything. The Shopify App Review Miner team arrived at the same boundary from the opposite direction, handing data parsing to the agents while authentication stayed with a person.
 
 Both cases land on the same rule. Nothing sensitive reaches a code file, and the AI never sees the credential in the first place.
