@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: AI Coding Field Notes
 description: >-
-  The OpenRouter price list, re-read daily: an LLM API pricing comparison of the cheapest LLM API for coding. Catalog as JSON and CSV.
+  Coding agent pricing comparison: cheapest LLM API for coding, cost per million tokens, from the OpenRouter price list as JSON and CSV.
 author: xyzs996
 show_downloads: false
 
