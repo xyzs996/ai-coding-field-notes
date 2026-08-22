@@ -54,7 +54,7 @@ curl -s https://cdn.jsdelivr.net/gh/xyzs996/llm-api-pricing@main/data/figures.cs
 
 ## 한마디
 
-- **이 저장소에 별을** 누르면 갱신을 따라갈 수 있습니다. 데이터는 CC BY라서 별과 무관하게 무엇이든 하실 수 있습니다.
+- **이 저장소에 별을** 누르면 갱신을 따라갈 수 있습니다. 데이터는 CC BY라서 별과 무관하게 무엇이든 하실 수 있습니다. 별이 바꾸는 것은 **다음 사람이 이 숫자를 찾을 수 있는지**입니다. GitHub은 검색 순위에도, 비슷한 저장소 추천에도 별 개수를 반영합니다.
 - **수치가 틀렸나요?** 가격이 바뀌었거나 직접 재보니 다른 값이 나왔다면 issue를 열어 주십시오. 이 저장소는 그러라고 있습니다. ([issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml))
 - **원하는 수치가 없나요?** 어떤 지표를, 어느 업체의, 어떤 단위로 —— 한 줄이면 됩니다. 필수 항목은 하나뿐이고, 들어온 요청은 새 줄이 됩니다. ([form](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml))
 

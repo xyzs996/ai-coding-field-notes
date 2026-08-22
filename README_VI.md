@@ -54,7 +54,7 @@ Bài viết bằng **tiếng Anh**, ở đây: https://xyzs996.github.io/llm-api
 
 ## Nói một câu
 
-- **Gắn sao cho kho này** để theo dõi cập nhật. Dữ liệu là CC BY: có sao hay không cũng không đổi điều bạn được làm với nó.
+- **Gắn sao cho kho này** để theo dõi cập nhật. Dữ liệu là CC BY: có sao hay không cũng không đổi điều bạn được làm với nó. Cái nó đổi là **người tiếp theo tìm những con số này** có tìm ra hay không: GitHub tính số sao khi xếp kết quả tìm kiếm và khi gợi ý các kho tương tự.
 - **Số sai?** Nếu một mức giá đã đổi, hoặc bạn tự đo ra số khác — hãy mở một issue. Kho này sinh ra để làm việc đó. ([issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml))
 - **Thiếu con số bạn cần?** Nói rõ chỉ số nào, nhà cung cấp nào, đơn vị gì — chỉ một dòng. Biểu mẫu chỉ có một ô bắt buộc, và yêu cầu sẽ được đưa thành dòng mới. ([form](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml))
 

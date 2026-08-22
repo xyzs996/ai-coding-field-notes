@@ -54,7 +54,7 @@ Los textos están **en inglés**, aquí: https://xyzs996.github.io/llm-api-prici
 
 ## Diga algo
 
-- **Marque el repositorio con una estrella** para seguir las actualizaciones. Los datos son CC BY: la estrella no cambia nada de lo que puede hacer con ellos.
+- **Marque el repositorio con una estrella** para seguir las actualizaciones. Los datos son CC BY: la estrella no cambia nada de lo que puede hacer con ellos. Lo que sí cambia es si **la próxima persona que busque estas cifras** las encuentra: GitHub cuenta las estrellas al ordenar los resultados de búsqueda y al sugerir repositorios parecidos.
 - **¿Una cifra está mal?** Si un precio cambió o usted midió otra cosa, abra un issue. Para eso existe este repositorio. ([issue](https://github.com/xyzs996/llm-api-pricing/issues/new?template=correction.yml))
 - **¿Falta una cifra?** Diga qué métrica, qué proveedor y en qué unidad, en una línea — el formulario tiene un solo campo obligatorio y las peticiones se convierten en filas. ([form](https://github.com/xyzs996/llm-api-pricing/issues/new?template=figure.yml))
 

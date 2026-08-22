@@ -38,7 +38,9 @@ That page has a reply box; this one does not.
 
 **Star this repository** to bookmark the table and follow releases.
 The data is CC BY: a star changes nothing about what you can do with
-it, and this project gives nothing in return for one.
+it. What a star does change is whether the next person looking for
+these numbers finds them — GitHub weighs star count in search results
+and in the repositories it suggests alongside this one.
 
 **Read these on the web:** [AI Coding Field Notes](https://xyzs996.github.io/llm-api-pricing/) — the same write-ups with the figures table, the topic pages and the
 links between them.
