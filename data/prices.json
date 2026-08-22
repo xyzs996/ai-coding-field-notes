@@ -11,6 +11,32 @@
     "source": "https://gist.github.com/hungson175/91147b729afdf9fd691342359265731b",
     "note": "One person's measurement of one coding agent. Recompute with your own mix; the inputs are all here."
   },
+  "vendor_checked": {
+    "deepseek/deepseek-v4-pro": {
+      "vendor": "DeepSeek",
+      "vendor_model": "deepseek-v4-pro",
+      "vendor_page": "https://api-docs.deepseek.com/quick_start/pricing/",
+      "checked": "2026-08-22",
+      "off_peak": {
+        "cache_read": 0.022,
+        "input": 0.66,
+        "output": 1.98
+      },
+      "peak": {
+        "cache_read": 0.044,
+        "input": 1.32,
+        "output": 3.96
+      },
+      "peak_windows_utc": [
+        "01:00-04:00",
+        "06:00-10:00"
+      ],
+      "weekend_off_peak_from": "2026-08-23",
+      "weekend_timezone": "Asia/Shanghai",
+      "effective_off_peak": 0.053645,
+      "effective_peak": 0.10729
+    }
+  },
   "rows": [
     {
       "model": "Gemini 3.7 Flash",
