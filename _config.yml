@@ -19,6 +19,7 @@ defaults:
       path: "prices.md"
     values:
       description: "List price per million tokens for every model ranked in an agent category of the Design Arena — input, output, cached input, context window and rank, as JSON and CSV, re-read daily from a public catalog."
+      image: "https://xyzs996.github.io/llm-api-pricing/assets/cards/prices.png"
   - scope:
       path: "topics/indie-development.md"
     values:
