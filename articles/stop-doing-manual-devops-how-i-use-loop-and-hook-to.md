@@ -54,6 +54,9 @@ If your current project is still a loose, exploratory prototype experiencing rap
 
 **Beyond core architecture and early prototypes, manual oversight is key for operations involving sensitive permissions, financial transactions, or unverified external dependencies.** When systems connect to dozens of external tools and APIs, automated agents must still pause for human confirmation before executing critical state changes to ensure absolute security. Establishing strict human-in-the-loop boundaries prevents background scripts from compounding minor errors into critical production failures. > 🔴.
 
+*Also readable on [Telegraph](https://telegra.ph/Stop-Doing-Manual-DevOps-How-I-Use-loop-and-hook-to-Automate-My-Daily-Indie-Hacker-Tasks-08-22).*
+
+
 ---
 
 **Read next**
